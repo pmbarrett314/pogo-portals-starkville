@@ -1,9 +1,18 @@
 {
  "gyms": {
+  "00e5d92cd7a44ef8a8c57ec92103d935.16": {
+   "cells": {
+    "14": "F4ij[2233,8443]@14"
+   },
+   "guid": "00e5d92cd7a44ef8a8c57ec92103d935.16",
+   "isEx": true,
+   "lat": 33.470264,
+   "lng": -88.811828,
+   "name": "Starkville Dog Park"
+  },
   "066515669f9f4b2fa92b60aa64ba2c93.16": {
    "cells": {
-    "14": "F4ij[2237,8447]@14",
-    "17": "F4ij[17898,67578]@17"
+    "14": "F4ij[2237,8447]@14"
    },
    "guid": "066515669f9f4b2fa92b60aa64ba2c93.16",
    "lat": 33.447601,
@@ -12,30 +21,25 @@
   },
   "08b94fc943b14944a7c602a44a619838.16": {
    "cells": {
-    "14": "F4ij[2234,8446]@14",
-    "17": "F4ij[17876,67575]@17"
+    "14": "F4ij[2234,8446]@14"
    },
    "guid": "08b94fc943b14944a7c602a44a619838.16",
-   "image": "http://lh4.ggpht.com/1suOaa41LSntNoWpfAbWlogb9bxzhCgD-e6DyjhsPvx-_mO-hIynYi0RJFyfiOfHu11bHDHo-fZycQaJWjo",
    "lat": 33.463127,
    "lng": -88.793185,
    "name": "Dudy Noble Field "
   },
   "0a83eddbd92d4889ba32bf9157f3a508.16": {
    "cells": {
-    "14": "F4ij[2234,8444]@14",
-    "17": "F4ij[17876,67552]@17"
+    "14": "F4ij[2234,8444]@14"
    },
    "guid": "0a83eddbd92d4889ba32bf9157f3a508.16",
-   "image": "http://lh4.ggpht.com/jiiacKIV67p8Kr59UExifUbJlf1706aW52HgYPTvf3ByvklBJQC26zZfrvp01O5to6TIbQpY3UPVIuZJ0rlG",
    "lat": 33.463246,
    "lng": -88.806658,
    "name": "Cotton District Farmer's Market"
   },
   "11284338cdb1437eb466e940ffa965cc.16": {
    "cells": {
-    "14": "F4ij[2237,8438]@14",
-    "17": "F4ij[17902,67508]@17"
+    "14": "F4ij[2237,8438]@14"
    },
    "guid": "11284338cdb1437eb466e940ffa965cc.16",
    "isEx": true,
@@ -54,8 +58,7 @@
   },
   "31574f568845457bb242fa6a67a79c15.16": {
    "cells": {
-    "14": "F4ij[2236,8439]@14",
-    "17": "F4ij[17891,67515]@17"
+    "14": "F4ij[2236,8439]@14"
    },
    "guid": "31574f568845457bb242fa6a67a79c15.16",
    "lat": 33.452893,
@@ -64,8 +67,7 @@
   },
   "32ad2de7ebed46cf8a834e95e62e93d0.16": {
    "cells": {
-    "14": "F4ij[2236,8438]@14",
-    "17": "F4ij[17889,67509]@17"
+    "14": "F4ij[2236,8438]@14"
    },
    "guid": "32ad2de7ebed46cf8a834e95e62e93d0.16",
    "lat": 33.454276,
@@ -74,11 +76,9 @@
   },
   "3eb3b468d7244e1cb3ef47d109df033f.16": {
    "cells": {
-    "14": "F4ij[2237,8438]@14",
-    "17": "F4ij[17903,67509]@17"
+    "14": "F4ij[2237,8438]@14"
    },
    "guid": "3eb3b468d7244e1cb3ef47d109df033f.16",
-   "isEx": true,
    "lat": 33.444696,
    "lng": -88.832672,
    "name": "Cool Papa Bell Memorial Marker"
@@ -92,10 +92,18 @@
    "lng": -88.830117,
    "name": "Travis Outlaw Center Mural"
   },
+  "4296d50346124a3fac19c53ae1762fa3.16": {
+   "cells": {
+    "14": "F4ij[2232,8440]@14"
+   },
+   "guid": "4296d50346124a3fac19c53ae1762fa3.16",
+   "lat": 33.475782,
+   "lng": -88.825516,
+   "name": "Trinity Presbyterian Church Cross"
+  },
   "462e33376f46464c8f8e62f04dff743a.16": {
    "cells": {
-    "14": "F4ij[2234,8442]@14",
-    "17": "F4ij[17877,67538]@17"
+    "14": "F4ij[2234,8442]@14"
    },
    "guid": "462e33376f46464c8f8e62f04dff743a.16",
    "lat": 33.46262,
@@ -104,41 +112,43 @@
   },
   "5e244b21afb74d8793ed4bef70d1a82d.11": {
    "cells": {
-    "14": "F4ij[2235,8446]@14",
-    "17": "F4ij[17883,67573]@17"
+    "14": "F4ij[2235,8446]@14"
    },
    "guid": "5e244b21afb74d8793ed4bef70d1a82d.11",
-   "image": "http://lh3.googleusercontent.com/c7TGDpRYmxeIbtA8NaNMyuiI2KTKgLxVL_smxpBBV8nA6y2iOobYq59jsr_hJv_b_8qszQASTG_X1pxBTaee",
    "lat": 33.458152,
    "lng": -88.794464,
    "name": "Michel John Petro Memorial"
   },
   "607eeae03e764b8bb1b20e9f15436ff4.16": {
    "cells": {
-    "14": "F4ij[2236,8446]@14",
-    "17": "F4ij[17888,67573]@17"
+    "14": "F4ij[2236,8446]@14"
    },
    "guid": "607eeae03e764b8bb1b20e9f15436ff4.16",
-   "image": "http://lh6.ggpht.com/yaaU75jLJcAssa8x6icqlIwFyjuVDZyo9VhaPHD10aq_HzJuJt5FpM8Qt1dCeaiPhOSY3wMDS6IRtTKm4_8",
    "lat": 33.454392,
    "lng": -88.793888,
    "name": "MSU Bully Statue"
   },
   "675f0cf8b67341d785333d594c53e130.16": {
    "cells": {
-    "14": "F4ij[2235,8444]@14",
-    "17": "F4ij[17883,67555]@17"
+    "14": "F4ij[2235,8444]@14"
    },
    "guid": "675f0cf8b67341d785333d594c53e130.16",
-   "image": "http://lh3.ggpht.com/M6MrYmzawrq_38xoiuvcdU1o5cFud1FRAs15bKaatKaD74nTfrVBGx2d92EnV8s2vxfBFFfvM6_Z8Qkq6vTf",
    "lat": 33.458202,
    "lng": -88.805222,
    "name": "Cotton Crossing Clock Tower"
   },
+  "68521397b0284935959b9e464df5f8df.16": {
+   "cells": {
+    "14": "F4ij[2233,8442]@14"
+   },
+   "guid": "68521397b0284935959b9e464df5f8df.16",
+   "lat": 33.469904,
+   "lng": -88.814033,
+   "name": "Moncrief Park"
+  },
   "6bf013c06d10407794af3f1510c666fe.16": {
    "cells": {
-    "14": "F4ij[2234,8443]@14",
-    "17": "F4ij[17872,67549]@17"
+    "14": "F4ij[2234,8443]@14"
    },
    "guid": "6bf013c06d10407794af3f1510c666fe.16",
    "lat": 33.465674,
@@ -147,11 +157,9 @@
   },
   "797593fc934f4d1ca98e9b16a65344a0.16": {
    "cells": {
-    "14": "F4ij[2236,8447]@14",
-    "17": "F4ij[17890,67579]@17"
+    "14": "F4ij[2236,8447]@14"
    },
    "guid": "797593fc934f4d1ca98e9b16a65344a0.16",
-   "image": "http://lh3.ggpht.com/FK99XZyFbe0QNdc8ZE5sHkdWTsLXnzbrIh1Yhcj3AOtWommMUsYljfhNjvB7jhQ_fLRgM5uDLOZ1w_9jgZo6",
    "lat": 33.453061,
    "lng": -88.790386,
    "name": "G.V. Sonny Montgomery Statue"
@@ -167,30 +175,25 @@
   },
   "87afb550758e49438751ad417b548ccb.16": {
    "cells": {
-    "14": "F4ij[2234,8447]@14",
-    "17": "F4ij[17879,67579]@17"
+    "14": "F4ij[2234,8447]@14"
    },
    "guid": "87afb550758e49438751ad417b548ccb.16",
-   "image": "http://lh5.ggpht.com/pPWlcw7Nau_Q0XGcP_20Vd7bfuldr5h7Fk3yzcRN35hj8EVDCAQl0JUAZppei8S1ii-XShIrY9UDlBMsoPw",
    "lat": 33.460842,
    "lng": -88.790798,
    "name": "Mississippi State University Frank Sanderson Center"
   },
   "8ecb2160a519499aa5b1915dcc020881.16": {
    "cells": {
-    "14": "F4ij[2235,8447]@14",
-    "17": "F4ij[17881,67576]@17"
+    "14": "F4ij[2235,8447]@14"
    },
    "guid": "8ecb2160a519499aa5b1915dcc020881.16",
-   "image": "http://lh6.ggpht.com/xdv7vljsj-NC4AwxJOlPQFyTJsFmoDpLH_BEbzQWWUhKBXfAuApYbrCRTgV47zZM6Fqz04cl5QCywiRG-mc",
    "lat": 33.459731,
    "lng": -88.792581,
    "name": "MS State University Water Tower"
   },
   "90b0a5bffef14015b01fb7a7cb4fb3bf.16": {
    "cells": {
-    "14": "F4ij[2236,8441]@14",
-    "17": "F4ij[17889,67528]@17"
+    "14": "F4ij[2236,8441]@14"
    },
    "guid": "90b0a5bffef14015b01fb7a7cb4fb3bf.16",
    "lat": 33.454064,
@@ -199,19 +202,16 @@
   },
   "926c2ec6ca8547e4908881e2201fc154.16": {
    "cells": {
-    "14": "F4ij[2235,8446]@14",
-    "17": "F4ij[17885,67572]@17"
+    "14": "F4ij[2235,8446]@14"
    },
    "guid": "926c2ec6ca8547e4908881e2201fc154.16",
-   "image": "http://lh6.ggpht.com/692uBpkJXQQj0M_yxqrgq5aKw115a-elyUhTPi6LNHBjzIoJkB9Ntnd32rMkUb2PfZJDoHE3BJdfAs21ymQb6w",
    "lat": 33.456594,
    "lng": -88.794603,
    "name": "Davis Wade Stadium "
   },
   "93c23f127fcb4f93a6a4d6ee7fcc36c2.16": {
    "cells": {
-    "14": "F4ij[2234,8443]@14",
-    "17": "F4ij[17875,67548]@17"
+    "14": "F4ij[2234,8443]@14"
    },
    "guid": "93c23f127fcb4f93a6a4d6ee7fcc36c2.16",
    "lat": 33.4636,
@@ -229,8 +229,7 @@
   },
   "9e1113075ce24618a251b76cb46324d4.16": {
    "cells": {
-    "14": "F4ij[2234,8442]@14",
-    "17": "F4ij[17875,67540]@17"
+    "14": "F4ij[2234,8442]@14"
    },
    "guid": "9e1113075ce24618a251b76cb46324d4.16",
    "lat": 33.46407,
@@ -248,8 +247,7 @@
   },
   "a667c64955fe4695afe3cf0699aa750e.12": {
    "cells": {
-    "14": "F4ij[2234,8441]@14",
-    "17": "F4ij[17877,67533]@17"
+    "14": "F4ij[2234,8441]@14"
    },
    "guid": "a667c64955fe4695afe3cf0699aa750e.12",
    "lat": 33.462816,
@@ -258,30 +256,25 @@
   },
   "a9a248b477074feeba80a992888cf064.12": {
    "cells": {
-    "14": "F4ij[2235,8447]@14",
-    "17": "F4ij[17887,67580]@17"
+    "14": "F4ij[2235,8447]@14"
    },
    "guid": "a9a248b477074feeba80a992888cf064.12",
-   "image": "http://lh6.ggpht.com/AvNWu08uNKAdfTsL_XctvBKFbH_NsqKTuOL6ETcwwCfM7Vfpw_MZcAdLRWrOVHqyGlJDkGtp2wE2kQpdwzXc",
    "lat": 33.45553,
    "lng": -88.789955,
    "name": "US Post Office - MSU"
   },
   "ab5cde62e5674659926492cbcced65b9.16": {
    "cells": {
-    "14": "F4ij[2235,8444]@14",
-    "17": "F4ij[17882,67559]@17"
+    "14": "F4ij[2235,8444]@14"
    },
    "guid": "ab5cde62e5674659926492cbcced65b9.16",
-   "image": "http://lh3.googleusercontent.com/9DecxB0UMic9qAqMgSfSty0q3duDtfvCHYr7HJ63p-Pmu99QjP46hHWGDNATjuNGZ_N3iUQJWOuHAonDeYEM",
    "lat": 33.458995,
    "lng": -88.802398,
    "name": "Cotton District Book Shop Mural"
   },
   "b0afd427898a4857b80c36e8033c8c34.16": {
    "cells": {
-    "14": "F4ij[2232,8447]@14",
-    "17": "F4ij[17863,67578]@17"
+    "14": "F4ij[2232,8447]@14"
    },
    "guid": "b0afd427898a4857b80c36e8033c8c34.16",
    "lat": 33.471806,
@@ -290,30 +283,25 @@
   },
   "b1032a30217c45a98124e80b34747d24.16": {
    "cells": {
-    "14": "F4ij[2236,8448]@14",
-    "17": "F4ij[17890,67584]@17"
+    "14": "F4ij[2236,8448]@14"
    },
    "guid": "b1032a30217c45a98124e80b34747d24.16",
-   "image": "http://lh5.ggpht.com/Q5RHd65Ru3_W8NlBJxHjcLWzAoBTdIahnVOpYuYycJ-GAqQu09FooHz05rdfWEWDL8wgo6fa9aPVijWv65ZD0g",
    "lat": 33.453046,
    "lng": -88.787664,
    "name": "Eta Kappa Nu Pedestal"
   },
   "ba57223a6e5148e3a4eee741ccfbdf0b.16": {
    "cells": {
-    "14": "F4ij[2235,8448]@14",
-    "17": "F4ij[17883,67585]@17"
+    "14": "F4ij[2235,8448]@14"
    },
    "guid": "ba57223a6e5148e3a4eee741ccfbdf0b.16",
-   "image": "http://lh6.ggpht.com/xNw8WP8AR4J73ejP7I9HV_AxvPknduW3Sevk27O-yi2n-SVAPImmUv5AxFjbmp66k2ly-2vwJnflxBumwLzL",
    "lat": 33.458013,
    "lng": -88.786906,
    "name": "Memorial to Residence Halls of the Past"
   },
   "ba8b6e78569248839a4540688720f6c8.16": {
    "cells": {
-    "14": "F4ij[2236,8447]@14",
-    "17": "F4ij[17891,67579]@17"
+    "14": "F4ij[2236,8447]@14"
    },
    "guid": "ba8b6e78569248839a4540688720f6c8.16",
    "image": "http://lh6.ggpht.com/UnPD7ZOmpmfy32P3-3H-Bh1Th8n7A1GyAC6xIop0TB_lC6L8Oq2CgbL3KzLBpdNdVd0NHDPJfrOZ5CpUsqK0",
@@ -323,10 +311,10 @@
   },
   "bbaee61cf41146c191a8f8798b1eb75b.16": {
    "cells": {
-    "14": "F4ij[2238,8438]@14",
-    "17": "F4ij[17905,67507]@17"
+    "14": "F4ij[2238,8438]@14"
    },
    "guid": "bbaee61cf41146c191a8f8798b1eb75b.16",
+   "isEx": true,
    "lat": 33.443391,
    "lng": -88.833603,
    "name": "Zaxby's Little League Baseball Field"
@@ -351,8 +339,7 @@
   },
   "dbfa573ff13343908713238b55b5134d.16": {
    "cells": {
-    "14": "F4ij[2237,8441]@14",
-    "17": "F4ij[17897,67533]@17"
+    "14": "F4ij[2237,8441]@14"
    },
    "guid": "dbfa573ff13343908713238b55b5134d.16",
    "lat": 33.448293,
@@ -361,19 +348,16 @@
   },
   "e04a804845a7444c8e695b0e1b0de61f.12": {
    "cells": {
-    "14": "F4ij[2235,8443]@14",
-    "17": "F4ij[17881,67551]@17"
+    "14": "F4ij[2235,8443]@14"
    },
    "guid": "e04a804845a7444c8e695b0e1b0de61f.12",
-   "image": "http://lh6.ggpht.com/kAup2qr5u2cwMCAcEmxVsOLHVYImtarJ8_ygukJEIjzsMluFUWUJwj6IbmovIf2Iv060pQ7Jpa2cCvPDt5P8",
    "lat": 33.459963,
    "lng": -88.807468,
    "name": "Oktibbeha County History Museu"
   },
   "e1be53b4ce93420a8dd1f2968bbca299.16": {
    "cells": {
-    "14": "F4ij[2235,8448]@14",
-    "17": "F4ij[17884,67590]@17"
+    "14": "F4ij[2235,8448]@14"
    },
    "guid": "e1be53b4ce93420a8dd1f2968bbca299.16",
    "lat": 33.456955,
@@ -382,8 +366,7 @@
   },
   "ec501405fe2145989c56310236141d86.16": {
    "cells": {
-    "14": "F4ij[2233,8449]@14",
-    "17": "F4ij[17866,67597]@17"
+    "14": "F4ij[2233,8449]@14"
    },
    "guid": "ec501405fe2145989c56310236141d86.16",
    "lat": 33.469947,
@@ -392,30 +375,25 @@
   },
   "ec94117a4cda446c92448131768eaa31.16": {
    "cells": {
-    "14": "F4ij[2236,8448]@14",
-    "17": "F4ij[17894,67587]@17"
+    "14": "F4ij[2236,8448]@14"
    },
    "guid": "ec94117a4cda446c92448131768eaa31.16",
-   "image": "http://lh3.ggpht.com/Vs8oq3vOeViBbhu1YNbpDaAKp1zXoitqgMhs9oXThR6B_y9KHZZU_PhUMOxnOpueymx8t6vEwMleRPVJVcKy",
    "lat": 33.450552,
    "lng": -88.785887,
    "name": "Eckie's Pond"
   },
   "f02bed6d38234e6d8f92b3387ac91626.16": {
    "cells": {
-    "14": "F4ij[2236,8447]@14",
-    "17": "F4ij[17890,67582]@17"
+    "14": "F4ij[2236,8447]@14"
    },
    "guid": "f02bed6d38234e6d8f92b3387ac91626.16",
-   "image": "http://lh5.ggpht.com/rTrqHC8Q2mv1oAwk4ZMjQ1Ww3fpNoBWvi1XsMerIAgJ-MiIbTYhyd2mPloE2h04-c4Ovtu5aRBTgC7_u4k6TFQ",
    "lat": 33.453322,
    "lng": -88.788824,
    "name": "The Wiley Carter Memorial"
   },
   "f9c85bc3e5c7437e909dd3f907e81a36.16": {
    "cells": {
-    "14": "F4ij[2232,8448]@14",
-    "17": "F4ij[17862,67586]@17"
+    "14": "F4ij[2232,8448]@14"
    },
    "guid": "f9c85bc3e5c7437e909dd3f907e81a36.16",
    "lat": 33.472685,
@@ -424,8 +402,7 @@
   },
   "fe80777a21b94ae595484bf0349483ea.16": {
    "cells": {
-    "14": "F4ij[2234,8448]@14",
-    "17": "F4ij[17879,67591]@17"
+    "14": "F4ij[2234,8448]@14"
    },
    "guid": "fe80777a21b94ae595484bf0349483ea.16",
    "lat": 33.460777,
@@ -436,8 +413,7 @@
  "pokestops": {
   "04ccc8c7e3454f13ae664119dfc8e271.16": {
    "cells": {
-    "14": "F4ij[2234,8443]@14",
-    "17": "F4ij[17875,67549]@17"
+    "14": "F4ij[2234,8443]@14"
    },
    "guid": "04ccc8c7e3454f13ae664119dfc8e271.16",
    "lat": 33.463642,
@@ -446,8 +422,7 @@
   },
   "067fd38929724470bbfa7a4a62a82cf3.16": {
    "cells": {
-    "14": "F4ij[2234,8443]@14",
-    "17": "F4ij[17878,67546]@17"
+    "14": "F4ij[2234,8443]@14"
    },
    "guid": "067fd38929724470bbfa7a4a62a82cf3.16",
    "lat": 33.461906,
@@ -456,8 +431,7 @@
   },
   "0ae23c69be9b48eb906d624d9192cd29.16": {
    "cells": {
-    "14": "F4ij[2231,8446]@14",
-    "17": "F4ij[17850,67569]@17"
+    "14": "F4ij[2231,8446]@14"
    },
    "guid": "0ae23c69be9b48eb906d624d9192cd29.16",
    "lat": 33.481133,
@@ -466,63 +440,52 @@
   },
   "0af93c334cda4a03a3d7e99f37cd9d74.11": {
    "cells": {
-    "14": "F4ij[2236,8448]@14",
-    "17": "F4ij[17888,67585]@17"
+    "14": "F4ij[2236,8448]@14"
    },
    "guid": "0af93c334cda4a03a3d7e99f37cd9d74.11",
-   "image": "http://lh3.ggpht.com/W0_Am-6_dpKc8Mq5gm28joTsVz8qqsGO8OdZjdbGz7SfKBFDgKDCTQEijqz3xlzvEpaj1v_raZZJVa1KUK16N6cbWx3f-frjwOoByx7jiYbWQHk",
    "lat": 33.454831,
    "lng": -88.787258,
    "name": "Cobb Institute of Archaeology"
   },
   "0e05ecd643d949e48fa8133ae470a6ae.11": {
    "cells": {
-    "14": "F4ij[2236,8447]@14",
-    "17": "F4ij[17889,67583]@17"
+    "14": "F4ij[2236,8447]@14"
    },
    "guid": "0e05ecd643d949e48fa8133ae470a6ae.11",
-   "image": "http://lh3.ggpht.com/cafO9adjB2i7Em3n4ZMzTLOLbytOHaOG4O6QpS5p0u0_ZpRg15HXpYemYCBpuMYsRLuvPmMc6nFTXQSwzxaYnzrSaSPav3bn4j7bTn6lRwusfJz6",
    "lat": 33.453761,
    "lng": -88.788372,
    "name": "MSU Engineering Sculpture"
   },
   "11b7918b17b448be9a8fc15b3f3f3871.16": {
    "cells": {
-    "14": "F4ij[2235,8447]@14",
-    "17": "F4ij[17885,67581]@17"
+    "14": "F4ij[2235,8447]@14"
    },
    "guid": "11b7918b17b448be9a8fc15b3f3f3871.16",
-   "image": "http://lh3.googleusercontent.com/pYjnBJkFgtf3ulK7BhqNQ48tMQ1OfwWLs14FOhjV0CpmiTIJ6Qp_r4njuw8IP1wAntTae1SdRLKkFqlYPfog",
    "lat": 33.456758,
    "lng": -88.789554,
    "name": "Old Main Academic Center "
   },
   "11dcf55ab74746dfb8bd2c9badbb00be.16": {
    "cells": {
-    "14": "F4ij[2236,8447]@14",
-    "17": "F4ij[17889,67582]@17"
+    "14": "F4ij[2236,8447]@14"
    },
    "guid": "11dcf55ab74746dfb8bd2c9badbb00be.16",
-   "image": "http://lh4.ggpht.com/kUdk9OmI3MD5GSc69FZiXf7G8wiEw7Ph2b02sVnV2yJqDXqX5Sz0JjO2gEIdhJJoWqztiZnf0zGXQmL2pKqwkQ",
    "lat": 33.453663,
    "lng": -88.788733,
    "name": "Pam Miller Memorial"
   },
   "1319dcc784dc4ea9ad82cb598b57cb48.16": {
    "cells": {
-    "14": "F4ij[2234,8443]@14",
-    "17": "F4ij[17876,67551]@17"
+    "14": "F4ij[2234,8443]@14"
    },
    "guid": "1319dcc784dc4ea9ad82cb598b57cb48.16",
-   "image": "http://lh6.ggpht.com/_sMPlIBt_lvEMg3zDHEnwIzbfxtYXgkxDUF2PWCfRlOrK8rJgpdH8pCDjXDwuIqITLWabudaGdkwwMg882uM",
    "lat": 33.462873,
    "lng": -88.807334,
    "name": "The Little Dooey"
   },
   "135254240c7c45e885df2f9525cc7da8.16": {
    "cells": {
-    "14": "F4ij[2237,8438]@14",
-    "17": "F4ij[17901,67507]@17"
+    "14": "F4ij[2237,8438]@14"
    },
    "guid": "135254240c7c45e885df2f9525cc7da8.16",
    "lat": 33.445991,
@@ -531,8 +494,7 @@
   },
   "147c7086a0224efa977f616b9913bceb.16": {
    "cells": {
-    "14": "F4ij[2237,8438]@14",
-    "17": "F4ij[17901,67511]@17"
+    "14": "F4ij[2237,8438]@14"
    },
    "guid": "147c7086a0224efa977f616b9913bceb.16",
    "lat": 33.446128,
@@ -541,21 +503,27 @@
   },
   "15fd402758034ad49831ed8ad1a83fb2.16": {
    "cells": {
-    "14": "F4ij[2234,8441]@14",
-    "17": "F4ij[17875,67535]@17"
+    "14": "F4ij[2234,8441]@14"
    },
    "guid": "15fd402758034ad49831ed8ad1a83fb2.16",
    "lat": 33.464217,
    "lng": -88.816699,
    "name": "Unity Park"
   },
+  "1779e3364ab74c259e1bc6c128ac2c05.16": {
+   "cells": {
+    "14": "F4ij[2230,8443]@14"
+   },
+   "guid": "1779e3364ab74c259e1bc6c128ac2c05.16",
+   "lat": 33.483632,
+   "lng": -88.810008,
+   "name": "Northside Church of Christ"
+  },
   "18a4a83093c94d09a36246230214c258.16": {
    "cells": {
-    "14": "F4ij[2235,8446]@14",
-    "17": "F4ij[17883,67575]@17"
+    "14": "F4ij[2235,8446]@14"
    },
    "guid": "18a4a83093c94d09a36246230214c258.16",
-   "image": "http://lh5.ggpht.com/MbN2Asj7z-VUqcIQOJAdq87t-nxGeghoKOx3tiwAOeQXcNfM3H0hHIfBBr-krEScWGNUCmQ6HpJaVh3Chj4",
    "lat": 33.457962,
    "lng": -88.792949,
    "name": "Memorial Hall Abstract Art"
@@ -589,19 +557,16 @@
   },
   "1c038ac25705468a9190ee14daae6eda.16": {
    "cells": {
-    "14": "F4ij[2236,8446]@14",
-    "17": "F4ij[17888,67574]@17"
+    "14": "F4ij[2236,8446]@14"
    },
    "guid": "1c038ac25705468a9190ee14daae6eda.16",
-   "image": "http://lh6.ggpht.com/umNxs4wZblqZEn-587X97_A2mBXQhpzUkVCw1BOhX2FsDvBm9ZaNSU_lWZ_XmV996gYCM2txmZDtiF5_m6wl",
    "lat": 33.454844,
    "lng": -88.79378,
    "name": "Mobile & Ohio Railroad Memorial"
   },
   "1d1dee6628524d909c770a2112dd4889.16": {
    "cells": {
-    "14": "F4ij[2234,8442]@14",
-    "17": "F4ij[17875,67536]@17"
+    "14": "F4ij[2234,8442]@14"
    },
    "guid": "1d1dee6628524d909c770a2112dd4889.16",
    "lat": 33.463995,
@@ -610,32 +575,36 @@
   },
   "1e7fb0ff4e09449b9db3eeb65cec7d34.16": {
    "cells": {
-    "14": "F4ij[2235,8447]@14",
-    "17": "F4ij[17886,67579]@17"
+    "14": "F4ij[2235,8447]@14"
    },
    "guid": "1e7fb0ff4e09449b9db3eeb65cec7d34.16",
-   "image": "http://lh3.ggpht.com/o6Jjd6_fJQa4-gUhcf3Msay7f8ri7hjRionNAQuwiIfib2tDf7MvYprnCzjkpY6b9bC6tEBIf-8vymt9X0g",
    "lat": 33.455635,
    "lng": -88.790691,
    "name": "Original Chapel Bell"
   },
   "2021863c506c4e8db122bc6f77df5b4e.16": {
    "cells": {
-    "14": "F4ij[2238,8438]@14",
-    "17": "F4ij[17905,67509]@17"
+    "14": "F4ij[2238,8438]@14"
    },
    "guid": "2021863c506c4e8db122bc6f77df5b4e.16",
    "lat": 33.442718,
    "lng": -88.832571,
    "name": "McKee Park"
   },
+  "212e42dd021444b581e925a2860b9509.16": {
+   "cells": {
+    "14": "F4ij[2233,8443]@14"
+   },
+   "guid": "212e42dd021444b581e925a2860b9509.16",
+   "lat": 33.469686,
+   "lng": -88.8117,
+   "name": "Starkville Inline Hockey League"
+  },
   "21abda3f9f0f4744a5f1eb7b3afc1b7d.16": {
    "cells": {
-    "14": "F4ij[2236,8447]@14",
-    "17": "F4ij[17895,67578]@17"
+    "14": "F4ij[2236,8447]@14"
    },
    "guid": "21abda3f9f0f4744a5f1eb7b3afc1b7d.16",
-   "image": "http://lh5.ggpht.com/4JksJiRE6MnrAA77hAXnKg7W6sul_qLdReev9uxYdoGJq0Y-EyMVhIpuEf8P5GHsozisbaMTDkeZIq04UQQsAQ",
    "lat": 33.449436,
    "lng": -88.791085,
    "name": "Rice Hall"
@@ -651,11 +620,9 @@
   },
   "2688af59b2324f62b6b556d83d44497f.11": {
    "cells": {
-    "14": "F4ij[2235,8446]@14",
-    "17": "F4ij[17883,67568]@17"
+    "14": "F4ij[2235,8446]@14"
    },
    "guid": "2688af59b2324f62b6b556d83d44497f.11",
-   "image": "http://lh6.ggpht.com/w3wKvVJT7i6qURf1Ze4nC5kQDSGfTznBpUzo9JlMQu7IFZHfMusEx1JLVA_riEap7oayMUipa1Kb09nNcuCF3PPYVmo2RC1-aAw-3JLdmlutaQ0U",
    "lat": 33.458376,
    "lng": -88.797185,
    "name": "Hunter Henry Center"
@@ -671,73 +638,62 @@
   },
   "294ce7e5d847449dbdf1359a15a4bb20.16": {
    "cells": {
-    "14": "F4ij[2236,8447]@14",
-    "17": "F4ij[17888,67578]@17"
+    "14": "F4ij[2236,8447]@14"
    },
    "guid": "294ce7e5d847449dbdf1359a15a4bb20.16",
-   "image": "http://lh6.ggpht.com/5dYe12-zy5fD01_rqyiuqWoJK_WDMCpyApgHWA1ZlCWPOEKo7yOhbDhoyaebCfUBvQwYGntUM7MPgh5iZfJm",
    "lat": 33.454511,
    "lng": -88.790909,
    "name": "Perry Cafeteria"
   },
   "294dba23c11540efb0c2facd8dde09a2.11": {
    "cells": {
-    "14": "F4ij[2235,8447]@14",
-    "17": "F4ij[17887,67581]@17"
+    "14": "F4ij[2235,8447]@14"
    },
    "guid": "294dba23c11540efb0c2facd8dde09a2.11",
-   "image": "http://lh5.ggpht.com/pmZ7SafBvvFY7BvacMyZ-sazvVKzteXjDvS0OPYmQRkHuhILzF01wXTBYCmkho8erG1zHXp4GWcKz4DjLDbLi5hBhSWtdXzC9DIgpggv0A5FiAx8Ig",
    "lat": 33.455539,
    "lng": -88.789574,
    "name": "Class of 1924 Memorial"
   },
   "2a9c9ce14d5447248ae42c74df5236f2.16": {
    "cells": {
-    "14": "F4ij[2236,8444]@14",
-    "17": "F4ij[17888,67553]@17"
+    "14": "F4ij[2236,8444]@14"
    },
    "guid": "2a9c9ce14d5447248ae42c74df5236f2.16",
-   "image": "http://lh6.ggpht.com/k8lVz9-Ytb5TuC-71KtsGfiEhVemwHpXXP_nQoESu865jgovz8i1lkx8bFDcfFTItizIBRi6ki6Xn56WvXOI",
    "lat": 33.454853,
    "lng": -88.806148,
    "name": "Strange Brew Monster Statue"
   },
   "2d09011c6c1b4e15ba6fe40e9e74223b.16": {
    "cells": {
-    "14": "F4ij[2236,8446]@14",
-    "17": "F4ij[17888,67575]@17"
+    "14": "F4ij[2236,8446]@14"
    },
    "guid": "2d09011c6c1b4e15ba6fe40e9e74223b.16",
-   "image": "http://lh6.ggpht.com/D7j7DiOmMXFuxAUXlgLWxucFXuJB4lQmHuXvDWfvcrYpph3ueHU3d1vbG4KA6YOoVn3qIuFTzh4qV6GjBcA",
    "lat": 33.454604,
    "lng": -88.79296,
    "name": "MSU Bully Statue 1"
   },
   "2e63fd87154946779b456f3372fec486.16": {
    "cells": {
-    "14": "F4ij[2237,8447]@14",
-    "17": "F4ij[17897,67581]@17"
+    "14": "F4ij[2237,8447]@14"
    },
    "guid": "2e63fd87154946779b456f3372fec486.16",
-   "image": "http://lh3.googleusercontent.com/eZH4STPSwgVltDgImvnfk9Hr7bsrYZGMTh3CMrmQ8MsmhfUb7dWhPHdkCTizgxADaOP9WQQ6QC3xrSJf_952XQ",
    "lat": 33.448021,
    "lng": -88.789371,
    "name": "MSU Band and Choral Rehearsal Hall"
   },
   "2f4b00533cd84253b5ea57c4d50e4561.16": {
    "cells": {
-    "14": "F4ij[2237,8445]@14",
-    "17": "F4ij[17901,67563]@17"
+    "14": "F4ij[2237,8445]@14"
    },
    "guid": "2f4b00533cd84253b5ea57c4d50e4561.16",
+   "image": "http://lh3.googleusercontent.com/YUDlZQDH1mhiRK7tZHrlRnbDqhU2XYY4-5X2ErGBwATyRy_Kmv2CGrY3saplUFKGTTO3bh1x5Qdyra50plV5mw",
    "lat": 33.445296,
    "lng": -88.80033,
    "name": "Wise Center"
   },
   "2fb222cca0274a60a78832a96898fee8.16": {
    "cells": {
-    "14": "F4ij[2238,8441]@14",
-    "17": "F4ij[17908,67532]@17"
+    "14": "F4ij[2238,8441]@14"
    },
    "guid": "2fb222cca0274a60a78832a96898fee8.16",
    "lat": 33.440588,
@@ -746,19 +702,16 @@
   },
   "306242f2aff04500a3822997695a040f.16": {
    "cells": {
-    "14": "F4ij[2234,8444]@14",
-    "17": "F4ij[17878,67557]@17"
+    "14": "F4ij[2234,8444]@14"
    },
    "guid": "306242f2aff04500a3822997695a040f.16",
-   "image": "http://lh6.ggpht.com/arIToTcviipCpOSrHZmHpT-yQJHbVzo_rGoS-1wEMqDOUPV701iPrxWCxCAakdgIbOdVMppri_V-GNuYT3HCFg",
    "lat": 33.461925,
    "lng": -88.803906,
    "name": "Saint Joseph's Catholic Center 607"
   },
   "31e16cd6b5724e3db6791c581b67a3b7.16": {
    "cells": {
-    "14": "F4ij[2235,8443]@14",
-    "17": "F4ij[17883,67550]@17"
+    "14": "F4ij[2235,8443]@14"
    },
    "guid": "31e16cd6b5724e3db6791c581b67a3b7.16",
    "lat": 33.457945,
@@ -767,8 +720,7 @@
   },
   "34fb5d3bdc3a4983be26a07840cd4c88.16": {
    "cells": {
-    "14": "F4ij[2236,8441]@14",
-    "17": "F4ij[17891,67532]@17"
+    "14": "F4ij[2236,8441]@14"
    },
    "guid": "34fb5d3bdc3a4983be26a07840cd4c88.16",
    "lat": 33.452588,
@@ -777,19 +729,16 @@
   },
   "350ae49b997647bbbbaf44859026cc9c.16": {
    "cells": {
-    "14": "F4ij[2234,8446]@14",
-    "17": "F4ij[17878,67574]@17"
+    "14": "F4ij[2234,8446]@14"
    },
    "guid": "350ae49b997647bbbbaf44859026cc9c.16",
-   "image": "http://lh3.ggpht.com/K681kVmXMHValuVnLN-yJ39PvLbxMgnrm43u94gAsFwwW-bYSMSewZeQ-hpg1iy4fUS3cVdKgHZuh_BGjYU",
    "lat": 33.461554,
    "lng": -88.793496,
    "name": "The Hump"
   },
   "373d2cc22c644ac2ad492ba507659e61.16": {
    "cells": {
-    "14": "F4ij[2234,8441]@14",
-    "17": "F4ij[17872,67533]@17"
+    "14": "F4ij[2234,8441]@14"
    },
    "guid": "373d2cc22c644ac2ad492ba507659e61.16",
    "lat": 33.466203,
@@ -798,8 +747,7 @@
   },
   "4108a02514d24c74aa23e079357fa83c.16": {
    "cells": {
-    "14": "F4ij[2232,8446]@14",
-    "17": "F4ij[17861,67574]@17"
+    "14": "F4ij[2232,8446]@14"
    },
    "guid": "4108a02514d24c74aa23e079357fa83c.16",
    "lat": 33.473571,
@@ -808,19 +756,16 @@
   },
   "41480652f9004a52b3b90706df7bd0b0.16": {
    "cells": {
-    "14": "F4ij[2235,8447]@14",
-    "17": "F4ij[17884,67580]@17"
+    "14": "F4ij[2235,8447]@14"
    },
    "guid": "41480652f9004a52b3b90706df7bd0b0.16",
-   "image": "http://lh3.googleusercontent.com/NTKqSNg8wcOmFMZBN55HGCBkfWOyR-bYzqOs6efPYx1xnS1ZfD3gzZ_cmGoR-jUHO3CRj7c5ihttzC0Bz6WF",
    "lat": 33.457562,
    "lng": -88.790259,
    "name": "Butler Hall "
   },
   "4408b7a0efb24b268ca5033a0bc21ab4.16": {
    "cells": {
-    "14": "F4ij[2236,8447]@14",
-    "17": "F4ij[17892,67579]@17"
+    "14": "F4ij[2236,8447]@14"
    },
    "guid": "4408b7a0efb24b268ca5033a0bc21ab4.16",
    "image": "http://lh5.ggpht.com/czihBcalIZWqM4R_c12dh8i0L4LdnkV--PG8MwgWXNyisz5odOyDfIHoIdqu7wiVCfXY2wsfYUhUg-4VEZ47",
@@ -830,8 +775,7 @@
   },
   "44a28a4dcc744e6aae33d460dee9897e.16": {
    "cells": {
-    "14": "F4ij[2234,8442]@14",
-    "17": "F4ij[17875,67538]@17"
+    "14": "F4ij[2234,8442]@14"
    },
    "guid": "44a28a4dcc744e6aae33d460dee9897e.16",
    "lat": 33.463726,
@@ -840,22 +784,18 @@
   },
   "451ce59d16454ab0884eef83fb582809.16": {
    "cells": {
-    "14": "F4ij[2234,8447]@14",
-    "17": "F4ij[17874,67578]@17"
+    "14": "F4ij[2234,8447]@14"
    },
    "guid": "451ce59d16454ab0884eef83fb582809.16",
-   "image": "http://lh3.ggpht.com/SBHd4VO9GtQlJ-LXTePZ9SjeaQF2A2HAIH8aWwNMqF0BSx9L0GOmRBVpJEXBgQ8NFSPKOG7QPLoTBqPzb-4cwQ",
    "lat": 33.464209,
    "lng": -88.791155,
    "name": "Chadwick Lake Walking Trail"
   },
   "45735e8bb903426dbfc169d587e3b102.16": {
    "cells": {
-    "14": "F4ij[2236,8447]@14",
-    "17": "F4ij[17892,67578]@17"
+    "14": "F4ij[2236,8447]@14"
    },
    "guid": "45735e8bb903426dbfc169d587e3b102.16",
-   "image": "http://lh5.ggpht.com/LObkMU-y04Uo-BY2SKC96tV0a1lZH5u6Ywba0gBo4c9w-5SO3_-YEkITYJN_VAsAzuwnYNhnSiawk_F9kmwN",
    "lat": 33.451901,
    "lng": -88.790894,
    "name": "Allen Hall"
@@ -871,8 +811,7 @@
   },
   "474218bd73164fce82a57ba6b93450ac.16": {
    "cells": {
-    "14": "F4ij[2236,8447]@14",
-    "17": "F4ij[17893,67579]@17"
+    "14": "F4ij[2236,8447]@14"
    },
    "guid": "474218bd73164fce82a57ba6b93450ac.16",
    "image": "http://lh6.ggpht.com/lz-BM-a18pgRsUsyLssVBCXwE0rCogWeB9xe_BjvuwBjkN_AnZzLfYEaU7an-PQVH1YVrWRK-nWM6xuHmJk7",
@@ -882,19 +821,16 @@
   },
   "490dc74c8daf4e89a4a3ca46eea9c4f1.16": {
    "cells": {
-    "14": "F4ij[2236,8447]@14",
-    "17": "F4ij[17889,67579]@17"
+    "14": "F4ij[2236,8447]@14"
    },
    "guid": "490dc74c8daf4e89a4a3ca46eea9c4f1.16",
-   "image": "http://lh6.ggpht.com/Q8Sqw8EW37TBEChhvLZHn2cjDZyPHf4GAN6BB9NLdvZ7d2EH4wgoRxHMpDfXOvqFTQpGe-kpeDZvLIubeAsh",
    "lat": 33.453553,
    "lng": -88.790514,
    "name": "MSU Bully Statue"
   },
   "4997f9a8d87541c9adee4f87fb3db72b.16": {
    "cells": {
-    "14": "F4ij[2237,8438]@14",
-    "17": "F4ij[17903,67508]@17"
+    "14": "F4ij[2237,8438]@14"
    },
    "guid": "4997f9a8d87541c9adee4f87fb3db72b.16",
    "lat": 33.444505,
@@ -903,19 +839,16 @@
   },
   "4ac1fbbd3b254fd8a1e020e987227855.16": {
    "cells": {
-    "14": "F4ij[2235,8444]@14",
-    "17": "F4ij[17880,67559]@17"
+    "14": "F4ij[2235,8444]@14"
    },
    "guid": "4ac1fbbd3b254fd8a1e020e987227855.16",
-   "image": "http://lh3.googleusercontent.com/aLrDtFFy2HGkTQ-62sIW9CxGsnrk3p-N32RG-zEwCqDwJ4jdutN570Lba4o1l_HPRPG6RY1z4GusTQt_jAU",
    "lat": 33.460043,
    "lng": -88.802799,
    "name": "Cotton District Alien Mural"
   },
   "4f2d42dfca4a46e78c36e1e918426421.16": {
    "cells": {
-    "14": "F4ij[2236,8438]@14",
-    "17": "F4ij[17889,67508]@17"
+    "14": "F4ij[2236,8438]@14"
    },
    "guid": "4f2d42dfca4a46e78c36e1e918426421.16",
    "lat": 33.454022,
@@ -924,29 +857,34 @@
   },
   "518726ac1d074b7cbeb6423d17f3331f.16": {
    "cells": {
-    "14": "F4ij[2237,8447]@14",
-    "17": "F4ij[17896,67577]@17"
+    "14": "F4ij[2237,8447]@14"
    },
    "guid": "518726ac1d074b7cbeb6423d17f3331f.16",
-   "image": "http://lh3.googleusercontent.com/GPw_o3Nl6a038KtjZxsszWVgOahbrpnV1O7FAxU3t47xtqzkJCm_HqaYV4Itjcgd0lgfMZCath7MdtYwlkQ",
    "lat": 33.44892,
    "lng": -88.791879,
    "name": "Oak Hall"
   },
   "52f324a606fd47d38c27fd0ca80ff405.16": {
    "cells": {
-    "14": "F4ij[2237,8441]@14",
-    "17": "F4ij[17896,67533]@17"
+    "14": "F4ij[2237,8441]@14"
    },
    "guid": "52f324a606fd47d38c27fd0ca80ff405.16",
    "lat": 33.449051,
    "lng": -88.818161,
    "name": "Babe Ruth Park Visitor\u2019s Gate "
   },
+  "5370d149e198463c8059e696cfd39460.16": {
+   "cells": {
+    "14": "F4ij[2232,8440]@14"
+   },
+   "guid": "5370d149e198463c8059e696cfd39460.16",
+   "lat": 33.47542,
+   "lng": -88.825695,
+   "name": "Trinity Presbyterian Church "
+  },
   "55d2940a2ffc4675a4a5d4884db76ca1.16": {
    "cells": {
-    "14": "F4ij[2232,8447]@14",
-    "17": "F4ij[17863,67579]@17"
+    "14": "F4ij[2232,8447]@14"
    },
    "guid": "55d2940a2ffc4675a4a5d4884db76ca1.16",
    "lat": 33.471767,
@@ -964,11 +902,9 @@
   },
   "56b5d739b7f64031a4e5d820bbe01f72.16": {
    "cells": {
-    "14": "F4ij[2236,8447]@14",
-    "17": "F4ij[17890,67576]@17"
+    "14": "F4ij[2236,8447]@14"
    },
    "guid": "56b5d739b7f64031a4e5d820bbe01f72.16",
-   "image": "http://lh3.googleusercontent.com/KbtHswkWpeyBcT7_RYfD8Qg183_B9NhWQtrZ32ekU9RZJVgdPV2yzLvPp6PM-bvVZL0g_D0g7RZtNq07vCZzFg",
    "lat": 33.453147,
    "lng": -88.792293,
    "name": "McCarthy Gymnasium"
@@ -984,19 +920,16 @@
   },
   "5d04dee4595e46539c18466343eb93c3.16": {
    "cells": {
-    "14": "F4ij[2235,8446]@14",
-    "17": "F4ij[17884,67575]@17"
+    "14": "F4ij[2235,8446]@14"
    },
    "guid": "5d04dee4595e46539c18466343eb93c3.16",
-   "image": "http://lh4.ggpht.com/-MRL3g0izRayhgh2R-HMujInKv7GT8O-Q0t84Ba0ZU26s5ZEpNT6Wuuc3Jy7u7bDxflTOpxqYMEdpCX30MUS3Q",
    "lat": 33.457475,
    "lng": -88.792967,
    "name": "Davis Wade Stadium Mississippi Monument"
   },
   "5fbf76ebc3324675b0454c6d53b2a7da.16": {
    "cells": {
-    "14": "F4ij[2234,8443]@14",
-    "17": "F4ij[17876,67549]@17"
+    "14": "F4ij[2234,8443]@14"
    },
    "guid": "5fbf76ebc3324675b0454c6d53b2a7da.16",
    "lat": 33.463158,
@@ -1005,30 +938,25 @@
   },
   "61b6154994254ee38c9d7da545106fdd.16": {
    "cells": {
-    "14": "F4ij[2236,8447]@14",
-    "17": "F4ij[17889,67580]@17"
+    "14": "F4ij[2236,8447]@14"
    },
    "guid": "61b6154994254ee38c9d7da545106fdd.16",
-   "image": "http://lh4.ggpht.com/cwSTQA0hOGlJ4BKZ1IvyqAADl9Kh1p7FdbH9eNY5zHCNR7fEgjvh_7loRT2ECwzzaFIVShz14Wn2ORGvWi-X",
    "lat": 33.453694,
    "lng": -88.78999,
    "name": "Jon Stephen Stickler Memorial Walk."
   },
   "62588bfda4d34334a8c9eede60d7e07c.11": {
    "cells": {
-    "14": "F4ij[2235,8448]@14",
-    "17": "F4ij[17887,67584]@17"
+    "14": "F4ij[2235,8448]@14"
    },
    "guid": "62588bfda4d34334a8c9eede60d7e07c.11",
-   "image": "http://lh3.ggpht.com/ty_bpFQmZGbx8Mcca_Fg0JySk71N6U4a4xaNTa2DtzfJGOfDTqAxDidaZZjLQpI0Zba8oOXw1cWZIqI6AizgsmSaDGndw3ds9nwyaUQDrdLkPktlUQ",
    "lat": 33.45508,
    "lng": -88.787443,
    "name": "Cobb Institute of Archaeology"
   },
   "62c9fb9df0914eaf9faf9ea327eb74e8.16": {
    "cells": {
-    "14": "F4ij[2235,8448]@14",
-    "17": "F4ij[17885,67590]@17"
+    "14": "F4ij[2235,8448]@14"
    },
    "guid": "62c9fb9df0914eaf9faf9ea327eb74e8.16",
    "image": "http://lh4.ggpht.com/uqDE7MLsA-oYF4rExORiWMwkjTgA85kWA6d9gzO5IMBK49rvWGZBnAFXo9ryhUnQf6in5cPCLUpcfcmV1V8",
@@ -1038,8 +966,7 @@
   },
   "6722aa6a230648efa371c2a3319b81e6.16": {
    "cells": {
-    "14": "F4ij[2236,8449]@14",
-    "17": "F4ij[17893,67598]@17"
+    "14": "F4ij[2236,8449]@14"
    },
    "guid": "6722aa6a230648efa371c2a3319b81e6.16",
    "lat": 33.451083,
@@ -1048,33 +975,45 @@
   },
   "681e63c8cbfa4f2ea12b95fbf8085b56.16": {
    "cells": {
-    "14": "F4ij[2236,8447]@14",
-    "17": "F4ij[17894,67578]@17"
+    "14": "F4ij[2236,8447]@14"
    },
    "guid": "681e63c8cbfa4f2ea12b95fbf8085b56.16",
-   "image": "http://lh3.googleusercontent.com/mkMNd9PAWjXjfMM4CsfO5d0IrJnyCvMmhuA409Ppwg9UmlEgfJd8yrd_yvcH2_WpOiPFb7rJnQfigzS4ikeHkg",
    "lat": 33.450393,
    "lng": -88.79142,
    "name": "Moseley Hall"
   },
+  "6da08fb538ce4c088e708182409b629b.16": {
+   "cells": {
+    "14": "F4ij[2233,8439]@14"
+   },
+   "guid": "6da08fb538ce4c088e708182409b629b.16",
+   "lat": 33.469553,
+   "lng": -88.82631,
+   "name": "J. L. King, Sr. Memorial Park"
+  },
+  "6e4a4fa8bc9847058b7f6bd8ba008576.16": {
+   "cells": {
+    "14": "F4ij[2232,8442]@14"
+   },
+   "guid": "6e4a4fa8bc9847058b7f6bd8ba008576.16",
+   "lat": 33.472163,
+   "lng": -88.814784,
+   "name": "Calvary Baptist Church "
+  },
   "6e6363ba78c54f56bfadeb2e91029490.16": {
    "cells": {
-    "14": "F4ij[2235,8447]@14",
-    "17": "F4ij[17887,67582]@17"
+    "14": "F4ij[2235,8447]@14"
    },
    "guid": "6e6363ba78c54f56bfadeb2e91029490.16",
-   "image": "http://lh6.ggpht.com/cH07kLs1EGv1VkkfUHpSDHqL0gOJUiSMcLpIaDkVYaiyYRjUA52iRx65Ne2-0pF0pfubecQF02hIviR5lpQC",
    "lat": 33.45546,
    "lng": -88.788633,
    "name": "Vietnam War Memorial"
   },
   "725e1dbad3b940c583ea7ac266edcf65.16": {
    "cells": {
-    "14": "F4ij[2234,8444]@14",
-    "17": "F4ij[17877,67556]@17"
+    "14": "F4ij[2234,8444]@14"
    },
    "guid": "725e1dbad3b940c583ea7ac266edcf65.16",
-   "image": "http://lh3.ggpht.com/AesTF0RDibrbpHtdbrMUHj02rNESGjpkKPxnlAGYNxTI1PMk8As88X-2VkrH7Lw-CEe2eKvwNlSs2o_Y_TwH",
    "lat": 33.462542,
    "lng": -88.804365,
    "name": "Historic Nash Street"
@@ -1090,11 +1029,9 @@
   },
   "74844d45ed3444959b53d04c0d8cf461.16": {
    "cells": {
-    "14": "F4ij[2235,8446]@14",
-    "17": "F4ij[17886,67571]@17"
+    "14": "F4ij[2235,8446]@14"
    },
    "guid": "74844d45ed3444959b53d04c0d8cf461.16",
-   "image": "http://lh4.ggpht.com/_ZVbOa_FH6ZvNEA6qqae9dszA3B88w0_9-mUmxr720XC7FUYzcWdAKRkL-XQ_-2TRYAWtguTWxQwnhN9QT0",
    "lat": 33.456224,
    "lng": -88.795284,
    "name": "Cullis & Gladys Wade Clock Museum "
@@ -1110,8 +1047,7 @@
   },
   "7b7f5d00f00148c5bd566eb6b6aa268c.16": {
    "cells": {
-    "14": "F4ij[2232,8448]@14",
-    "17": "F4ij[17863,67586]@17"
+    "14": "F4ij[2232,8448]@14"
    },
    "guid": "7b7f5d00f00148c5bd566eb6b6aa268c.16",
    "lat": 33.472187,
@@ -1120,19 +1056,16 @@
   },
   "7edab995bebc4da8a377334cb3fc0bc1.16": {
    "cells": {
-    "14": "F4ij[2237,8443]@14",
-    "17": "F4ij[17897,67547]@17"
+    "14": "F4ij[2237,8443]@14"
    },
    "guid": "7edab995bebc4da8a377334cb3fc0bc1.16",
-   "image": "http://lh5.ggpht.com/oFdNnMkrsj0vJBpQeMfMKPy9r34Os_V7SjRQgHbKWKQ1gt2tT0I5irsPUBkroed8B-YqrOjC5eQeEv8sP-_s9g",
    "lat": 33.448197,
    "lng": -88.809897,
    "name": "Starkville Church of God"
   },
   "7fda447904d8488c9d0521d87c8dca14.16": {
    "cells": {
-    "14": "F4ij[2235,8448]@14",
-    "17": "F4ij[17885,67589]@17"
+    "14": "F4ij[2235,8448]@14"
    },
    "guid": "7fda447904d8488c9d0521d87c8dca14.16",
    "lat": 33.456404,
@@ -1141,8 +1074,7 @@
   },
   "80910012c99c416cbb6f68a6ead2f42a.16": {
    "cells": {
-    "14": "F4ij[2236,8441]@14",
-    "17": "F4ij[17894,67532]@17"
+    "14": "F4ij[2236,8441]@14"
    },
    "guid": "80910012c99c416cbb6f68a6ead2f42a.16",
    "lat": 33.450316,
@@ -1151,8 +1083,7 @@
   },
   "835c676765204ebd90e65041e0d3d9e9.16": {
    "cells": {
-    "14": "F4ij[2234,8442]@14",
-    "17": "F4ij[17876,67540]@17"
+    "14": "F4ij[2234,8442]@14"
    },
    "guid": "835c676765204ebd90e65041e0d3d9e9.16",
    "lat": 33.463138,
@@ -1161,8 +1092,7 @@
   },
   "8798afb0ad234696aab82e350303b9e9.16": {
    "cells": {
-    "14": "F4ij[2234,8442]@14",
-    "17": "F4ij[17876,67539]@17"
+    "14": "F4ij[2234,8442]@14"
    },
    "guid": "8798afb0ad234696aab82e350303b9e9.16",
    "lat": 33.463128,
@@ -1171,33 +1101,27 @@
   },
   "8a69bca64c9a4bfc960eb2375c66cb23.12": {
    "cells": {
-    "14": "F4ij[2236,8445]@14",
-    "17": "F4ij[17889,67561]@17"
+    "14": "F4ij[2236,8445]@14"
    },
    "guid": "8a69bca64c9a4bfc960eb2375c66cb23.12",
-   "image": "http://lh5.ggpht.com/iakc4-EILnJk6LxjI86-YX2s0yCC-FZbq2zCcJ-2hSQpiPOIgL2voME21UZJmnhltwaX4do8qudojktqObpG",
    "lat": 33.453692,
    "lng": -88.801261,
    "name": "Mississippi Entomology Museum"
   },
   "8a89e7189faa4d218c0f505495545a33.16": {
    "cells": {
-    "14": "F4ij[2235,8448]@14",
-    "17": "F4ij[17887,67585]@17"
+    "14": "F4ij[2235,8448]@14"
    },
    "guid": "8a89e7189faa4d218c0f505495545a33.16",
-   "image": "http://lh5.ggpht.com/Sv0Ssk7MDgcnWpEwN9gkMQZr5iGzHnnJCYjVeZN_0hmIME83a9MVbsi2SckiCR-9YctjuNU-ieOTYJtJAdpDtQ",
    "lat": 33.455278,
    "lng": -88.786962,
    "name": "James William Mills Memorial"
   },
   "8d459fb7dc3e493ebc3c63edc05bb418.16": {
    "cells": {
-    "14": "F4ij[2236,8448]@14",
-    "17": "F4ij[17889,67585]@17"
+    "14": "F4ij[2236,8448]@14"
    },
    "guid": "8d459fb7dc3e493ebc3c63edc05bb418.16",
-   "image": "http://lh3.googleusercontent.com/ufCXq6PmAephUFih-NaayJyrgJfPMdDe1mgwpHKgjcY0r8SWm-wUb_xZgl9B3UJlnyU64K26eq7pr-imciY",
    "lat": 33.454062,
    "lng": -88.787146,
    "name": "Patterson Engineering Laboratories"
@@ -1213,19 +1137,16 @@
   },
   "93650d23a99841c49d02b2b389769644.16": {
    "cells": {
-    "14": "F4ij[2235,8447]@14",
-    "17": "F4ij[17887,67577]@17"
+    "14": "F4ij[2235,8447]@14"
    },
    "guid": "93650d23a99841c49d02b2b389769644.16",
-   "image": "http://lh4.ggpht.com/LkZs02E9RK2ycVy-plXj8itgld011-DP7YMnsD2XKCUeXcAwDp1TSUwByrm7-04bfaP5csdaRjQRP6HHMaw",
    "lat": 33.455042,
    "lng": -88.791934,
    "name": "Dedicated 4H Flagpole"
   },
   "93a2f3dc6e0e4b2dbbbe28f5241f2c3c.16": {
    "cells": {
-    "14": "F4ij[2234,8441]@14",
-    "17": "F4ij[17877,67535]@17"
+    "14": "F4ij[2234,8441]@14"
    },
    "guid": "93a2f3dc6e0e4b2dbbbe28f5241f2c3c.16",
    "lat": 33.462627,
@@ -1234,22 +1155,18 @@
   },
   "944b6b4a0d314c54af5b936147fdb7a1.16": {
    "cells": {
-    "14": "F4ij[2235,8447]@14",
-    "17": "F4ij[17884,67577]@17"
+    "14": "F4ij[2235,8447]@14"
    },
    "guid": "944b6b4a0d314c54af5b936147fdb7a1.16",
-   "image": "http://lh3.ggpht.com/U4mLilH9GoOGtm2Hm0Jm2Nx69EF6N9zruV185WzvfducZbMZcCRWq_rkKvqZdiKKi7VSpGU3PKIMETVydaOm",
    "lat": 33.457228,
    "lng": -88.791821,
    "name": "Freeman Hall"
   },
   "9529651736a34a87874d3bbf3f0fd3ed.16": {
    "cells": {
-    "14": "F4ij[2236,8447]@14",
-    "17": "F4ij[17889,67578]@17"
+    "14": "F4ij[2236,8447]@14"
    },
    "guid": "9529651736a34a87874d3bbf3f0fd3ed.16",
-   "image": "http://lh3.ggpht.com/4Xz1E3LoTH3pnmy3EOCqced7u-3OwLShzRth-qigFb2Kz_VTAeAAXhcip5TCgO4nbmIK5MvwV0Sl57-FaLo8",
    "lat": 33.453611,
    "lng": -88.791242,
    "name": "Capt. Put Darden Memorial"
@@ -1265,19 +1182,16 @@
   },
   "9890d9a5cee049fea0ed454282937b1c.16": {
    "cells": {
-    "14": "F4ij[2236,8448]@14",
-    "17": "F4ij[17891,67585]@17"
+    "14": "F4ij[2236,8448]@14"
    },
    "guid": "9890d9a5cee049fea0ed454282937b1c.16",
-   "image": "http://lh5.ggpht.com/zE5_rZs_QcGh_2MMNEfKRWUE4yItekGOnEK6O6YEzEIrz1J3tTs9oIcf6puOxa2XVQquQ60tEQJWvj3nFMO9",
    "lat": 33.452459,
    "lng": -88.786822,
    "name": "Industrial Education"
   },
   "9930f287229d485cab87c080e79c9a41.12": {
    "cells": {
-    "14": "F4ij[2234,8443]@14",
-    "17": "F4ij[17875,67546]@17"
+    "14": "F4ij[2234,8443]@14"
    },
    "guid": "9930f287229d485cab87c080e79c9a41.12",
    "lat": 33.463548,
@@ -1286,63 +1200,52 @@
   },
   "9a537cda8fd04ef49e945b6ad3adb81e.16": {
    "cells": {
-    "14": "F4ij[2234,8447]@14",
-    "17": "F4ij[17878,67579]@17"
+    "14": "F4ij[2234,8447]@14"
    },
    "guid": "9a537cda8fd04ef49e945b6ad3adb81e.16",
-   "image": "http://lh4.ggpht.com/jH75jWD4vmVGTRM_cHPELT4F6nSUt9WDQlYsl4NHEVqTGe9kv47v5J3BC6TlXD3RYEmol1ZmiYDea7GKbcka",
    "lat": 33.461605,
    "lng": -88.790467,
    "name": "Sanderson Center Get Moving Artwork"
   },
   "9f83c5fe8944416a889a096fc7edfdec.16": {
    "cells": {
-    "14": "F4ij[2236,8448]@14",
-    "17": "F4ij[17888,67584]@17"
+    "14": "F4ij[2236,8448]@14"
    },
    "guid": "9f83c5fe8944416a889a096fc7edfdec.16",
-   "image": "http://lh4.ggpht.com/qgR2K-fALH0q0erpU2fhxQI8RBgkYTf2i2tQiZwUSigEar-qwUtxG4E8okaDQ1JxNPYHvhJTKdZ_i-ty_58",
    "lat": 33.4546,
    "lng": -88.787866,
    "name": "Cobb Archaeology Museum"
   },
   "9fb4f9ecae9e45da9f8913945bd97e96.16": {
    "cells": {
-    "14": "F4ij[2235,8444]@14",
-    "17": "F4ij[17885,67553]@17"
+    "14": "F4ij[2235,8444]@14"
    },
    "guid": "9fb4f9ecae9e45da9f8913945bd97e96.16",
-   "image": "http://lh5.ggpht.com/SociYW4qj7KmmMbG4RP-B4XkW2v-GXop0FSK6jErXiIQhGtT0O19ZqIvBBfF_boZV1uuZ1p5p4h3GHLvJw3-",
    "lat": 33.45678,
    "lng": -88.806354,
    "name": "Needmore Community"
   },
   "a046d2c31aed4eef9e6a79c2c3fb51e7.16": {
    "cells": {
-    "14": "F4ij[2236,8447]@14",
-    "17": "F4ij[17889,67581]@17"
+    "14": "F4ij[2236,8447]@14"
    },
    "guid": "a046d2c31aed4eef9e6a79c2c3fb51e7.16",
-   "image": "http://lh5.ggpht.com/oKVJeloUhsTJTs5Z6B2kfR8BH47bkrSMe2GEhulpCxlU-OLht6KB2r7QCagIJfS2elCceOfs_axn81IiiUN9",
    "lat": 33.453569,
    "lng": -88.789449,
    "name": "MSU Flagpole"
   },
   "a1d2606b22d94d39a739ae6b49d80383.16": {
    "cells": {
-    "14": "F4ij[2234,8447]@14",
-    "17": "F4ij[17875,67576]@17"
+    "14": "F4ij[2234,8447]@14"
    },
    "guid": "a1d2606b22d94d39a739ae6b49d80383.16",
-   "image": "http://lh3.ggpht.com/iNt9dENHRRkLH1AXfpDCKVKE4JJQFMTWh02-J8_mFPqD_YAKC2Zn7BIOXuZ6DuFFr9bJtIx0faIUOeBgm3-5",
    "lat": 33.463916,
    "lng": -88.792461,
    "name": "MSU Hall Of Champions "
   },
   "a4614eca6fb04e81a1c5744253bb29b0.16": {
    "cells": {
-    "14": "F4ij[2234,8443]@14",
-    "17": "F4ij[17877,67546]@17"
+    "14": "F4ij[2234,8443]@14"
    },
    "guid": "a4614eca6fb04e81a1c5744253bb29b0.16",
    "lat": 33.462506,
@@ -1351,8 +1254,7 @@
   },
   "a516c0ddde3f4d95a39ab15afb4c13da.16": {
    "cells": {
-    "14": "F4ij[2236,8441]@14",
-    "17": "F4ij[17890,67532]@17"
+    "14": "F4ij[2236,8441]@14"
    },
    "guid": "a516c0ddde3f4d95a39ab15afb4c13da.16",
    "lat": 33.453657,
@@ -1361,8 +1263,7 @@
   },
   "a600161fa7974e9e9dc4b848d404edc9.16": {
    "cells": {
-    "14": "F4ij[2236,8447]@14",
-    "17": "F4ij[17893,67578]@17"
+    "14": "F4ij[2236,8447]@14"
    },
    "guid": "a600161fa7974e9e9dc4b848d404edc9.16",
    "image": "http://lh3.ggpht.com/Tv-O22sXb8O1dHTAW8G72rPskBfO2oYLr25NYu_nDyIkkdye3Zv-qfUYcraXI932LRhH8Bu0hxIQpgzB_aE",
@@ -1372,19 +1273,16 @@
   },
   "a6334e3adc4b47f5b70b1a8b5e69061d.16": {
    "cells": {
-    "14": "F4ij[2235,8444]@14",
-    "17": "F4ij[17883,67557]@17"
+    "14": "F4ij[2235,8444]@14"
    },
    "guid": "a6334e3adc4b47f5b70b1a8b5e69061d.16",
-   "image": "http://lh3.googleusercontent.com/ctMJynzpbihGgHoN5sEBT6LsCCG1nK-U7jshwGk-iJKm2-BKtB1DbdYOZan8WQe85VR9OIIqrHbraxKjNvpY",
    "lat": 33.457974,
    "lng": -88.804042,
    "name": "Starkvegas Mural"
   },
   "a6a509ecadfc4c71ae42956ecb559a06.16": {
    "cells": {
-    "14": "F4ij[2233,8449]@14",
-    "17": "F4ij[17865,67595]@17"
+    "14": "F4ij[2233,8449]@14"
    },
    "guid": "a6a509ecadfc4c71ae42956ecb559a06.16",
    "lat": 33.470723,
@@ -1393,30 +1291,25 @@
   },
   "aacdf261d5c74f2aa5d97b0c246ff694.16": {
    "cells": {
-    "14": "F4ij[2236,8447]@14",
-    "17": "F4ij[17895,67577]@17"
+    "14": "F4ij[2236,8447]@14"
    },
    "guid": "aacdf261d5c74f2aa5d97b0c246ff694.16",
-   "image": "http://lh3.ggpht.com/5bv7MV96Ql_VsH1ScjFnDDE8SZ9-B8DHz37hLBGtgPctu53I4S2vsZZVmLPUFiNPGkPNSR-kfwaZJ5SbF30",
    "lat": 33.449636,
    "lng": -88.79202,
    "name": "MSU Armed Forces Flag Display"
   },
   "ab728905723c49c98954d10110643b58.11": {
    "cells": {
-    "14": "F4ij[2235,8446]@14",
-    "17": "F4ij[17885,67570]@17"
+    "14": "F4ij[2235,8446]@14"
    },
    "guid": "ab728905723c49c98954d10110643b58.11",
-   "image": "http://lh3.googleusercontent.com/GKfFLsjTDh6g4GTc0sd9G1sVe48N35Ye9kIM4lyBd9R9IYYceg5ZvsWCbUSqMb4EmSSLagQo0w4gPafr8IW4JQ",
    "lat": 33.456392,
    "lng": -88.795749,
    "name": "Cullis-Wade Depot"
   },
   "abc7ac2cd7e441c485cd497e3fafabf9.16": {
    "cells": {
-    "14": "F4ij[2236,8441]@14",
-    "17": "F4ij[17892,67533]@17"
+    "14": "F4ij[2236,8441]@14"
    },
    "guid": "abc7ac2cd7e441c485cd497e3fafabf9.16",
    "lat": 33.452052,
@@ -1425,8 +1318,7 @@
   },
   "ac27ead8b8c84ddf9f7f7a84a5a2e606.16": {
    "cells": {
-    "14": "F4ij[2237,8446]@14",
-    "17": "F4ij[17902,67573]@17"
+    "14": "F4ij[2237,8446]@14"
    },
    "guid": "ac27ead8b8c84ddf9f7f7a84a5a2e606.16",
    "lat": 33.445014,
@@ -1435,30 +1327,25 @@
   },
   "ad9334b38eb444a0b07cd73ec7691f48.16": {
    "cells": {
-    "14": "F4ij[2236,8447]@14",
-    "17": "F4ij[17891,67580]@17"
+    "14": "F4ij[2236,8447]@14"
    },
    "guid": "ad9334b38eb444a0b07cd73ec7691f48.16",
-   "image": "http://lh5.ggpht.com/FmfikOmayt1l3TvZIQtBM5Hmar8OP-uz4y-7ONF85lwWpMKkX7OBTf8gnrcTMgqM7MeONUHYCxxEIOIipgks",
    "lat": 33.452678,
    "lng": -88.789826,
    "name": "Swalm Chemical Engineering Building"
   },
   "b0608993f44e4ecea7b3cbb34e0d6a04.11": {
    "cells": {
-    "14": "F4ij[2234,8444]@14",
-    "17": "F4ij[17879,67559]@17"
+    "14": "F4ij[2234,8444]@14"
    },
    "guid": "b0608993f44e4ecea7b3cbb34e0d6a04.11",
-   "image": "http://lh4.ggpht.com/IQc1dr8I96-jhMJM4oQeY4EjLGjPpS5xR0aBEUt27nSS8L1pOYAHOWhC89922a3y8xLiMXeMOBBnb5yEoHq8dZAZwt6ro5hxnUwUNTVFVKt2L29g",
    "lat": 33.460956,
    "lng": -88.802297,
    "name": "Historic Cotton District"
   },
   "b0dd8591e018438a9db2863d4469730d.16": {
    "cells": {
-    "14": "F4ij[2234,8448]@14",
-    "17": "F4ij[17879,67590]@17"
+    "14": "F4ij[2234,8448]@14"
    },
    "guid": "b0dd8591e018438a9db2863d4469730d.16",
    "lat": 33.460482,
@@ -1467,8 +1354,7 @@
   },
   "b16ae8655aee4be6907ed151f1d77a69.16": {
    "cells": {
-    "14": "F4ij[2236,8447]@14",
-    "17": "F4ij[17894,67579]@17"
+    "14": "F4ij[2236,8447]@14"
    },
    "guid": "b16ae8655aee4be6907ed151f1d77a69.16",
    "image": "http://lh3.ggpht.com/Yvqfpm-YHOnIzWZL9itKB18n292xEQAKfflX-G6WzHJ9QsjaeMrNCpo_wHROQZvdQeDMzYCeM6QdnhJcxBo",
@@ -1478,19 +1364,25 @@
   },
   "b2f96af4c59b4bcba020baba56be127c.16": {
    "cells": {
-    "14": "F4ij[2236,8443]@14",
-    "17": "F4ij[17889,67547]@17"
+    "14": "F4ij[2236,8443]@14"
    },
    "guid": "b2f96af4c59b4bcba020baba56be127c.16",
-   "image": "http://lh4.ggpht.com/VlVX6KdgmM4zpIGQH17flvi1uMW1PiTDwwheF0ar6TKD5V3iqYmR0h87kyfHfS9f2846xW3pFhbrmaWpFydB",
    "lat": 33.454382,
    "lng": -88.809979,
    "name": "Cadence Gazebo"
   },
+  "b371e3aa00eb4c2eb6138398351ab898.16": {
+   "cells": {
+    "14": "F4ij[2233,8442]@14"
+   },
+   "guid": "b371e3aa00eb4c2eb6138398351ab898.16",
+   "lat": 33.468723,
+   "lng": -88.816621,
+   "name": "City of Starkville"
+  },
   "bdae17cf72744fd298a76e1ad7cefb0b.16": {
    "cells": {
-    "14": "F4ij[2237,8439]@14",
-    "17": "F4ij[17902,67512]@17"
+    "14": "F4ij[2237,8439]@14"
    },
    "guid": "bdae17cf72744fd298a76e1ad7cefb0b.16",
    "lat": 33.445392,
@@ -1499,30 +1391,25 @@
   },
   "be2b818b343143fbbba5cbb560ebd817.16": {
    "cells": {
-    "14": "F4ij[2236,8447]@14",
-    "17": "F4ij[17891,67582]@17"
+    "14": "F4ij[2236,8447]@14"
    },
    "guid": "be2b818b343143fbbba5cbb560ebd817.16",
-   "image": "http://lh5.ggpht.com/beYoyYGuQlTVTwEKN7ZjWCyiR3ufCJGHeXL-C9gPUAXuz51Mecftg3DVElMp1_WIHp2Dh2mW0NgWZXaAPoE",
    "lat": 33.452734,
    "lng": -88.789035,
    "name": "The Statue of Knowledge"
   },
   "bf772de548df4080a2bcf015b025efa8.16": {
    "cells": {
-    "14": "F4ij[2236,8448]@14",
-    "17": "F4ij[17891,67584]@17"
+    "14": "F4ij[2236,8448]@14"
    },
    "guid": "bf772de548df4080a2bcf015b025efa8.16",
-   "image": "http://lh4.ggpht.com/5CWbQ6FJFZfScD7x7HPaCC0Y9_GVr4yhYRIPvA3WO_1_SEdgu8BCVJjnpk-6euuKr9MtBduv-SXkYzcF9Gpe_g",
    "lat": 33.452276,
    "lng": -88.787794,
    "name": "Niles R and Mary Lynn Mosely Plaza"
   },
   "c028b1ef9a3c4d67b9c2570c7cdabe95.16": {
    "cells": {
-    "14": "F4ij[2234,8442]@14",
-    "17": "F4ij[17875,67537]@17"
+    "14": "F4ij[2234,8442]@14"
    },
    "guid": "c028b1ef9a3c4d67b9c2570c7cdabe95.16",
    "lat": 33.463724,
@@ -1531,8 +1418,7 @@
   },
   "c22086c9f55f4d8787d4f0b7ef781147.16": {
    "cells": {
-    "14": "F4ij[2234,8441]@14",
-    "17": "F4ij[17876,67533]@17"
+    "14": "F4ij[2234,8441]@14"
    },
    "guid": "c22086c9f55f4d8787d4f0b7ef781147.16",
    "lat": 33.463087,
@@ -1550,40 +1436,43 @@
   },
   "c411de6443b1486883afef78fbd14d52.16": {
    "cells": {
-    "14": "F4ij[2236,8439]@14",
-    "17": "F4ij[17894,67519]@17"
+    "14": "F4ij[2236,8439]@14"
    },
    "guid": "c411de6443b1486883afef78fbd14d52.16",
    "lat": 33.450513,
    "lng": -88.826484,
    "name": "Meadowview Baptist Church"
   },
+  "c787ce5a3d764b4dbe5663d5bc62d24c.16": {
+   "cells": {
+    "14": "F4ij[2231,8442]@14"
+   },
+   "guid": "c787ce5a3d764b4dbe5663d5bc62d24c.16",
+   "lat": 33.478884,
+   "lng": -88.814337,
+   "name": "Mount Peiler Baptist Church"
+  },
   "c8499c55f4fb4bc39cb086bfab404673.16": {
    "cells": {
-    "14": "F4ij[2235,8447]@14",
-    "17": "F4ij[17886,67578]@17"
+    "14": "F4ij[2235,8447]@14"
    },
    "guid": "c8499c55f4fb4bc39cb086bfab404673.16",
-   "image": "http://lh3.googleusercontent.com/laPAS-rPums8LP1aPsS-zHk8TgWD7A2IBBkikQryT-utWj7m4Mwh_jbbXZcRxzgwMMExTWrWHKJmHHYakDYg",
    "lat": 33.456131,
    "lng": -88.791282,
    "name": "Hull Hall B Side Bully"
   },
   "c9bc79f6f5644dbfb9f2705f22b8334d.11": {
    "cells": {
-    "14": "F4ij[2235,8447]@14",
-    "17": "F4ij[17887,67583]@17"
+    "14": "F4ij[2235,8447]@14"
    },
    "guid": "c9bc79f6f5644dbfb9f2705f22b8334d.11",
-   "image": "http://lh6.ggpht.com/tHhbXeht73Aaxp2djJGi3Ok19EhzgWzLm2MZXIHmJeXrtzJVcJ95Mw7kzG9jgq23aQxc-EcP5gYaHT757CD2Ct22-97dwur3JE0KK66XwSyNsmEAGQ",
    "lat": 33.455149,
    "lng": -88.788358,
    "name": "WWI Memorial"
   },
   "cfc956000e6c448db505a22805bfbedc.16": {
    "cells": {
-    "14": "F4ij[2237,8438]@14",
-    "17": "F4ij[17901,67510]@17"
+    "14": "F4ij[2237,8438]@14"
    },
    "guid": "cfc956000e6c448db505a22805bfbedc.16",
    "lat": 33.445926,
@@ -1592,22 +1481,18 @@
   },
   "d03576525e7b4adabd23d51d841c5ba6.16": {
    "cells": {
-    "14": "F4ij[2236,8446]@14",
-    "17": "F4ij[17891,67571]@17"
+    "14": "F4ij[2236,8446]@14"
    },
    "guid": "d03576525e7b4adabd23d51d841c5ba6.16",
-   "image": "http://lh3.ggpht.com/AH48doP3sjf8iWwY1EIiqSH2nhqCJHCruu4mKyPb0H--WxVqmmlz3TTv55VFBUZa6jkOARk6YravaokaZoQW",
    "lat": 33.45236,
    "lng": -88.795339,
    "name": "Landscape Architecture"
   },
   "d1f04d261dbf4b5bb83c372dce5c2ddb.16": {
    "cells": {
-    "14": "F4ij[2236,8447]@14",
-    "17": "F4ij[17888,67582]@17"
+    "14": "F4ij[2236,8447]@14"
    },
    "guid": "d1f04d261dbf4b5bb83c372dce5c2ddb.16",
-   "image": "http://lh4.ggpht.com/k7_xWtNBOc2kbCtFsErvxpSMiqyTi3Fqz6So6usAKH0hJZ3T1HO6cHkSAj1VdWy1sBlAqFC35MdUyNAsZELe",
    "lat": 33.454308,
    "lng": -88.788683,
    "name": "The Bent"
@@ -1632,22 +1517,18 @@
   },
   "d5c3149d6b404a0bace5ea1c40008b74.16": {
    "cells": {
-    "14": "F4ij[2235,8446]@14",
-    "17": "F4ij[17887,67568]@17"
+    "14": "F4ij[2235,8446]@14"
    },
    "guid": "d5c3149d6b404a0bace5ea1c40008b74.16",
-   "image": "http://lh3.ggpht.com/ALQfF-RELwzQYzPKZZMCkgHC5f32h9-rTK1-jUw7C_X65O00Z3FWdqRntxvVC8x4gmWm0-N3RtUsId4Cl1Q",
    "lat": 33.455126,
    "lng": -88.797215,
    "name": "Sigma Alpha Epsilon Lion Statue"
   },
   "d68f7bb92b7b45738f4b692782d7caaf.16": {
    "cells": {
-    "14": "F4ij[2237,8444]@14",
-    "17": "F4ij[17896,67554]@17"
+    "14": "F4ij[2237,8444]@14"
    },
    "guid": "d68f7bb92b7b45738f4b692782d7caaf.16",
-   "image": "http://lh6.ggpht.com/mlzOLGNAoC3zMQ413UrclTIKbtUayaVMenKf6li5Wht3qiilOYpdb1YeExRE4TeKJmkW3wy1lKkjulYS3p0",
    "lat": 33.449053,
    "lng": -88.805886,
    "name": "Main Starkville Water Tower"
@@ -1672,8 +1553,7 @@
   },
   "d963b8aec8be4cc48f522150d51a58b1.16": {
    "cells": {
-    "14": "F4ij[2234,8442]@14",
-    "17": "F4ij[17875,67542]@17"
+    "14": "F4ij[2234,8442]@14"
    },
    "guid": "d963b8aec8be4cc48f522150d51a58b1.16",
    "lat": 33.463995,
@@ -1682,8 +1562,7 @@
   },
   "db756b0e940f4887a3a8d69e58b2ed1e.12": {
    "cells": {
-    "14": "F4ij[2238,8443]@14",
-    "17": "F4ij[17906,67546]@17"
+    "14": "F4ij[2238,8443]@14"
    },
    "guid": "db756b0e940f4887a3a8d69e58b2ed1e.12",
    "lat": 33.442334,
@@ -1692,22 +1571,24 @@
   },
   "dd3a4dc87d474eb4b7bde0614c787fbe.12": {
    "cells": {
-    "14": "F4ij[2235,8448]@14",
-    "17": "F4ij[17886,67585]@17"
+    "14": "F4ij[2235,8448]@14"
    },
    "guid": "dd3a4dc87d474eb4b7bde0614c787fbe.12",
-   "image": "http://lh5.ggpht.com/lfPIDsuLao5UXOMiMjtf7nUCY9Z_UwRctYd6YCf4TcxPuN3iFczFWUGccRn1J8OocisCON4CkPgckiolOnI",
    "lat": 33.455582,
    "lng": -88.786735,
    "name": "Dunn-Seiler Geology Museum"
   },
+  "dd7866c74be94d5b83639be40e493787.12": {
+   "guid": "dd7866c74be94d5b83639be40e493787.12",
+   "lat": 33.484054,
+   "lng": -88.815732,
+   "name": "Starkville Fire Department"
+  },
   "e04519878ed64982be2c10d08d3a7218.16": {
    "cells": {
-    "14": "F4ij[2235,8446]@14",
-    "17": "F4ij[17882,67568]@17"
+    "14": "F4ij[2235,8446]@14"
    },
    "guid": "e04519878ed64982be2c10d08d3a7218.16",
-   "image": "http://lh6.ggpht.com/-pbV4OMn5U_AiYeb2jArB1VG59-Yt3rMPwqqIwP0p4NwjVt-TJSQQrQhah6qiK-L_kZNtyogaOb6F7R7XGrF",
    "lat": 33.458546,
    "lng": -88.797316,
    "name": "Fisher Gardens "
@@ -1723,19 +1604,16 @@
   },
   "e8c1c08d0fc94ccc85a6b03ddb6f454f.16": {
    "cells": {
-    "14": "F4ij[2236,8447]@14",
-    "17": "F4ij[17890,67580]@17"
+    "14": "F4ij[2236,8447]@14"
    },
    "guid": "e8c1c08d0fc94ccc85a6b03ddb6f454f.16",
-   "image": "http://lh6.ggpht.com/1_yCAG3Mvn12tDeCO8UZU6SFtMc3S-9iOE24OXGqhaVl4ENVNs0o4G4zpvJ39LferSeZLtmFDNItKExrLYscoA",
    "lat": 33.453075,
    "lng": -88.789905,
    "name": "Adam Kazery Memorial"
   },
   "edeecc760ac94cf6aa19123dab6f33ae.12": {
    "cells": {
-    "14": "F4ij[2236,8440]@14",
-    "17": "F4ij[17890,67524]@17"
+    "14": "F4ij[2236,8440]@14"
    },
    "guid": "edeecc760ac94cf6aa19123dab6f33ae.12",
    "lat": 33.453766,
@@ -1744,11 +1622,9 @@
   },
   "efbb131c657f4ea9bd128ebbdc6ab1d2.16": {
    "cells": {
-    "14": "F4ij[2234,8445]@14",
-    "17": "F4ij[17874,67560]@17"
+    "14": "F4ij[2234,8445]@14"
    },
    "guid": "efbb131c657f4ea9bd128ebbdc6ab1d2.16",
-   "image": "http://lh4.ggpht.com/F-YLirUva0vFZTpcZlLbYKCtpQS0URu4JvNRBFSYl5vbjE3sGW_fsePrjJFn1NGzpq8AUE8Z1RwwoDHd6wVCJQ",
    "lat": 33.464297,
    "lng": -88.802144,
    "name": "Islamic Center of Mississippi"
@@ -1773,41 +1649,43 @@
   },
   "f1f5fc39af404cd6accec052aa4e1f0c.16": {
    "cells": {
-    "14": "F4ij[2235,8446]@14",
-    "17": "F4ij[17887,67573]@17"
+    "14": "F4ij[2235,8446]@14"
    },
    "guid": "f1f5fc39af404cd6accec052aa4e1f0c.16",
-   "image": "http://lh3.ggpht.com/G5NOLQNK1IZMaZG1zTwFOxbnFOeUtVEyR8Sp6T2nif8TyU7_233Y0x1J4SKuwPtW0tfLjpBC2QstmkLUjqjg",
    "lat": 33.455539,
    "lng": -88.793901,
    "name": "Frank Turman Field House"
   },
+  "f20a5ee9b0c94846b51507d47aa75e77.16": {
+   "cells": {
+    "14": "F4ij[2233,8440]@14"
+   },
+   "guid": "f20a5ee9b0c94846b51507d47aa75e77.16",
+   "lat": 33.470247,
+   "lng": -88.824731,
+   "name": "J. L. King Sr Baseball Field"
+  },
   "f2fab357642d4819a581fc6fe3a5db29.12": {
    "cells": {
-    "14": "F4ij[2235,8447]@14",
-    "17": "F4ij[17887,67579]@17"
+    "14": "F4ij[2235,8447]@14"
    },
    "guid": "f2fab357642d4819a581fc6fe3a5db29.12",
-   "image": "http://lh6.ggpht.com/7muoAH1OQrM4i6U9LB_wzRZptQzHyoJWCv01YuygyLh53UtmVnOIb_lJ_9W1WAtJy7hIhhhLupnMmHv9c1YlGQ",
    "lat": 33.455546,
    "lng": -88.790393,
    "name": "Mississippi State University"
   },
   "f3138a898baf455ba8d76cd911997545.16": {
    "cells": {
-    "14": "F4ij[2235,8448]@14",
-    "17": "F4ij[17887,67586]@17"
+    "14": "F4ij[2235,8448]@14"
    },
    "guid": "f3138a898baf455ba8d76cd911997545.16",
-   "image": "http://lh3.googleusercontent.com/1W06kkt9RUEW6X7LBs-ZHmZV6-zOoapHNI9JQhwwWo1a2EwavtuvflphW-SSd9p3pePKs7ooX7yMeHSIvpL2",
    "lat": 33.455073,
    "lng": -88.78617,
    "name": "Roberts Building "
   },
   "f3df77913d094506ab7e6226e2dd39b4.16": {
    "cells": {
-    "14": "F4ij[2237,8441]@14",
-    "17": "F4ij[17900,67533]@17"
+    "14": "F4ij[2237,8441]@14"
    },
    "guid": "f3df77913d094506ab7e6226e2dd39b4.16",
    "lat": 33.446686,
@@ -1816,19 +1694,16 @@
   },
   "f6ff832495814a81bc542242223c6a58.16": {
    "cells": {
-    "14": "F4ij[2234,8446]@14",
-    "17": "F4ij[17879,67573]@17"
+    "14": "F4ij[2234,8446]@14"
    },
    "guid": "f6ff832495814a81bc542242223c6a58.16",
-   "image": "http://lh3.ggpht.com/n0LW90cSczrAieGE9g1wJ4PruQROmcC05olCbCui3_b01ojcbNgDmHzwBvyN2feh6_3gux1FuWsmWp5NFvo",
    "lat": 33.460855,
    "lng": -88.79398,
    "name": "Mize Pavilion "
   },
   "f7fef44b4f7d4a9c89da9a5f0b9e7b69.16": {
    "cells": {
-    "14": "F4ij[2234,8442]@14",
-    "17": "F4ij[17877,67537]@17"
+    "14": "F4ij[2234,8442]@14"
    },
    "guid": "f7fef44b4f7d4a9c89da9a5f0b9e7b69.16",
    "lat": 33.462611,
@@ -1837,11 +1712,9 @@
   },
   "fcfc04599b764021bd2584114226ac91.16": {
    "cells": {
-    "14": "F4ij[2235,8444]@14",
-    "17": "F4ij[17883,67552]@17"
+    "14": "F4ij[2235,8444]@14"
    },
    "guid": "fcfc04599b764021bd2584114226ac91.16",
-   "image": "http://lh3.ggpht.com/Gt1cuWdYljSMkCoCJ7K9LjpAi_D2VxDUsXmyMiBuqIFVyI-EQlq1YIigyeBzG-hgACM5sk6EyNTPkYqnUrgw",
    "lat": 33.458298,
    "lng": -88.806736,
    "name": "First Church Of Christ Holiness"
