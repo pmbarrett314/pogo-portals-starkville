@@ -209,6 +209,12 @@
    "lng": -88.790798,
    "name": "Mississippi State University Frank Sanderson Center"
   },
+  "8b93913635d14048aa46fda353e869bb.16": {
+   "guid": "8b93913635d14048aa46fda353e869bb.16",
+   "lat": 33.269857,
+   "lng": -88.783999,
+   "name": "Webster Memorial Oak Grove"
+  },
   "8ecb2160a519499aa5b1915dcc020881.16": {
    "cells": {
     "14": "F4ij[2235,8447]@14"
@@ -364,6 +370,15 @@
    "lng": -88.833603,
    "name": "Zaxby's Little League Baseball Field"
   },
+  "bdae17cf72744fd298a76e1ad7cefb0b.16": {
+   "cells": {
+    "14": "F4ij[2237,8439]@14"
+   },
+   "guid": "bdae17cf72744fd298a76e1ad7cefb0b.16",
+   "lat": 33.445392,
+   "lng": -88.830749,
+   "name": "Daniel Craig Rich Memorial Bench"
+  },
   "c31a70d61f8245de8712b3406b967a1b.16": {
    "cells": {
     "14": "F4ij[2235,8439]@14"
@@ -491,6 +506,15 @@
    "lat": 33.461906,
    "lng": -88.810547,
    "name": "Silver Water Tower"
+  },
+  "08964a3bb12445c2ae7fd991b13f8e19.16": {
+   "cells": {
+    "14": "F4ij[2233,8450]@14"
+   },
+   "guid": "08964a3bb12445c2ae7fd991b13f8e19.16",
+   "lat": 33.46707,
+   "lng": -88.778117,
+   "name": "Mississippi State University - East Entrance"
   },
   "0ae23c69be9b48eb906d624d9192cd29.16": {
    "cells": {
@@ -918,6 +942,9 @@
    "name": "Veterans Memorial"
   },
   "4724d119ffb2401291dbb81d2c0b874f.16": {
+   "cells": {
+    "14": "F4ij[2267,8446]@14"
+   },
    "guid": "4724d119ffb2401291dbb81d2c0b874f.16",
    "lat": 33.277935,
    "lng": -88.7936,
@@ -1132,6 +1159,15 @@
    "lng": -88.775099,
    "name": "Veterans Honor Garden"
   },
+  "6a2ed79d62c74446b2eb1df9172c9ef6.16": {
+   "cells": {
+    "14": "F4ij[2237,8438]@14"
+   },
+   "guid": "6a2ed79d62c74446b2eb1df9172c9ef6.16",
+   "lat": 33.445791,
+   "lng": -88.833114,
+   "name": "Chick Fila Starkville Baseball Field"
+  },
   "6da08fb538ce4c088e708182409b629b.16": {
    "cells": {
     "14": "F4ij[2233,8439]@14"
@@ -1194,6 +1230,15 @@
    "lat": 33.459891,
    "lng": -88.821756,
    "name": "First Assembly Of God Church"
+  },
+  "7a1dbbb9a2bf4c979be66919b0bd962e.16": {
+   "cells": {
+    "14": "F4ij[2237,8439]@14"
+   },
+   "guid": "7a1dbbb9a2bf4c979be66919b0bd962e.16",
+   "lat": 33.445508,
+   "lng": -88.83106,
+   "name": "Starkville Rotary Club Baseball Field"
   },
   "7b7f5d00f00148c5bd566eb6b6aa268c.16": {
    "cells": {
@@ -1258,6 +1303,15 @@
    "lng": -88.870244,
    "name": "Emmanuel Baptist Church"
   },
+  "89dfca604ce1497bafc11978c5fcfd52.16": {
+   "cells": {
+    "14": "F4ij[2268,8448]@14"
+   },
+   "guid": "89dfca604ce1497bafc11978c5fcfd52.16",
+   "lat": 33.270493,
+   "lng": -88.783166,
+   "name": "Dr. Ray Watson Memorial Trail "
+  },
   "8a69bca64c9a4bfc960eb2375c66cb23.12": {
    "cells": {
     "14": "F4ij[2236,8445]@14"
@@ -1275,15 +1329,6 @@
    "lat": 33.455278,
    "lng": -88.786962,
    "name": "James William Mills Memorial"
-  },
-  "8b93913635d14048aa46fda353e869bb.16": {
-   "cells": {
-    "14": "F4ij[2268,8448]@14"
-   },
-   "guid": "8b93913635d14048aa46fda353e869bb.16",
-   "lat": 33.269857,
-   "lng": -88.783999,
-   "name": "Webster Memorial Oak Grove"
   },
   "8d459fb7dc3e493ebc3c63edc05bb418.16": {
    "cells": {
@@ -1311,6 +1356,15 @@
    "lat": 33.444014,
    "lng": -88.844702,
    "name": "Nucor Pavilion"
+  },
+  "90c5f68f03ec4aaa8d3cb00b3957d8be.16": {
+   "cells": {
+    "14": "F4ij[2237,8438]@14"
+   },
+   "guid": "90c5f68f03ec4aaa8d3cb00b3957d8be.16",
+   "lat": 33.444989,
+   "lng": -88.83197,
+   "name": "McKee Park Tennis Courts"
   },
   "93650d23a99841c49d02b2b389769644.16": {
    "cells": {
@@ -1556,15 +1610,6 @@
    "lat": 33.468723,
    "lng": -88.816621,
    "name": "City of Starkville"
-  },
-  "bdae17cf72744fd298a76e1ad7cefb0b.16": {
-   "cells": {
-    "14": "F4ij[2237,8439]@14"
-   },
-   "guid": "bdae17cf72744fd298a76e1ad7cefb0b.16",
-   "lat": 33.445392,
-   "lng": -88.830749,
-   "name": "Daniel Craig Rich Memorial Bench"
   },
   "be2b818b343143fbbba5cbb560ebd817.16": {
    "cells": {
