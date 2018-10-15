@@ -210,6 +210,9 @@
    "name": "Mississippi State University Frank Sanderson Center"
   },
   "8b93913635d14048aa46fda353e869bb.16": {
+   "cells": {
+    "14": "F4ij[2268,8448]@14"
+   },
    "guid": "8b93913635d14048aa46fda353e869bb.16",
    "lat": 33.269857,
    "lng": -88.783999,
@@ -379,6 +382,12 @@
    "lng": -88.830749,
    "name": "Daniel Craig Rich Memorial Bench"
   },
+  "c22086c9f55f4d8787d4f0b7ef781147.16": {
+   "guid": "c22086c9f55f4d8787d4f0b7ef781147.16",
+   "lat": 33.463087,
+   "lng": -88.8179,
+   "name": "First United Methodist Church Starkville"
+  },
   "c31a70d61f8245de8712b3406b967a1b.16": {
    "cells": {
     "14": "F4ij[2235,8439]@14"
@@ -486,6 +495,26 @@
    "lat": 33.460777,
    "lng": -88.783609,
    "name": "Starkville Church Of Christ "
+  }
+ },
+ "notpogo": {
+  "24be86d29ecb47a180a84c7832b2e7f2.16": {
+   "guid": "24be86d29ecb47a180a84c7832b2e7f2.16",
+   "lat": 33.463057,
+   "lng": -88.806949,
+   "name": "Odd Fellows Cemetery Entrance"
+  },
+  "a1cf5ee361c14e43a761029c4c84aaee.16": {
+   "guid": "a1cf5ee361c14e43a761029c4c84aaee.16",
+   "lat": 33.463083,
+   "lng": -88.818325,
+   "name": "A Garden For Laura"
+  },
+  "aa0670d07d3044ff8c89a4c4edac4901.16": {
+   "guid": "aa0670d07d3044ff8c89a4c4edac4901.16",
+   "lat": 33.462853,
+   "lng": -88.814875,
+   "name": "Starkville Korean Church"
   }
  },
  "pokestops": {
@@ -1611,6 +1640,15 @@
    "lng": -88.816621,
    "name": "City of Starkville"
   },
+  "b72b2e3e1d3b4ad184ceefa0e7ee798f.16": {
+   "cells": {
+    "14": "F4ij[2234,8441]@14"
+   },
+   "guid": "b72b2e3e1d3b4ad184ceefa0e7ee798f.16",
+   "lat": 33.463757,
+   "lng": -88.817405,
+   "name": "Starkville City Hall"
+  },
   "be2b818b343143fbbba5cbb560ebd817.16": {
    "cells": {
     "14": "F4ij[2236,8447]@14"
@@ -1637,15 +1675,6 @@
    "lat": 33.463724,
    "lng": -88.815934,
    "name": "Starkville Community Theater"
-  },
-  "c22086c9f55f4d8787d4f0b7ef781147.16": {
-   "cells": {
-    "14": "F4ij[2234,8441]@14"
-   },
-   "guid": "c22086c9f55f4d8787d4f0b7ef781147.16",
-   "lat": 33.463087,
-   "lng": -88.8179,
-   "name": "First United Methodist Church Starkville"
   },
   "c2e4c892749348b79a7f0a68ecf4969b.16": {
    "cells": {
