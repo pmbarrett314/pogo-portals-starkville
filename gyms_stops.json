@@ -53,6 +53,16 @@
    "lng": -88.781337,
    "name": "Volleyball Court At The Pointe"
   },
+  "2d09011c6c1b4e15ba6fe40e9e74223b.16": {
+   "cells": {
+    "14": "F4ij[2236,8446]@14",
+    "17": "F4ij[17888,67575]@17"
+   },
+   "guid": "2d09011c6c1b4e15ba6fe40e9e74223b.16",
+   "lat": 33.454604,
+   "lng": -88.79296,
+   "name": "MSU Bully Statue 1"
+  },
   "2d126bfa779d48b0bc1125898d9fcf6c.16": {
    "cells": {
     "14": "F4ij[2232,8457]@14"
@@ -478,6 +488,16 @@
    "lng": -88.785887,
    "name": "Eckie's Pond"
   },
+  "edeecc760ac94cf6aa19123dab6f33ae.12": {
+   "cells": {
+    "14": "F4ij[2236,8440]@14",
+    "17": "F4ij[17890,67524]@17"
+   },
+   "guid": "edeecc760ac94cf6aa19123dab6f33ae.12",
+   "lat": 33.453766,
+   "lng": -88.82365,
+   "name": "W.H. \"Corn Club\" Smith"
+  },
   "f02bed6d38234e6d8f92b3387ac91626.16": {
    "cells": {
     "14": "F4ij[2236,8447]@14"
@@ -524,6 +544,16 @@
    "lat": 33.462853,
    "lng": -88.814875,
    "name": "Starkville Korean Church"
+  },
+  "e325e53070af447d91eeb7e63c7c1b37.16": {
+   "cells": {
+    "14": "F4ij[2236,8448]@14",
+    "17": "F4ij[17890,67584]@17"
+   },
+   "guid": "e325e53070af447d91eeb7e63c7c1b37.16",
+   "lat": 33.453167,
+   "lng": -88.787292,
+   "name": "Bowen Hall"
   }
  },
  "pokestops": {
@@ -571,6 +601,16 @@
    "lat": 33.454831,
    "lng": -88.787258,
    "name": "Cobb Institute of Archaeology"
+  },
+  "0cca4e07f67040b7afb8f923a5b94c61.16": {
+   "cells": {
+    "14": "F4ij[2233,8447]@14",
+    "17": "F4ij[17871,67576]@17"
+   },
+   "guid": "0cca4e07f67040b7afb8f923a5b94c61.16",
+   "lat": 33.466606,
+   "lng": -88.792354,
+   "name": "Nusz Park"
   },
   "0e05ecd643d949e48fa8133ae470a6ae.11": {
    "cells": {
@@ -707,6 +747,16 @@
    "lng": -88.79378,
    "name": "Mobile & Ohio Railroad Memorial"
   },
+  "1c5bc314565840caa506b8b16e70cf7a.16": {
+   "cells": {
+    "14": "F4ij[2235,8446]@14",
+    "17": "F4ij[17881,67571]@17"
+   },
+   "guid": "1c5bc314565840caa506b8b16e70cf7a.16",
+   "lat": 33.459677,
+   "lng": -88.795088,
+   "name": "Mississippi State Soccer Field"
+  },
   "1d1dee6628524d909c770a2112dd4889.16": {
    "cells": {
     "14": "F4ij[2234,8442]@14"
@@ -815,15 +865,6 @@
    "lng": -88.806148,
    "name": "Strange Brew Monster Statue"
   },
-  "2d09011c6c1b4e15ba6fe40e9e74223b.16": {
-   "cells": {
-    "14": "F4ij[2236,8446]@14"
-   },
-   "guid": "2d09011c6c1b4e15ba6fe40e9e74223b.16",
-   "lat": 33.454604,
-   "lng": -88.79296,
-   "name": "MSU Bully Statue 1"
-  },
   "2e63fd87154946779b456f3372fec486.16": {
    "cells": {
     "14": "F4ij[2237,8447]@14"
@@ -914,6 +955,16 @@
    "lat": 33.466203,
    "lng": -88.818114,
    "name": "Bombay Spice Kitchen Indian Restaurant"
+  },
+  "3d40f1ace24a452b89c05934874d6716.16": {
+   "cells": {
+    "14": "F4ij[2237,8440]@14",
+    "17": "F4ij[17902,67526]@17"
+   },
+   "guid": "3d40f1ace24a452b89c05934874d6716.16",
+   "lat": 33.444811,
+   "lng": -88.822367,
+   "name": "Native American Mural"
   },
   "4108a02514d24c74aa23e079357fa83c.16": {
    "cells": {
@@ -1251,6 +1302,12 @@
    "lng": -88.743325,
    "name": "Truth Tabernacle Church"
   },
+  "7312fee80dbd4864a7cc1417051de9c7.16": {
+   "guid": "7312fee80dbd4864a7cc1417051de9c7.16",
+   "lat": 33.457107,
+   "lng": -88.851068,
+   "name": "Avalon Basketball Court "
+  },
   "74844d45ed3444959b53d04c0d8cf461.16": {
    "cells": {
     "14": "F4ij[2235,8446]@14"
@@ -1322,6 +1379,17 @@
    "lat": 33.463138,
    "lng": -88.814108,
    "name": "Classic Truck Mural"
+  },
+  "857fa4292fab4905b6b698c4431c36de.16": {
+   "cells": {
+    "14": "F4ij[2236,8446]@14",
+    "17": "F4ij[17889,67572]@17"
+   },
+   "guid": "857fa4292fab4905b6b698c4431c36de.16",
+   "image": "http://lh3.googleusercontent.com/gW1F0vA5lTbCHHE0CTsktnLxZRAqqTgZ7wuwvOyqk0nF3OLrX_b67U3poHS64nHHsj74eBEpobyYa-wzp4ga7g",
+   "lat": 33.453726,
+   "lng": -88.794924,
+   "name": "Mississippi Agricultural & Forestry Experiment Station"
   },
   "8798afb0ad234696aab82e350303b9e9.16": {
    "cells": {
@@ -1558,6 +1626,16 @@
    "lng": -88.780965,
    "name": "Rodney Foil Plant Research Center"
   },
+  "aa7133da0db84637b44f4cfcbcd7f818.16": {
+   "cells": {
+    "14": "F4ij[2236,8442]@14",
+    "17": "F4ij[17889,67540]@17"
+   },
+   "guid": "aa7133da0db84637b44f4cfcbcd7f818.16",
+   "lat": 33.454184,
+   "lng": -88.81429,
+   "name": "Petty's Barbeque"
+  },
   "aacdf261d5c74f2aa5d97b0c246ff694.16": {
    "cells": {
     "14": "F4ij[2236,8447]@14"
@@ -1657,6 +1735,16 @@
    "lat": 33.463757,
    "lng": -88.817405,
    "name": "Starkville City Hall"
+  },
+  "bd7e3755789e4616a8af53ecabd05141.16": {
+   "cells": {
+    "14": "F4ij[2236,8435]@14",
+    "17": "F4ij[17889,67484]@17"
+   },
+   "guid": "bd7e3755789e4616a8af53ecabd05141.16",
+   "lat": 33.454664,
+   "lng": -88.847828,
+   "name": "Crossgates Basketball Court"
   },
   "be2b818b343143fbbba5cbb560ebd817.16": {
    "cells": {
@@ -1910,27 +1998,30 @@
    "lng": -88.728742,
    "name": "Fellowship Baptist Church"
   },
+  "e73432b9c668433695f37b82f06f5492.16": {
+   "cells": {
+    "14": "F4ij[2236,8440]@14",
+    "17": "F4ij[17893,67527]@17"
+   },
+   "guid": "e73432b9c668433695f37b82f06f5492.16",
+   "lat": 33.451687,
+   "lng": -88.822047,
+   "name": "Wind Powered Kinetic Sculpture"
+  },
   "e8c1c08d0fc94ccc85a6b03ddb6f454f.16": {
    "cells": {
-    "14": "F4ij[2236,8447]@14"
+    "14": "F4ij[2236,8447]@14",
+    "17": "F4ij[17890,67580]@17"
    },
    "guid": "e8c1c08d0fc94ccc85a6b03ddb6f454f.16",
    "lat": 33.453075,
    "lng": -88.789905,
    "name": "Adam Kazery Memorial"
   },
-  "edeecc760ac94cf6aa19123dab6f33ae.12": {
-   "cells": {
-    "14": "F4ij[2236,8440]@14"
-   },
-   "guid": "edeecc760ac94cf6aa19123dab6f33ae.12",
-   "lat": 33.453766,
-   "lng": -88.82365,
-   "name": "W.H. \"Corn Club\" Smith"
-  },
   "efbb131c657f4ea9bd128ebbdc6ab1d2.16": {
    "cells": {
-    "14": "F4ij[2234,8445]@14"
+    "14": "F4ij[2234,8445]@14",
+    "17": "F4ij[17874,67560]@17"
    },
    "guid": "efbb131c657f4ea9bd128ebbdc6ab1d2.16",
    "lat": 33.464297,
@@ -2011,16 +2102,29 @@
   },
   "f7fef44b4f7d4a9c89da9a5f0b9e7b69.16": {
    "cells": {
-    "14": "F4ij[2234,8442]@14"
+    "14": "F4ij[2234,8442]@14",
+    "17": "F4ij[17877,67537]@17"
    },
    "guid": "f7fef44b4f7d4a9c89da9a5f0b9e7b69.16",
    "lat": 33.462611,
    "lng": -88.815725,
    "name": "First Baptist Church"
   },
+  "f94a60734d2f4a8ebecdd8165354127b.16": {
+   "cells": {
+    "14": "F4ij[2236,8446]@14",
+    "17": "F4ij[17890,67568]@17"
+   },
+   "guid": "f94a60734d2f4a8ebecdd8165354127b.16",
+   "image": "http://lh3.googleusercontent.com/KxtpnBKB6uQb6kxIrAJwuRGeeA8XHGrUGEzkiKOoGSaUr5N9w8OX8mYdtKY9EgCpbKfP-4IzeHHqNwMxRrog",
+   "lat": 33.453145,
+   "lng": -88.79694,
+   "name": "MSU Community Garden"
+  },
   "fcfc04599b764021bd2584114226ac91.16": {
    "cells": {
-    "14": "F4ij[2235,8444]@14"
+    "14": "F4ij[2235,8444]@14",
+    "17": "F4ij[17883,67552]@17"
    },
    "guid": "fcfc04599b764021bd2584114226ac91.16",
    "lat": 33.458298,
