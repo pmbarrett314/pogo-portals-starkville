@@ -90,6 +90,12 @@
    "lng": -88.830117,
    "name": "Travis Outlaw Center Mural"
   },
+  "4108a02514d24c74aa23e079357fa83c.16": {
+   "guid": "4108a02514d24c74aa23e079357fa83c.16",
+   "lat": 33.473571,
+   "lng": -88.793279,
+   "name": "Center for Advanced Vehicular Systems"
+  },
   "4296d50346124a3fac19c53ae1762fa3.16": {
    "guid": "4296d50346124a3fac19c53ae1762fa3.16",
    "lat": 33.475782,
@@ -143,6 +149,12 @@
    "lat": 33.465674,
    "lng": -88.808463,
    "name": "Darkhorse Knight Statue"
+  },
+  "6e4a4fa8bc9847058b7f6bd8ba008576.16": {
+   "guid": "6e4a4fa8bc9847058b7f6bd8ba008576.16",
+   "lat": 33.472163,
+   "lng": -88.814784,
+   "name": "Calvary Baptist Church "
   },
   "7312fee80dbd4864a7cc1417051de9c7.16": {
    "guid": "7312fee80dbd4864a7cc1417051de9c7.16",
@@ -234,11 +246,23 @@
    "lng": -88.840674,
    "name": "Starkville Post Office"
   },
+  "a1d2606b22d94d39a739ae6b49d80383.16": {
+   "guid": "a1d2606b22d94d39a739ae6b49d80383.16",
+   "lat": 33.463916,
+   "lng": -88.792461,
+   "name": "MSU Hall Of Champions "
+  },
   "a667c64955fe4695afe3cf0699aa750e.12": {
    "guid": "a667c64955fe4695afe3cf0699aa750e.12",
    "lat": 33.462816,
    "lng": -88.818316,
    "name": "Hic A Sha Ba Ha Spring"
+  },
+  "a76e4582e65046998689eb8a5128efc1.16": {
+   "guid": "a76e4582e65046998689eb8a5128efc1.16",
+   "lat": 33.447659,
+   "lng": -88.795524,
+   "name": "Mississippi State University Entrance Sign"
   },
   "a9a248b477074feeba80a992888cf064.12": {
    "guid": "a9a248b477074feeba80a992888cf064.12",
@@ -294,6 +318,12 @@
    "lng": -88.8179,
    "name": "First United Methodist Church Starkville"
   },
+  "c3150b1554ec4e10ac50a87e1eec7150.16": {
+   "guid": "c3150b1554ec4e10ac50a87e1eec7150.16",
+   "lat": 33.444862,
+   "lng": -88.800391,
+   "name": "Hannah McAllister Pote Memorial"
+  },
   "c31a70d61f8245de8712b3406b967a1b.16": {
    "guid": "c31a70d61f8245de8712b3406b967a1b.16",
    "lat": 33.458007,
@@ -302,8 +332,8 @@
   },
   "c7f6769610964e7ca78bc903363d6015.16": {
    "guid": "c7f6769610964e7ca78bc903363d6015.16",
-   "lat": 33.426826,
-   "lng": -88.774519,
+   "lat": 33.426842,
+   "lng": -88.774524,
    "name": "Jesus Statue"
   },
   "cafa02a709ad4e7a895219b2d4063a02.12": {
@@ -494,6 +524,12 @@
    "lng": -88.889117,
    "name": "Josey Creek M. B. Church "
   },
+  "1754ae7925dd4f19a1cc427f6efc0a1c.16": {
+   "guid": "1754ae7925dd4f19a1cc427f6efc0a1c.16",
+   "lat": 33.528617,
+   "lng": -88.861546,
+   "name": "Saint Paul M.B. Church"
+  },
   "1779e3364ab74c259e1bc6c128ac2c05.16": {
    "guid": "1779e3364ab74c259e1bc6c128ac2c05.16",
    "lat": 33.483632,
@@ -583,6 +619,12 @@
    "lat": 33.438797,
    "lng": -88.828915,
    "name": "Moreland Inc Baseball Field"
+  },
+  "264cea81e83a42bda6d95860716dc029.16": {
+   "guid": "264cea81e83a42bda6d95860716dc029.16",
+   "lat": 33.467117,
+   "lng": -88.811325,
+   "name": "Tiki Mural at Ricks Cafe"
   },
   "2688af59b2324f62b6b556d83d44497f.11": {
    "guid": "2688af59b2324f62b6b556d83d44497f.11",
@@ -680,17 +722,23 @@
    "lng": -88.822367,
    "name": "Native American Mural"
   },
-  "4108a02514d24c74aa23e079357fa83c.16": {
-   "guid": "4108a02514d24c74aa23e079357fa83c.16",
-   "lat": 33.473571,
-   "lng": -88.793279,
-   "name": "Center for Advanced Vehicular Systems"
+  "40e64c46596f404ebf21c8e4d096e277.16": {
+   "guid": "40e64c46596f404ebf21c8e4d096e277.16",
+   "lat": 33.402971,
+   "lng": -88.846069,
+   "name": "Golden Triangle Cowboy Church"
   },
   "41480652f9004a52b3b90706df7bd0b0.16": {
    "guid": "41480652f9004a52b3b90706df7bd0b0.16",
    "lat": 33.457562,
    "lng": -88.790259,
    "name": "Butler Hall "
+  },
+  "43d698446cf54f16b772e15544ffc171.16": {
+   "guid": "43d698446cf54f16b772e15544ffc171.16",
+   "lat": 33.463196,
+   "lng": -88.816378,
+   "name": "The Last Page"
   },
   "4408b7a0efb24b268ca5033a0bc21ab4.16": {
    "guid": "4408b7a0efb24b268ca5033a0bc21ab4.16",
@@ -703,6 +751,12 @@
    "lat": 33.463726,
    "lng": -88.815301,
    "name": "Old Main District Clock"
+  },
+  "44e117c703ee4c91be515bc74b4a8c9b.16": {
+   "guid": "44e117c703ee4c91be515bc74b4a8c9b.16",
+   "lat": 33.117101,
+   "lng": -89.083248,
+   "name": "Blue Star Mem. Hwy. Louisville "
   },
   "451ce59d16454ab0884eef83fb582809.16": {
    "guid": "451ce59d16454ab0884eef83fb582809.16",
@@ -800,6 +854,12 @@
    "lng": -88.792293,
    "name": "McCarthy Gymnasium"
   },
+  "5792c32dba294e9b8b67fe84735abc6e.16": {
+   "guid": "5792c32dba294e9b8b67fe84735abc6e.16",
+   "lat": 33.403494,
+   "lng": -88.79517,
+   "name": "Mississippi Horse Park"
+  },
   "59ea1f19c7104e079c7378f462337361.16": {
    "guid": "59ea1f19c7104e079c7378f462337361.16",
    "lat": 33.441045,
@@ -884,12 +944,6 @@
    "lng": -88.82631,
    "name": "J. L. King, Sr. Memorial Park"
   },
-  "6e4a4fa8bc9847058b7f6bd8ba008576.16": {
-   "guid": "6e4a4fa8bc9847058b7f6bd8ba008576.16",
-   "lat": 33.472163,
-   "lng": -88.814784,
-   "name": "Calvary Baptist Church "
-  },
   "6e6363ba78c54f56bfadeb2e91029490.16": {
    "guid": "6e6363ba78c54f56bfadeb2e91029490.16",
    "lat": 33.45546,
@@ -925,6 +979,12 @@
    "lat": 33.459891,
    "lng": -88.821756,
    "name": "First Assembly Of God Church"
+  },
+  "7719887e00624a3880ecc990a767e9a6.16": {
+   "guid": "7719887e00624a3880ecc990a767e9a6.16",
+   "lat": 33.409726,
+   "lng": -88.810234,
+   "name": "Faith Baptist Church"
   },
   "7a1dbbb9a2bf4c979be66919b0bd962e.16": {
    "guid": "7a1dbbb9a2bf4c979be66919b0bd962e.16",
@@ -962,6 +1022,18 @@
    "lng": -88.818531,
    "name": "Babe Ruth Tennis Courts"
   },
+  "8284a06c2a8f403eaa1c7da2c0a09e28.16": {
+   "guid": "8284a06c2a8f403eaa1c7da2c0a09e28.16",
+   "lat": 33.424915,
+   "lng": -88.815788,
+   "name": "Little Library"
+  },
+  "82cae727c4884427a75a1a52ddf61792.16": {
+   "guid": "82cae727c4884427a75a1a52ddf61792.16",
+   "lat": 33.43826,
+   "lng": -88.875461,
+   "name": "Purpose For Praise Ministry"
+  },
   "835c676765204ebd90e65041e0d3d9e9.16": {
    "guid": "835c676765204ebd90e65041e0d3d9e9.16",
    "lat": 33.463138,
@@ -974,11 +1046,23 @@
    "lng": -88.794924,
    "name": "Mississippi Agricultural & Forestry Experiment Station"
   },
+  "86895163d470412088d20885d53f55a1.16": {
+   "guid": "86895163d470412088d20885d53f55a1.16",
+   "lat": 33.474224,
+   "lng": -88.812849,
+   "name": "Aldersgate United Methodist Church"
+  },
   "8798afb0ad234696aab82e350303b9e9.16": {
    "guid": "8798afb0ad234696aab82e350303b9e9.16",
    "lat": 33.463128,
    "lng": -88.81437,
    "name": "Starkville Community Market Mural"
+  },
+  "88e1dca0926c478da707585b1892a30b.16": {
+   "guid": "88e1dca0926c478da707585b1892a30b.16",
+   "lat": 33.124594,
+   "lng": -89.024964,
+   "name": "East Louisville Baptist Church"
   },
   "89a6ebeb19cd4cba816e4f43e828c94f.16": {
    "guid": "89a6ebeb19cd4cba816e4f43e828c94f.16",
@@ -1010,6 +1094,12 @@
    "lng": -88.787146,
    "name": "Patterson Engineering Laboratories"
   },
+  "8d857e86de12490b853c7e0a76d6100a.16": {
+   "guid": "8d857e86de12490b853c7e0a76d6100a.16",
+   "lat": 33.396293,
+   "lng": -88.777352,
+   "name": "Oktoc Water Tower"
+  },
   "8e6910a604804814a6d720e9747a3175.16": {
    "guid": "8e6910a604804814a6d720e9747a3175.16",
    "lat": 33.439893,
@@ -1027,6 +1117,12 @@
    "lat": 33.444989,
    "lng": -88.83197,
    "name": "McKee Park Tennis Courts"
+  },
+  "921537b82a9d4a52bfe923352ea06b68.16": {
+   "guid": "921537b82a9d4a52bfe923352ea06b68.16",
+   "lat": 33.473334,
+   "lng": -88.79049,
+   "name": "High Performance Computong Collaboratory at Mississippi State University"
   },
   "93650d23a99841c49d02b2b389769644.16": {
    "guid": "93650d23a99841c49d02b2b389769644.16",
@@ -1093,12 +1189,6 @@
    "lat": 33.453569,
    "lng": -88.789449,
    "name": "MSU Flagpole"
-  },
-  "a1d2606b22d94d39a739ae6b49d80383.16": {
-   "guid": "a1d2606b22d94d39a739ae6b49d80383.16",
-   "lat": 33.463916,
-   "lng": -88.792461,
-   "name": "MSU Hall Of Champions "
   },
   "a46043411784499f9c5a3e484d2e7b50.16": {
    "guid": "a46043411784499f9c5a3e484d2e7b50.16",
@@ -1208,6 +1298,18 @@
    "lng": -88.817405,
    "name": "Starkville City Hall"
   },
+  "b8c1dcf50b1e432583cc9e77b8901608.16": {
+   "guid": "b8c1dcf50b1e432583cc9e77b8901608.16",
+   "lat": 33.120265,
+   "lng": -89.057266,
+   "name": "Big Red Fire Muesum No. 2"
+  },
+  "b9bf9a6f4baa45268cd6928d3537e80f.16": {
+   "guid": "b9bf9a6f4baa45268cd6928d3537e80f.16",
+   "lat": 33.463113,
+   "lng": -88.789788,
+   "name": "Sanderson Center Outdoor Workout Equipment"
+  },
   "bd7e3755789e4616a8af53ecabd05141.16": {
    "guid": "bd7e3755789e4616a8af53ecabd05141.16",
    "lat": 33.454664,
@@ -1219,6 +1321,12 @@
    "lat": 33.452734,
    "lng": -88.789035,
    "name": "The Statue of Knowledge"
+  },
+  "bef6561bec834e0a9d9009b64c6bdcd3.16": {
+   "guid": "bef6561bec834e0a9d9009b64c6bdcd3.16",
+   "lat": 33.457764,
+   "lng": -88.791882,
+   "name": "Man in the Wall at Briscoe Hall"
   },
   "bf772de548df4080a2bcf015b025efa8.16": {
    "guid": "bf772de548df4080a2bcf015b025efa8.16",
@@ -1243,6 +1351,12 @@
    "lat": 33.450513,
    "lng": -88.826484,
    "name": "Meadowview Baptist Church"
+  },
+  "c69b20cac6a84f7dbbbc2bf5f22d4e00.16": {
+   "guid": "c69b20cac6a84f7dbbbc2bf5f22d4e00.16",
+   "lat": 33.472314,
+   "lng": -88.794613,
+   "name": "Institute for Clean Energy Technology"
   },
   "c787ce5a3d764b4dbe5663d5bc62d24c.16": {
    "guid": "c787ce5a3d764b4dbe5663d5bc62d24c.16",
@@ -1273,6 +1387,12 @@
    "lat": 33.456798,
    "lng": -88.851433,
    "name": "Avalon Tennis Court"
+  },
+  "cbc01fc3c4c8479793c1c1b61f08eb39.16": {
+   "guid": "cbc01fc3c4c8479793c1c1b61f08eb39.16",
+   "lat": 33.127404,
+   "lng": -89.045999,
+   "name": "Faith Tabernacle Church of Christ"
   },
   "cc9ad62eddcb4252964855666016959e.16": {
    "guid": "cc9ad62eddcb4252964855666016959e.16",
@@ -1364,6 +1484,12 @@
    "lng": -88.810677,
    "name": "Starkville Fire Department"
   },
+  "dd144be4586349aca37670e7ce79709a.12": {
+   "guid": "dd144be4586349aca37670e7ce79709a.12",
+   "lat": 33.30151,
+   "lng": -88.6217,
+   "name": "Big Joe Williams"
+  },
   "dd3a4dc87d474eb4b7bde0614c787fbe.12": {
    "guid": "dd3a4dc87d474eb4b7bde0614c787fbe.12",
    "lat": 33.455582,
@@ -1405,6 +1531,12 @@
    "lat": 33.453075,
    "lng": -88.789905,
    "name": "Adam Kazery Memorial"
+  },
+  "eb3c3ece9cf84a66916bdb87ade33e47.16": {
+   "guid": "eb3c3ece9cf84a66916bdb87ade33e47.16",
+   "lat": 33.462651,
+   "lng": -88.816574,
+   "name": "Connection"
   },
   "efbb131c657f4ea9bd128ebbdc6ab1d2.16": {
    "guid": "efbb131c657f4ea9bd128ebbdc6ab1d2.16",
