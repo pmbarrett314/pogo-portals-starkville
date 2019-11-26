@@ -410,7 +410,8 @@
   }
  },
  "ignoredCellsExtraGyms": {
-  "F4ij[2236,8444]@14": true
+  "F4ij[2236,8444]@14": true,
+  "F4ij[2237,8436]@14": true
  },
  "ignoredCellsMissingGyms": {},
  "notpogo": {
@@ -680,6 +681,12 @@
    "lng": -88.803906,
    "name": "Saint Joseph's Catholic Center 607"
   },
+  "312df2f766cc46319d957b54826783b8.16": {
+   "guid": "312df2f766cc46319d957b54826783b8.16",
+   "lat": 33.460765,
+   "lng": -88.814777,
+   "name": "Cajun Man Mural"
+  },
   "31e16cd6b5724e3db6791c581b67a3b7.16": {
    "guid": "31e16cd6b5724e3db6791c581b67a3b7.16",
    "lat": 33.457945,
@@ -938,12 +945,6 @@
    "lng": -88.82631,
    "name": "J. L. King, Sr. Memorial Park"
   },
-  "6e6363ba78c54f56bfadeb2e91029490.16": {
-   "guid": "6e6363ba78c54f56bfadeb2e91029490.16",
-   "lat": 33.45546,
-   "lng": -88.788633,
-   "name": "Vietnam War Memorial"
-  },
   "6f5e69617530472887bb19b88cec6231.16": {
    "guid": "6f5e69617530472887bb19b88cec6231.16",
    "lat": 33.493003,
@@ -1045,6 +1046,12 @@
    "lat": 33.474224,
    "lng": -88.812849,
    "name": "Aldersgate United Methodist Church"
+  },
+  "87150a62091242c98ac0f4c1816b97f9.16": {
+   "guid": "87150a62091242c98ac0f4c1816b97f9.16",
+   "lat": 33.456012,
+   "lng": -88.807576,
+   "name": "Lala's Umbrella Grove"
   },
   "8798afb0ad234696aab82e350303b9e9.16": {
    "guid": "8798afb0ad234696aab82e350303b9e9.16",
@@ -1322,11 +1329,23 @@
    "lng": -88.815934,
    "name": "Starkville Community Theater"
   },
+  "c2842656952445f489fc7a78fe193b99.16": {
+   "guid": "c2842656952445f489fc7a78fe193b99.16",
+   "lat": 33.462797,
+   "lng": -88.81746,
+   "name": "Lampkin Street Mural"
+  },
   "c2e4c892749348b79a7f0a68ecf4969b.16": {
    "guid": "c2e4c892749348b79a7f0a68ecf4969b.16",
    "lat": 33.459569,
    "lng": -88.8137,
    "name": "Overstreet School District"
+  },
+  "c3e8b8c9eff64966b9985c30aa5991ab.16": {
+   "guid": "c3e8b8c9eff64966b9985c30aa5991ab.16",
+   "lat": 33.454757,
+   "lng": -88.794548,
+   "name": "The Moon Sycamore"
   },
   "c411de6443b1486883afef78fbd14d52.16": {
    "guid": "c411de6443b1486883afef78fbd14d52.16",
@@ -1387,12 +1406,6 @@
    "lat": 33.445926,
    "lng": -88.831964,
    "name": "The Music Trail In McKee Park"
-  },
-  "d03576525e7b4adabd23d51d841c5ba6.16": {
-   "guid": "d03576525e7b4adabd23d51d841c5ba6.16",
-   "lat": 33.45236,
-   "lng": -88.795339,
-   "name": "Landscape Architecture"
   },
   "d1f04d261dbf4b5bb83c372dce5c2ddb.16": {
    "guid": "d1f04d261dbf4b5bb83c372dce5c2ddb.16",
@@ -1514,6 +1527,12 @@
    "lng": -88.816574,
    "name": "Connection"
   },
+  "ed3c74c806a54427885b1b896dfdfe27.16": {
+   "guid": "ed3c74c806a54427885b1b896dfdfe27.16",
+   "lat": 33.457649,
+   "lng": -88.790879,
+   "name": "Moore Hall"
+  },
   "efbb131c657f4ea9bd128ebbdc6ab1d2.16": {
    "guid": "efbb131c657f4ea9bd128ebbdc6ab1d2.16",
    "lat": 33.464297,
@@ -1591,6 +1610,12 @@
    "lat": 33.458298,
    "lng": -88.806736,
    "name": "First Church Of Christ Holiness"
+  },
+  "ffda4f4fb528470b8ec2d7edbbbcc477.16": {
+   "guid": "ffda4f4fb528470b8ec2d7edbbbcc477.16",
+   "lat": 33.45855,
+   "lng": -88.783284,
+   "name": "Down To Game"
   }
  }
 }
