@@ -2,6 +2,8 @@
 Data for the pokemon go stops and gyms in starkville
 
 ## Setup
+### This is a little out of date since IITC updated.
+
 0. Have an Ingress account and know how to log in to the online intel map.
 1. Install a userscript manager extension for your browser.
     * [Tampermonkey Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
@@ -30,6 +32,6 @@ If you'd like to add data for stops/gyms in the Starkville/MSU/Golden Triangle a
 1. Mark the new gyms and stops in the pogo plugin interface.
 2. Export your data by going to `PoGo Actions` > `Export Pogo`
 3. Move the file into the root of this repo and rename it `gyms_stops.json`
-4. Run the `sort_json.py` script on the `gyms_stops.json` file. This should make it where the json file comes is something that git can handle the differences in pretty easily.
+4. Run the `sort_json.py` script on the `gyms_stops.json` file. This should make it where the json file is something that git can handle the differences in pretty easily.
     * From the command line, you should be able to navigate into the repository and type `./sort_json.py gyms_stops.json`
 5. Commit and make a pull request as normal and I'll merge it.
