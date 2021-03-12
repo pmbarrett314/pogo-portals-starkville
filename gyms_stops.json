@@ -170,6 +170,12 @@
    "lng": -88.814033,
    "name": "Moncrief Park"
   },
+  "69c1c58b122a4945bb7fdcfdde253d52.16": {
+   "guid": "69c1c58b122a4945bb7fdcfdde253d52.16",
+   "lat": 33.438344,
+   "lng": -88.831627,
+   "name": "William Wells Soccer Field"
+  },
   "6bf013c06d10407794af3f1510c666fe.16": {
    "guid": "6bf013c06d10407794af3f1510c666fe.16",
    "lat": 33.465674,
@@ -476,6 +482,12 @@
    "lng": -88.795571,
    "name": "MSU Rec Plex"
   },
+  "f93bb32899744d07a573970d139a6898.16": {
+   "guid": "f93bb32899744d07a573970d139a6898.16",
+   "lat": 33.471048,
+   "lng": -88.787662,
+   "name": "Mississippi State Research Park Climbing Tower"
+  },
   "f9c85bc3e5c7437e909dd3f907e81a36.16": {
    "guid": "f9c85bc3e5c7437e909dd3f907e81a36.16",
    "lat": 33.472685,
@@ -569,6 +581,18 @@
    "lat": 33.461906,
    "lng": -88.810547,
    "name": "Silver Water Tower"
+  },
+  "06f4e8093f4b4f389dcfd333e98726d0.16": {
+   "guid": "06f4e8093f4b4f389dcfd333e98726d0.16",
+   "lat": 33.469283,
+   "lng": -88.78381,
+   "name": "MAFES Plant Research Greenhouses"
+  },
+  "082417a596f84431a8d630fbc695f90d.16": {
+   "guid": "082417a596f84431a8d630fbc695f90d.16",
+   "lat": 33.436797,
+   "lng": -88.830894,
+   "name": "FEIG Soccer Field"
   },
   "0ae23c69be9b48eb906d624d9192cd29.16": {
    "guid": "0ae23c69be9b48eb906d624d9192cd29.16",
@@ -767,6 +791,12 @@
    "lat": 33.458376,
    "lng": -88.797185,
    "name": "Hunter Henry Center"
+  },
+  "269f8f8af4644f298e00fc56ffce04ed.16": {
+   "guid": "269f8f8af4644f298e00fc56ffce04ed.16",
+   "lat": 33.446478,
+   "lng": -88.833127,
+   "name": "Chick-fil-a ballpark scoreboard"
   },
   "28d547bf54ec40c9899c90c16211fc68.16": {
    "guid": "28d547bf54ec40c9899c90c16211fc68.16",
@@ -1110,6 +1140,12 @@
    "lng": -88.918931,
    "name": "Adaton Fellowship Hall"
   },
+  "5ee8a96dea01463c95bfd45a4f63d12b.16": {
+   "guid": "5ee8a96dea01463c95bfd45a4f63d12b.16",
+   "lat": 33.469913,
+   "lng": -88.782401,
+   "name": "Environment Plant Psychology Laboratory"
+  },
   "5fbf76ebc3324675b0454c6d53b2a7da.16": {
    "guid": "5fbf76ebc3324675b0454c6d53b2a7da.16",
    "lat": 33.463158,
@@ -1236,6 +1272,12 @@
    "lng": -88.821756,
    "name": "First Assembly Of God Church"
   },
+  "76fbfc324c93488683c8214295c3fea1.16": {
+   "guid": "76fbfc324c93488683c8214295c3fea1.16",
+   "lat": 33.437924,
+   "lng": -88.830844,
+   "name": "Tournament Rules Sign"
+  },
   "7719887e00624a3880ecc990a767e9a6.16": {
    "guid": "7719887e00624a3880ecc990a767e9a6.16",
    "lat": 33.409726,
@@ -1331,6 +1373,12 @@
    "lat": 33.474224,
    "lng": -88.812849,
    "name": "Aldersgate United Methodist Church"
+  },
+  "86e8db4ff4814a0686d5314de6da284f.16": {
+   "guid": "86e8db4ff4814a0686d5314de6da284f.16",
+   "lat": 33.451289,
+   "lng": -88.796066,
+   "name": "Thompson Hall"
   },
   "87150a62091242c98ac0f4c1816b97f9.16": {
    "guid": "87150a62091242c98ac0f4c1816b97f9.16",
@@ -1458,6 +1506,12 @@
    "lng": -88.810609,
    "name": "Starkville Public Library"
   },
+  "9a3196c1dd40496dabf8749b919a25e7.16": {
+   "guid": "9a3196c1dd40496dabf8749b919a25e7.16",
+   "lat": 33.465459,
+   "lng": -88.777609,
+   "name": "Canterbury Gardens Walking Track 2"
+  },
   "9a537cda8fd04ef49e945b6ad3adb81e.16": {
    "guid": "9a537cda8fd04ef49e945b6ad3adb81e.16",
    "lat": 33.461605,
@@ -1493,6 +1547,12 @@
    "lat": 33.453569,
    "lng": -88.789449,
    "name": "MSU Flagpole"
+  },
+  "a05212d039f74d638ad37c7a984e587b.16": {
+   "guid": "a05212d039f74d638ad37c7a984e587b.16",
+   "lat": 33.462598,
+   "lng": -88.871089,
+   "name": "Horsefeathers"
   },
   "a08a2c4a5d6d4043834e4e0a108d9e15.16": {
    "guid": "a08a2c4a5d6d4043834e4e0a108d9e15.16",
@@ -1577,6 +1637,12 @@
    "lat": 33.445014,
    "lng": -88.794037,
    "name": "MSU Water Tower"
+  },
+  "ac47752b9cd148c0adef75eef64e7fa3.16": {
+   "guid": "ac47752b9cd148c0adef75eef64e7fa3.16",
+   "lat": 33.462865,
+   "lng": -88.809337,
+   "name": "Cadence Bank Pavilion"
   },
   "ad9334b38eb444a0b07cd73ec7691f48.16": {
    "guid": "ad9334b38eb444a0b07cd73ec7691f48.16",
@@ -1991,12 +2057,6 @@
    "lat": 33.462611,
    "lng": -88.815725,
    "name": "First Baptist Church"
-  },
-  "f93bb32899744d07a573970d139a6898.16": {
-   "guid": "f93bb32899744d07a573970d139a6898.16",
-   "lat": 33.471048,
-   "lng": -88.787662,
-   "name": "Mississippi State Research Park Climbing Tower"
   },
   "f94a60734d2f4a8ebecdd8165354127b.16": {
    "guid": "f94a60734d2f4a8ebecdd8165354127b.16",
