@@ -6,7 +6,7 @@ Data for the pokemon go stops and gyms in starkville
 0. Have an Ingress account and know how to log in to the online intel map.
 1. Install IITC-CE per the instructions at https://iitc.app/download_desktop.html
     * Any of the methods should be fine, I just switched from Tampermonkey to the IITC Button.
-2. Install the Pogo plugin per the instructions at https://gitlab.com/AlfonsoML/pogo-s2
+2. Install the Pogo plugin per the instructions at https://gitlab.com/NvlblNm/pogo-s2/
     * You should just be able to click [here](https://gitlab.com/AlfonsoML/pogo-s2/raw/master/s2check.user.js?inline=false)
 3. Open the ingress intel map and configure the plugin as desired by going to `PoGo Settings`
     * I recommend showing level 14 and 17 cells as these are the ones that are relevant for Pokemon Go gyms and portals.
