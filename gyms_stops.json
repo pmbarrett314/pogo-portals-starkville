@@ -110,6 +110,12 @@
    "lng": -88.830346,
    "name": "Starkville Junior Auxiliary Playground"
   },
+  "3b5c7cd27d924137827725d6b091a5ff.16": {
+   "guid": "3b5c7cd27d924137827725d6b091a5ff.16",
+   "lat": 33.463172,
+   "lng": -88.80007,
+   "name": "MSU Logo"
+  },
   "3d40f1ace24a452b89c05934874d6716.16": {
    "guid": "3d40f1ace24a452b89c05934874d6716.16",
    "lat": 33.444811,
@@ -217,6 +223,12 @@
    "lat": 33.472163,
    "lng": -88.814784,
    "name": "Calvary Baptist Church"
+  },
+  "725e1dbad3b940c583ea7ac266edcf65.16": {
+   "guid": "725e1dbad3b940c583ea7ac266edcf65.16",
+   "lat": 33.462542,
+   "lng": -88.804365,
+   "name": "Historic Nash Street"
   },
   "7312fee80dbd4864a7cc1417051de9c7.16": {
    "guid": "7312fee80dbd4864a7cc1417051de9c7.16",
@@ -410,6 +422,18 @@
    "lng": -88.774257,
    "name": "Aspen Heights Pool"
   },
+  "bfc90d4b03a63fbdb6fec66b3538136b.16": {
+   "guid": "bfc90d4b03a63fbdb6fec66b3538136b.16",
+   "lat": 33.45247,
+   "lng": -88.823852,
+   "name": "Umi \"No Fishing\" Pelican"
+  },
+  "c028b1ef9a3c4d67b9c2570c7cdabe95.16": {
+   "guid": "c028b1ef9a3c4d67b9c2570c7cdabe95.16",
+   "lat": 33.463724,
+   "lng": -88.815934,
+   "name": "Starkville Community Theater"
+  },
   "c22086c9f55f4d8787d4f0b7ef781147.16": {
    "guid": "c22086c9f55f4d8787d4f0b7ef781147.16",
    "lat": 33.463087,
@@ -560,6 +584,12 @@
    "lng": -88.824731,
    "name": "J. L. King Sr Baseball Field"
   },
+  "f6ff832495814a81bc542242223c6a58.16": {
+   "guid": "f6ff832495814a81bc542242223c6a58.16",
+   "lat": 33.460855,
+   "lng": -88.79398,
+   "name": "Mize Pavilion"
+  },
   "f877f95d29024df78c7140a99b580da4.16": {
    "guid": "f877f95d29024df78c7140a99b580da4.16",
    "lat": 33.442324,
@@ -675,11 +705,11 @@
    "lng": -88.830936,
    "name": "Oby\u2019s Soccer Field"
   },
-  "d9408a944d2246d397c2f08f9f9f0efb.16": {
-   "guid": "d9408a944d2246d397c2f08f9f9f0efb.16",
-   "lat": 33.455464,
-   "lng": -88.787319,
-   "name": "Class of 1920 Petrified Log"
+  "ce132d8c297e405d87150c294f6e5658.16": {
+   "guid": "ce132d8c297e405d87150c294f6e5658.16",
+   "lat": 33.455539,
+   "lng": -88.787072,
+   "name": "Hilbun Hall"
   },
   "e325e53070af447d91eeb7e63c7c1b37.16": {
    "guid": "e325e53070af447d91eeb7e63c7c1b37.16",
@@ -695,17 +725,29 @@
    "lng": -88.790893,
    "name": "W.S. Pecan Grove"
   },
+  "01837bdd8cc2375798e7e9f4ccc1743a.16": {
+   "guid": "01837bdd8cc2375798e7e9f4ccc1743a.16",
+   "lat": 33.457976,
+   "lng": -88.791309,
+   "name": "Garner Hall"
+  },
   "045fb76ee2cf3e8597cadabfa97f94f7.16": {
    "guid": "045fb76ee2cf3e8597cadabfa97f94f7.16",
    "lat": 33.45078,
    "lng": -88.787684,
    "name": "MSU Music Building B"
   },
-  "04ccc8c7e3454f13ae664119dfc8e271.16": {
-   "guid": "04ccc8c7e3454f13ae664119dfc8e271.16",
-   "lat": 33.463642,
-   "lng": -88.808746,
-   "name": " Grill gladiator mural"
+  "04e11b9e34f830ca9e213cd05c2f25d5.16": {
+   "guid": "04e11b9e34f830ca9e213cd05c2f25d5.16",
+   "lat": 33.454996,
+   "lng": -88.794562,
+   "name": "Compass Scholar's Walk"
+  },
+  "05d5c4f867c0374c98d03dc321fc1890.16": {
+   "guid": "05d5c4f867c0374c98d03dc321fc1890.16",
+   "lat": 33.457621,
+   "lng": -88.793308,
+   "name": "Dowsing-Bell Plaza"
   },
   "067fd38929724470bbfa7a4a62a82cf3.16": {
    "guid": "067fd38929724470bbfa7a4a62a82cf3.16",
@@ -742,6 +784,12 @@
    "lat": 33.451017,
    "lng": -88.788655,
    "name": "MSU Rula Civil Engineering"
+  },
+  "0b2439a81d2731368f08c66a4c06ea32.16": {
+   "guid": "0b2439a81d2731368f08c66a4c06ea32.16",
+   "lat": 33.454265,
+   "lng": -88.79045,
+   "name": "Taylor Auditorium"
   },
   "0b54d4e93f814945b4663decf01bccb2.16": {
    "guid": "0b54d4e93f814945b4663decf01bccb2.16",
@@ -803,6 +851,12 @@
    "lng": -88.829044,
    "name": "GSDP Ball Field"
   },
+  "0f9ac27784fe360bba58167669a90b1f.16": {
+   "guid": "0f9ac27784fe360bba58167669a90b1f.16",
+   "lat": 33.463637,
+   "lng": -88.808116,
+   "name": "Cat and Mouse Bridge Mural"
+  },
   "11773c0570aa30c18fc4a98aaf0d1b49.16": {
    "guid": "11773c0570aa30c18fc4a98aaf0d1b49.16",
    "lat": 33.470132,
@@ -863,6 +917,12 @@
    "lng": -88.810008,
    "name": "Northside Church of Christ"
   },
+  "179365f831c3392fb139e42cef6330f8.16": {
+   "guid": "179365f831c3392fb139e42cef6330f8.16",
+   "lat": 33.453829,
+   "lng": -88.822482,
+   "name": "Marathon Bully Statue"
+  },
   "181b8e97fcc1439eb432ce9745d44784.16": {
    "guid": "181b8e97fcc1439eb432ce9745d44784.16",
    "lat": 33.477029,
@@ -886,6 +946,12 @@
    "lat": 33.449176,
    "lng": -88.837761,
    "name": "SSG Travis Sentell Cooper Memorial"
+  },
+  "1ab3311c0292303786df4580d51e14d0.16": {
+   "guid": "1ab3311c0292303786df4580d51e14d0.16",
+   "lat": 33.454171,
+   "lng": -88.796692,
+   "name": "Newell Grissom Volleyball Facility"
   },
   "1aeaa6e09fd73b7bb13efe20ffe2a3fc.16": {
    "guid": "1aeaa6e09fd73b7bb13efe20ffe2a3fc.16",
@@ -928,6 +994,12 @@
    "lat": 33.455635,
    "lng": -88.790691,
    "name": "Original Chapel Bell"
+  },
+  "1f08a90a35a73f6593192079e9a90934.16": {
+   "guid": "1f08a90a35a73f6593192079e9a90934.16",
+   "lat": 33.464456,
+   "lng": -88.813526,
+   "name": "The Hub"
   },
   "20b9beaea57333ef83fa237505024240.16": {
    "guid": "20b9beaea57333ef83fa237505024240.16",
@@ -1037,6 +1109,18 @@
    "lng": -88.81721,
    "name": "Yellowjacket Baseball Field"
   },
+  "2ba9e618ba673dc2a53866742c1c6729.16": {
+   "guid": "2ba9e618ba673dc2a53866742c1c6729.16",
+   "lat": 33.460896,
+   "lng": -88.802188,
+   "name": "Two Brothers Mural"
+  },
+  "2c136da7317b3af09234228e24b7523f.16": {
+   "guid": "2c136da7317b3af09234228e24b7523f.16",
+   "lat": 33.453409,
+   "lng": -88.7872,
+   "name": "Sociology Doctorate Honorary Wall"
+  },
   "2c26963737c04c769613b2fa41a51c1f.16": {
    "guid": "2c26963737c04c769613b2fa41a51c1f.16",
    "lat": 33.469222,
@@ -1054,6 +1138,12 @@
    "lat": 33.458917,
    "lng": -88.786612,
    "name": "Griffis Hall"
+  },
+  "2e166a934288387fb79dfb3de4f89ae7.16": {
+   "guid": "2e166a934288387fb79dfb3de4f89ae7.16",
+   "lat": 33.450964,
+   "lng": -88.855334,
+   "name": "Pinelake Church"
   },
   "2e63fd87154946779b456f3372fec486.16": {
    "guid": "2e63fd87154946779b456f3372fec486.16",
@@ -1091,6 +1181,12 @@
    "lng": -88.803906,
    "name": "Saint Joseph's Catholic Center 607"
   },
+  "30c7a2d914923870b9477084d80fe46e.16": {
+   "guid": "30c7a2d914923870b9477084d80fe46e.16",
+   "lat": 33.456414,
+   "lng": -88.790738,
+   "name": "MSU Chapel Courtyard"
+  },
   "312df2f766cc46319d957b54826783b8.16": {
    "guid": "312df2f766cc46319d957b54826783b8.16",
    "lat": 33.460765,
@@ -1121,6 +1217,12 @@
    "lng": -88.796678,
    "name": "Sawyer Tennis Courts"
   },
+  "331cd90140973c3592f825c89082ea46.16": {
+   "guid": "331cd90140973c3592f825c89082ea46.16",
+   "lat": 33.452736,
+   "lng": -88.824035,
+   "name": "Budweiser Canoe"
+  },
   "34fb5d3bdc3a4983be26a07840cd4c88.16": {
    "guid": "34fb5d3bdc3a4983be26a07840cd4c88.16",
    "lat": 33.452588,
@@ -1132,6 +1234,12 @@
    "lat": 33.461554,
    "lng": -88.793496,
    "name": "The Hump"
+  },
+  "3554af44ffb1373e8516b60e8fb2138d.16": {
+   "guid": "3554af44ffb1373e8516b60e8fb2138d.16",
+   "lat": 33.45593,
+   "lng": -88.796312,
+   "name": "Mississippi State Amphitheatre"
   },
   "358eebf4cf7d40f1a7ef4aff08826f24.16": {
    "guid": "358eebf4cf7d40f1a7ef4aff08826f24.16",
@@ -1169,12 +1277,6 @@
    "lng": -88.813969,
    "name": "Cajun bully statue"
   },
-  "3b5c7cd27d924137827725d6b091a5ff.16": {
-   "guid": "3b5c7cd27d924137827725d6b091a5ff.16",
-   "lat": 33.463172,
-   "lng": -88.80007,
-   "name": "MSU Logo"
-  },
   "3c81a8d8abb946e09685ba9a90ada884.16": {
    "guid": "3c81a8d8abb946e09685ba9a90ada884.16",
    "lat": 33.450209,
@@ -1210,6 +1312,12 @@
    "lat": 33.457562,
    "lng": -88.790259,
    "name": "Butler Hall"
+  },
+  "439f46ec61af35ecb94515635cb55156.16": {
+   "guid": "439f46ec61af35ecb94515635cb55156.16",
+   "lat": 33.455683,
+   "lng": -88.787462,
+   "name": "Duke Myers Memorial Display"
   },
   "43d698446cf54f16b772e15544ffc171.16": {
    "guid": "43d698446cf54f16b772e15544ffc171.16",
@@ -1319,6 +1427,12 @@
    "lng": -88.800141,
    "name": "Sigma Phi Epsilon Founders Sign"
   },
+  "4c1e6b3bd22d3814af94781ef598af22.16": {
+   "guid": "4c1e6b3bd22d3814af94781ef598af22.16",
+   "lat": 33.463152,
+   "lng": -88.815305,
+   "name": "Welcome Home Starkville Mural"
+  },
   "4e46729d3af846c78282e0c4d2ee0082.16": {
    "guid": "4e46729d3af846c78282e0c4d2ee0082.16",
    "lat": 33.274371,
@@ -1366,6 +1480,12 @@
    "lat": 33.449978,
    "lng": -88.820788,
    "name": "9/11 memorial"
+  },
+  "528b094ba9a83928a0a9deaaaa3c5913.16": {
+   "guid": "528b094ba9a83928a0a9deaaaa3c5913.16",
+   "lat": 33.45841,
+   "lng": -88.797674,
+   "name": "Lt. Col. Jerry Dickerson Jr. Memorial Plaza"
   },
   "52f324a606fd47d38c27fd0ca80ff405.16": {
    "guid": "52f324a606fd47d38c27fd0ca80ff405.16",
@@ -1421,6 +1541,12 @@
    "lng": -88.79517,
    "name": "Mississippi Horse Park"
   },
+  "583cfaf13d4e364994000459dcc5e58a.16": {
+   "guid": "583cfaf13d4e364994000459dcc5e58a.16",
+   "lat": 33.456705,
+   "lng": -88.790039,
+   "name": "James N Ford Memorial Plaque"
+  },
   "585420df58f2329196c7d2a6f184ed87.16": {
    "guid": "585420df58f2329196c7d2a6f184ed87.16",
    "lat": 33.450045,
@@ -1462,6 +1588,18 @@
    "lat": 33.455688,
    "lng": -88.789342,
    "name": "George Hall"
+  },
+  "5da850ff703d36b9bd9423d1ae27f4fe.16": {
+   "guid": "5da850ff703d36b9bd9423d1ae27f4fe.16",
+   "lat": 33.463082,
+   "lng": -88.806134,
+   "name": "Pink Bubble Sculpture"
+  },
+  "5e22b5aa328937749322dbc0dd071581.16": {
+   "guid": "5e22b5aa328937749322dbc0dd071581.16",
+   "lat": 33.464286,
+   "lng": -88.814769,
+   "name": "Main Street Living Bulldog Statue"
   },
   "5ed176d7294e4b70b33a58a4cb423ee0.16": {
    "guid": "5ed176d7294e4b70b33a58a4cb423ee0.16",
@@ -1595,6 +1733,18 @@
    "lng": -88.833114,
    "name": "Chick Fila Starkville Baseball Field"
   },
+  "6af6f22d92073407beddbe4937137671.16": {
+   "guid": "6af6f22d92073407beddbe4937137671.16",
+   "lat": 33.459043,
+   "lng": -88.791398,
+   "name": "Deavenport Banner M"
+  },
+  "6afcf956ba6e35ce8fdc4b97e8b77745.16": {
+   "guid": "6afcf956ba6e35ce8fdc4b97e8b77745.16",
+   "lat": 33.459021,
+   "lng": -88.799567,
+   "name": "Visual Arts Center 2"
+  },
   "6eaf62af17b93f04b590e864586aeea9.16": {
    "guid": "6eaf62af17b93f04b590e864586aeea9.16",
    "lat": 33.466074,
@@ -1613,6 +1763,12 @@
    "lng": -88.790979,
    "name": "CornerStone Baptist Church"
   },
+  "7072945632363c62b6f823413ed686d5.16": {
+   "guid": "7072945632363c62b6f823413ed686d5.16",
+   "lat": 33.453805,
+   "lng": -88.786324,
+   "name": "MSU Steam Plant"
+  },
   "71ba47d6cd2a3dd3bebf815ed4b7589e.16": {
    "guid": "71ba47d6cd2a3dd3bebf815ed4b7589e.16",
    "lat": 33.456691,
@@ -1624,12 +1780,6 @@
    "lat": 33.453753,
    "lng": -88.818216,
    "name": "Bops Frozen Custard"
-  },
-  "725e1dbad3b940c583ea7ac266edcf65.16": {
-   "guid": "725e1dbad3b940c583ea7ac266edcf65.16",
-   "lat": 33.462542,
-   "lng": -88.804365,
-   "name": "Historic Nash Street"
   },
   "726e688764964949be8225b4ff95a39c.16": {
    "guid": "726e688764964949be8225b4ff95a39c.16",
@@ -1643,11 +1793,23 @@
    "lng": -88.795284,
    "name": "Cullis & Gladys Wade Clock Museum"
   },
+  "74aa181ea26f3cb08ce71566a0c84051.16": {
+   "guid": "74aa181ea26f3cb08ce71566a0c84051.16",
+   "lat": 33.461502,
+   "lng": -88.795881,
+   "name": "Mississippi State University Sign"
+  },
   "7592b861b313424a8d26ff0c0c39af6c.16": {
    "guid": "7592b861b313424a8d26ff0c0c39af6c.16",
    "lat": 33.459891,
    "lng": -88.821756,
    "name": "First Assembly Of God Church"
+  },
+  "765536e1fcc63fca95927369b34ff037.16": {
+   "guid": "765536e1fcc63fca95927369b34ff037.16",
+   "lat": 33.456656,
+   "lng": -88.795435,
+   "name": "Chunky Cowbell Statue"
   },
   "76fbfc324c93488683c8214295c3fea1.16": {
    "guid": "76fbfc324c93488683c8214295c3fea1.16",
@@ -1865,6 +2027,18 @@
    "lng": -88.786962,
    "name": "James William Mills Memorial"
   },
+  "8a8dd48642fd358db7d518bf0d0aee8d.16": {
+   "guid": "8a8dd48642fd358db7d518bf0d0aee8d.16",
+   "lat": 33.45396,
+   "lng": -88.787622,
+   "name": "MSU Tree Trail: Slash Pine"
+  },
+  "8bbf7bbec7aa3384bbbe48ceaa3b0aac.16": {
+   "guid": "8bbf7bbec7aa3384bbbe48ceaa3b0aac.16",
+   "lat": 33.452665,
+   "lng": -88.786497,
+   "name": "Professor F.N. Matthews Memorial Display"
+  },
   "8d459fb7dc3e493ebc3c63edc05bb418.16": {
    "guid": "8d459fb7dc3e493ebc3c63edc05bb418.16",
    "lat": 33.454062,
@@ -1900,6 +2074,12 @@
    "lat": 33.444989,
    "lng": -88.83197,
    "name": "McKee Park Tennis Courts"
+  },
+  "916523c57e233bf5a29bb0e240a328f9.16": {
+   "guid": "916523c57e233bf5a29bb0e240a328f9.16",
+   "lat": 33.454514,
+   "lng": -88.789511,
+   "name": "Smith Family Courtyard"
   },
   "921537b82a9d4a52bfe923352ea06b68.16": {
    "guid": "921537b82a9d4a52bfe923352ea06b68.16",
@@ -2033,6 +2213,12 @@
    "lng": -88.831995,
    "name": "Sportsplex Pedestrian Bridge 2"
   },
+  "a2c2200528313ec8a55c6c944cfc9585.16": {
+   "guid": "a2c2200528313ec8a55c6c944cfc9585.16",
+   "lat": 33.45057,
+   "lng": -88.786757,
+   "name": "W.S. Anderson Pecan Grove"
+  },
   "a46043411784499f9c5a3e484d2e7b50.16": {
    "guid": "a46043411784499f9c5a3e484d2e7b50.16",
    "lat": 33.469977,
@@ -2087,11 +2273,11 @@
    "lng": -88.783193,
    "name": "University Christian Student Center"
   },
-  "aa7133da0db84637b44f4cfcbcd7f818.16": {
-   "guid": "aa7133da0db84637b44f4cfcbcd7f818.16",
-   "lat": 33.454184,
-   "lng": -88.81429,
-   "name": "Petty's Barbeque"
+  "aa27a348fab43c9d95cb1ae897654211.16": {
+   "guid": "aa27a348fab43c9d95cb1ae897654211.16",
+   "lat": 33.456057,
+   "lng": -88.794787,
+   "name": "Willie Daniel Memorial"
   },
   "aacdf261d5c74f2aa5d97b0c246ff694.16": {
    "guid": "aacdf261d5c74f2aa5d97b0c246ff694.16",
@@ -2177,6 +2363,12 @@
    "lng": -88.816621,
    "name": "City of Starkville"
   },
+  "b3a4ee3c68a4372c8853a2224e510157.16": {
+   "guid": "b3a4ee3c68a4372c8853a2224e510157.16",
+   "lat": 33.464801,
+   "lng": -88.8001,
+   "name": "College View Volleyball Courts"
+  },
   "b480301f24ae4354b6074e0948e1635b.16": {
    "guid": "b480301f24ae4354b6074e0948e1635b.16",
    "lat": 33.439695,
@@ -2248,18 +2440,6 @@
    "lat": 33.452275,
    "lng": -88.787794,
    "name": "Niles R and Mary Lynn Mosely Plaza"
-  },
-  "bfc90d4b03a63fbdb6fec66b3538136b.16": {
-   "guid": "bfc90d4b03a63fbdb6fec66b3538136b.16",
-   "lat": 33.45247,
-   "lng": -88.823852,
-   "name": "Umi \"No Fishing\" Pelican"
-  },
-  "c028b1ef9a3c4d67b9c2570c7cdabe95.16": {
-   "guid": "c028b1ef9a3c4d67b9c2570c7cdabe95.16",
-   "lat": 33.463724,
-   "lng": -88.815934,
-   "name": "Starkville Community Theater"
   },
   "c0530278478130cb89c5d8823d96cf36.16": {
    "guid": "c0530278478130cb89c5d8823d96cf36.16",
@@ -2356,6 +2536,12 @@
    "lat": 33.44388,
    "lng": -88.83387,
    "name": "Batting Cage 2"
+  },
+  "c995897704de3d889af5076ce56aca92.16": {
+   "guid": "c995897704de3d889af5076ce56aca92.16",
+   "lat": 33.456069,
+   "lng": -88.791854,
+   "name": "Butler Guest House Pergola"
   },
   "c9bc79f6f5644dbfb9f2705f22b8334d.11": {
    "guid": "c9bc79f6f5644dbfb9f2705f22b8334d.11",
@@ -2471,6 +2657,12 @@
    "lng": -88.837666,
    "name": "Starkville Community Church (SBC)"
   },
+  "d898fdcabff9355aaf470daaa2372b11.16": {
+   "guid": "d898fdcabff9355aaf470daaa2372b11.16",
+   "lat": 33.451517,
+   "lng": -88.852107,
+   "name": "Starkville Church of Jesus Christ of Latter Day Saints"
+  },
   "d8fa8a5348d0470a8ffcb6e531be213f.16": {
    "guid": "d8fa8a5348d0470a8ffcb6e531be213f.16",
    "lat": 33.437148,
@@ -2555,6 +2747,12 @@
    "lng": -88.822047,
    "name": "Wind Powered Kinetic Sculpture"
   },
+  "e77627037ee534049b21a590c1cce7c3.16": {
+   "guid": "e77627037ee534049b21a590c1cce7c3.16",
+   "lat": 33.45302,
+   "lng": -88.789204,
+   "name": "Ulysses S. Grant Memorial Tree"
+  },
   "e7f707ce385643108c8b144c1702fe5e.16": {
    "guid": "e7f707ce385643108c8b144c1702fe5e.16",
    "lat": 33.469864,
@@ -2584,6 +2782,12 @@
    "lat": 33.462651,
    "lng": -88.816574,
    "name": "Connection"
+  },
+  "eb94ee8e343633c59d1f8b83d77afd46.16": {
+   "guid": "eb94ee8e343633c59d1f8b83d77afd46.16",
+   "lat": 33.457801,
+   "lng": -88.792615,
+   "name": "Memorial Hall"
   },
   "ec4a092300e94fdb9b4e8eeb44a9843a.16": {
    "guid": "ec4a092300e94fdb9b4e8eeb44a9843a.16",
@@ -2662,12 +2866,6 @@
    "lat": 33.436897,
    "lng": -88.828989,
    "name": "Gentry Signs Ballfield"
-  },
-  "f6ff832495814a81bc542242223c6a58.16": {
-   "guid": "f6ff832495814a81bc542242223c6a58.16",
-   "lat": 33.460855,
-   "lng": -88.79398,
-   "name": "Mize Pavilion"
   },
   "f71b61efc688470191e17540afc32e76.16": {
    "guid": "f71b61efc688470191e17540afc32e76.16",
