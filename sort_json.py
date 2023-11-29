@@ -6,6 +6,11 @@ import sys
 def sort_json(filename):
     with open(filename,"r") as f:
         js=json.load(f)
+    for part in["gyms","notpogo","pokestops"]:
+        for k in js[part]:
+            for trash in ["cells","exists"]:
+                if trash in js[part][k]:
+                    del js[part][k][trash]
     with open(filename,"w+") as f:
         json.dump(js,f,sort_keys=True,indent=1)
 
