@@ -6,6 +6,18 @@
    "lng": -88.811828,
    "name": "Starkville Dog Park"
   },
+  "02a1b9d6cef637ef97496de06eeb1074.16": {
+   "guid": "02a1b9d6cef637ef97496de06eeb1074.16",
+   "lat": 33.463822,
+   "lng": -88.773705,
+   "name": "Redpoint Community Pool"
+  },
+  "05a8e0ac2a833aefbc5908cf2321b71f.16": {
+   "guid": "05a8e0ac2a833aefbc5908cf2321b71f.16",
+   "lat": 33.431297,
+   "lng": -88.856694,
+   "name": "East Mississippi Lumber Company Walking Trail"
+  },
   "066515669f9f4b2fa92b60aa64ba2c93.16": {
    "guid": "066515669f9f4b2fa92b60aa64ba2c93.16",
    "lat": 33.447601,
@@ -60,6 +72,12 @@
    "lng": -88.832571,
    "name": "McKee Park"
   },
+  "229b8d114f27496dbf6b180a95ce1def.16": {
+   "guid": "229b8d114f27496dbf6b180a95ce1def.16",
+   "lat": 33.448403,
+   "lng": -88.79169,
+   "name": "Magnolia Archway"
+  },
   "250d00f6a59949c28cb3753cd1352ccd.16": {
    "guid": "250d00f6a59949c28cb3753cd1352ccd.16",
    "isEx": true,
@@ -91,11 +109,23 @@
    "lng": -88.829099,
    "name": "Xerium Water Tower"
   },
+  "32486b81744f38328a77dd5bf2a0b5f5.16": {
+   "guid": "32486b81744f38328a77dd5bf2a0b5f5.16",
+   "lat": 33.457329,
+   "lng": -88.798526,
+   "name": "Mississippi State University Sign"
+  },
   "32ad2de7ebed46cf8a834e95e62e93d0.16": {
    "guid": "32ad2de7ebed46cf8a834e95e62e93d0.16",
    "lat": 33.454276,
    "lng": -88.83286,
    "name": "Patriot's Park Pavilion"
+  },
+  "32ea68fa858943caba59ea66b48986db.16": {
+   "guid": "32ea68fa858943caba59ea66b48986db.16",
+   "lat": 33.443452,
+   "lng": -88.796678,
+   "name": "Sawyer Tennis Courts"
   },
   "3354a2f446424f09b86291559cfb2751.16": {
    "guid": "3354a2f446424f09b86291559cfb2751.16",
@@ -158,6 +188,12 @@
    "lng": -88.825516,
    "name": "Trinity Presbyterian Church Cross"
   },
+  "46281a8c7ace344dbee4a50160cb0d80.16": {
+   "guid": "46281a8c7ace344dbee4a50160cb0d80.16",
+   "lat": 33.402571,
+   "lng": -88.85692,
+   "name": "The Cross of Christ for Starkville"
+  },
   "462e33376f46464c8f8e62f04dff743a.16": {
    "guid": "462e33376f46464c8f8e62f04dff743a.16",
    "lat": 33.46262,
@@ -170,6 +206,18 @@
    "lng": -88.844625,
    "name": "Veterans Memorial"
   },
+  "55c6ee2d92cf3a1a8451cd727923f062.16": {
+   "guid": "55c6ee2d92cf3a1a8451cd727923f062.16",
+   "lat": 33.469746,
+   "lng": -88.813215,
+   "name": "Moncrief park conservation area sign"
+  },
+  "5d04dee4595e46539c18466343eb93c3.16": {
+   "guid": "5d04dee4595e46539c18466343eb93c3.16",
+   "lat": 33.457475,
+   "lng": -88.792967,
+   "name": "Davis Wade Stadium Mississippi Monument"
+  },
   "5e244b21afb74d8793ed4bef70d1a82d.11": {
    "guid": "5e244b21afb74d8793ed4bef70d1a82d.11",
    "lat": 33.458152,
@@ -181,6 +229,12 @@
    "lat": 33.454392,
    "lng": -88.793888,
    "name": "MSU Bully Statue"
+  },
+  "6722aa6a230648efa371c2a3319b81e6.16": {
+   "guid": "6722aa6a230648efa371c2a3319b81e6.16",
+   "lat": 33.451083,
+   "lng": -88.778903,
+   "name": "Fountain at The Hangout"
   },
   "673b6776688c438ab38c73a40cbfb75d.16": {
    "guid": "673b6776688c438ab38c73a40cbfb75d.16",
@@ -212,6 +266,12 @@
    "lng": -88.808463,
    "name": "Darkhorse Knight Statue"
   },
+  "6d8f8f1a26863eddb35fcde00ac94eb8.16": {
+   "guid": "6d8f8f1a26863eddb35fcde00ac94eb8.16",
+   "lat": 33.434317,
+   "lng": -88.858034,
+   "name": "Starkvegas Sign"
+  },
   "6da08fb538ce4c088e708182409b629b.16": {
    "guid": "6da08fb538ce4c088e708182409b629b.16",
    "lat": 33.469552,
@@ -223,6 +283,12 @@
    "lat": 33.472163,
    "lng": -88.814784,
    "name": "Calvary Baptist Church"
+  },
+  "6f53a76d7c5a347bb763ef1872032cf8.16": {
+   "guid": "6f53a76d7c5a347bb763ef1872032cf8.16",
+   "lat": 33.434336,
+   "lng": -88.858829,
+   "name": "Cornerstone Sports Complex Main Entrance"
   },
   "725e1dbad3b940c583ea7ac266edcf65.16": {
    "guid": "725e1dbad3b940c583ea7ac266edcf65.16",
@@ -331,6 +397,12 @@
    "lat": 33.46407,
    "lng": -88.813826,
    "name": "Starkville"
+  },
+  "9e5640fe45653f5ab1e1ab557599a541.16": {
+   "guid": "9e5640fe45653f5ab1e1ab557599a541.16",
+   "lat": 33.434452,
+   "lng": -88.860267,
+   "name": "Cornerstone Park Quad A"
   },
   "a02389665cfc4825b9091c462b8dcacd.12": {
    "guid": "a02389665cfc4825b9091c462b8dcacd.12",
@@ -500,6 +572,12 @@
    "lng": -88.807468,
    "name": "Oktibbeha County History Museu"
   },
+  "e14b89c190bb3c5e87fb9f3d2092fb8c.16": {
+   "guid": "e14b89c190bb3c5e87fb9f3d2092fb8c.16",
+   "lat": 33.434446,
+   "lng": -88.858473,
+   "name": "Adkerson Plaza"
+  },
   "e1be53b4ce93420a8dd1f2968bbca299.16": {
    "guid": "e1be53b4ce93420a8dd1f2968bbca299.16",
    "lat": 33.456955,
@@ -633,6 +711,12 @@
  },
  "ignoredCellsMissingGyms": {},
  "notpogo": {
+  "0f836a77132e4e2d822c5e15afcf9232.16": {
+   "guid": "0f836a77132e4e2d822c5e15afcf9232.16",
+   "lat": 33.470383,
+   "lng": -88.812907,
+   "name": "Moncrief Pool"
+  },
   "1e11a776522f415f9d7e63ccc2c781e7.16": {
    "guid": "1e11a776522f415f9d7e63ccc2c781e7.16",
    "lat": 33.438752,
@@ -663,6 +747,12 @@
    "lng": -88.833739,
    "name": "Batting Cage 3"
   },
+  "5771220662df37e7a233b6313007f1cf.16": {
+   "guid": "5771220662df37e7a233b6313007f1cf.16",
+   "lat": 33.457068,
+   "lng": -88.824316,
+   "name": "Josey Park Playground"
+  },
   "64461c0d15c44704b441be6de9e0a44c.16": {
    "guid": "64461c0d15c44704b441be6de9e0a44c.16",
    "lat": 33.441332,
@@ -686,6 +776,12 @@
    "lat": 33.462348,
    "lng": -88.815099,
    "name": "Quilt Mural"
+  },
+  "82a29c99e7cf4c39a342ad8dc03fef3b.16": {
+   "guid": "82a29c99e7cf4c39a342ad8dc03fef3b.16",
+   "lat": 33.469898,
+   "lng": -88.813003,
+   "name": "Moncrief Sand Volleyball Court"
   },
   "aa0670d07d3044ff8c89a4c4edac4901.16": {
    "guid": "aa0670d07d3044ff8c89a4c4edac4901.16",
@@ -743,6 +839,12 @@
    "lng": -88.794562,
    "name": "Compass Scholar's Walk"
   },
+  "05107214a60e328a85a4d81324ce6cbb.16": {
+   "guid": "05107214a60e328a85a4d81324ce6cbb.16",
+   "lat": 33.463987,
+   "lng": -88.808807,
+   "name": "The Camphouse"
+  },
   "05d5c4f867c0374c98d03dc321fc1890.16": {
    "guid": "05d5c4f867c0374c98d03dc321fc1890.16",
    "lat": 33.457621,
@@ -755,6 +857,12 @@
    "lng": -88.810547,
    "name": "Silver Water Tower"
   },
+  "06db8020d4ca3348b614cc7f53e3f87f.16": {
+   "guid": "06db8020d4ca3348b614cc7f53e3f87f.16",
+   "lat": 33.444879,
+   "lng": -88.792222,
+   "name": "Yugo bench swing"
+  },
   "06f4e8093f4b4f389dcfd333e98726d0.16": {
    "guid": "06f4e8093f4b4f389dcfd333e98726d0.16",
    "lat": 33.469282,
@@ -766,6 +874,12 @@
    "lat": 33.436797,
    "lng": -88.830894,
    "name": "FEIG Soccer Field"
+  },
+  "0881d925ce2c3b4690b4171145520536.16": {
+   "guid": "0881d925ce2c3b4690b4171145520536.16",
+   "lat": 33.456041,
+   "lng": -88.79432,
+   "name": "True Maroon Mural"
   },
   "08cf87e0a0433d8089bcfe982331e0a7.16": {
    "guid": "08cf87e0a0433d8089bcfe982331e0a7.16",
@@ -791,11 +905,23 @@
    "lng": -88.79045,
    "name": "Taylor Auditorium"
   },
+  "0b4ce1776242319197221f430d4cbb77.16": {
+   "guid": "0b4ce1776242319197221f430d4cbb77.16",
+   "lat": 33.447567,
+   "lng": -88.777416,
+   "name": "Revery Pool"
+  },
   "0b54d4e93f814945b4663decf01bccb2.16": {
    "guid": "0b54d4e93f814945b4663decf01bccb2.16",
    "lat": 33.459606,
    "lng": -88.790951,
    "name": "MSU Vietnam Memorial"
+  },
+  "0b803387968d3710b126a0030ba9f2e1.16": {
+   "guid": "0b803387968d3710b126a0030ba9f2e1.16",
+   "lat": 33.441135,
+   "lng": -88.826922,
+   "name": "Theta Tau Fraternity Sign"
   },
   "0cc0e37f81563bf7bfae6d1f0445c875.16": {
    "guid": "0cc0e37f81563bf7bfae6d1f0445c875.16",
@@ -845,6 +971,12 @@
    "lng": -88.785581,
    "name": "PSRC Field Lab"
   },
+  "0ee1f960849d38ab8894b23a966be9fd.16": {
+   "guid": "0ee1f960849d38ab8894b23a966be9fd.16",
+   "lat": 33.433422,
+   "lng": -88.857206,
+   "name": "Cornerstone Park Quad C"
+  },
   "0f990df8018b374397b854b3f7ee14f7.16": {
    "guid": "0f990df8018b374397b854b3f7ee14f7.16",
    "lat": 33.437272,
@@ -856,6 +988,12 @@
    "lat": 33.463637,
    "lng": -88.808116,
    "name": "Cat and Mouse Bridge Mural"
+  },
+  "10754df74f873a18971ec73f0b6bcd8a.16": {
+   "guid": "10754df74f873a18971ec73f0b6bcd8a.16",
+   "lat": 33.464663,
+   "lng": -88.815339,
+   "name": "Apostolic Assembly of Jesus Christ Church"
   },
   "11773c0570aa30c18fc4a98aaf0d1b49.16": {
    "guid": "11773c0570aa30c18fc4a98aaf0d1b49.16",
@@ -923,6 +1061,12 @@
    "lng": -88.822482,
    "name": "Marathon Bully Statue"
   },
+  "17b4e19e70863cc18d549207df35de58.16": {
+   "guid": "17b4e19e70863cc18d549207df35de58.16",
+   "lat": 33.449044,
+   "lng": -88.793833,
+   "name": "Bully's Closet and Pantry"
+  },
   "181b8e97fcc1439eb432ce9745d44784.16": {
    "guid": "181b8e97fcc1439eb432ce9745d44784.16",
    "lat": 33.477029,
@@ -935,6 +1079,12 @@
    "lng": -88.792949,
    "name": "Memorial Hall Abstract Art"
   },
+  "1957b01bb7653c498b47c9b88ae46980.16": {
+   "guid": "1957b01bb7653c498b47c9b88ae46980.16",
+   "lat": 33.459401,
+   "lng": -88.800167,
+   "name": "Visual Arts Center 1"
+  },
   "1961615330264039ad6f550110435550.16": {
    "guid": "1961615330264039ad6f550110435550.16",
    "lat": 33.466617,
@@ -946,6 +1096,12 @@
    "lat": 33.449176,
    "lng": -88.837761,
    "name": "SSG Travis Sentell Cooper Memorial"
+  },
+  "1a63f2e6dc2a387d86599c916f053ffd.16": {
+   "guid": "1a63f2e6dc2a387d86599c916f053ffd.16",
+   "lat": 33.461844,
+   "lng": -88.816079,
+   "name": "First Baptist Church Playground"
   },
   "1ab3311c0292303786df4580d51e14d0.16": {
    "guid": "1ab3311c0292303786df4580d51e14d0.16",
@@ -983,6 +1139,12 @@
    "lng": -88.816107,
    "name": "Oktibbeha County Courthouse Bell"
   },
+  "1d6a5fc1047134959c9fcf2ab7998b04.16": {
+   "guid": "1d6a5fc1047134959c9fcf2ab7998b04.16",
+   "lat": 33.466566,
+   "lng": -88.790601,
+   "name": "Resting area Chadwick lake"
+  },
   "1d98134fe253457b9861e38c02d92c47.16": {
    "guid": "1d98134fe253457b9861e38c02d92c47.16",
    "lat": 33.451788,
@@ -1000,6 +1162,12 @@
    "lat": 33.464456,
    "lng": -88.813526,
    "name": "The Hub"
+  },
+  "1f84774280f03b32bf10f79d385ed3bc.16": {
+   "guid": "1f84774280f03b32bf10f79d385ed3bc.16",
+   "lat": 33.43457,
+   "lng": -88.857053,
+   "name": "Walk-On's Baseball Field"
   },
   "20b9beaea57333ef83fa237505024240.16": {
    "guid": "20b9beaea57333ef83fa237505024240.16",
@@ -1025,12 +1193,6 @@
    "lng": -88.77445,
    "name": "The Lord's Prayer"
   },
-  "229b8d114f27496dbf6b180a95ce1def.16": {
-   "guid": "229b8d114f27496dbf6b180a95ce1def.16",
-   "lat": 33.448403,
-   "lng": -88.79169,
-   "name": "Magnolia Archway"
-  },
   "2321df8a2d8d444fb209c81a6c52e5f4.16": {
    "guid": "2321df8a2d8d444fb209c81a6c52e5f4.16",
    "lat": 33.446216,
@@ -1042,6 +1204,12 @@
    "lat": 33.462124,
    "lng": -88.813759,
    "name": "Decorative Fountain"
+  },
+  "2633fd78743430b1afae7c71a2174329.16": {
+   "guid": "2633fd78743430b1afae7c71a2174329.16",
+   "lat": 33.453595,
+   "lng": -88.792395,
+   "name": "Dyllan Johnson memorial plate"
   },
   "264cea81e83a42bda6d95860716dc029.16": {
    "guid": "264cea81e83a42bda6d95860716dc029.16",
@@ -1091,6 +1259,13 @@
    "lng": -88.789574,
    "name": "Class of 1924 Memorial"
   },
+  "2a14edc0658f3db2ba2504edfe08726d.16": {
+   "guid": "2a14edc0658f3db2ba2504edfe08726d.16",
+   "image": "https://lh3.googleusercontent.com/lu7nKts-GUJi9tAe2c0Wuui-OZ9QyOwOE5wAX4ddMC9V_dl33M7h4J1zrzO-7BRM7stEkPMCjZZiPG-CEuAqCWaXzswhBwr3sM-S_x8",
+   "lat": 33.403171,
+   "lng": -88.856468,
+   "name": "Emma And Ed Rogers House"
+  },
   "2a175592133a4f93bb3b6ef3858a3678.16": {
    "guid": "2a175592133a4f93bb3b6ef3858a3678.16",
    "lat": 33.4576,
@@ -1139,6 +1314,12 @@
    "lng": -88.786612,
    "name": "Griffis Hall"
   },
+  "2d60bb2843613406ab3640dcf75803d0.16": {
+   "guid": "2d60bb2843613406ab3640dcf75803d0.16",
+   "lat": 33.458794,
+   "lng": -88.792828,
+   "name": "Fred Carl Jr. Small Town Center"
+  },
   "2e166a934288387fb79dfb3de4f89ae7.16": {
    "guid": "2e166a934288387fb79dfb3de4f89ae7.16",
    "lat": 33.450964,
@@ -1149,7 +1330,7 @@
    "guid": "2e63fd87154946779b456f3372fec486.16",
    "lat": 33.44802,
    "lng": -88.789371,
-   "name": "MSU Band and Choral Rehearsal Hall"
+   "name": "Kent Sills Band Hall"
   },
   "2f4b00533cd84253b5ea57c4d50e4561.16": {
    "guid": "2f4b00533cd84253b5ea57c4d50e4561.16",
@@ -1205,23 +1386,23 @@
    "lng": -88.705266,
    "name": "Clayton Village Water Tower"
   },
-  "32486b81744f38328a77dd5bf2a0b5f5.16": {
-   "guid": "32486b81744f38328a77dd5bf2a0b5f5.16",
-   "lat": 33.457329,
-   "lng": -88.798526,
-   "name": "Mississippi State University Sign"
-  },
-  "32ea68fa858943caba59ea66b48986db.16": {
-   "guid": "32ea68fa858943caba59ea66b48986db.16",
-   "lat": 33.443452,
-   "lng": -88.796678,
-   "name": "Sawyer Tennis Courts"
+  "329cac3b99b7369ab4f5030de9b7f37d.16": {
+   "guid": "329cac3b99b7369ab4f5030de9b7f37d.16",
+   "lat": 33.460056,
+   "lng": -88.790985,
+   "name": "Blue Star Memorial"
   },
   "331cd90140973c3592f825c89082ea46.16": {
    "guid": "331cd90140973c3592f825c89082ea46.16",
    "lat": 33.452736,
    "lng": -88.824035,
    "name": "Budweiser Canoe"
+  },
+  "346cf37fb0d1303b935438c422d9029f.16": {
+   "guid": "346cf37fb0d1303b935438c422d9029f.16",
+   "lat": 33.465124,
+   "lng": -88.812752,
+   "name": "First Presbyterian Church Basketball Goal"
   },
   "34fb5d3bdc3a4983be26a07840cd4c88.16": {
    "guid": "34fb5d3bdc3a4983be26a07840cd4c88.16",
@@ -1247,11 +1428,23 @@
    "lng": -88.76678,
    "name": "Pine Grove M.B. Church"
   },
+  "3655fdd14e9337088129e344a6bb129f.16": {
+   "guid": "3655fdd14e9337088129e344a6bb129f.16",
+   "lat": 33.458354,
+   "lng": -88.789657,
+   "name": "Dogwood Hall"
+  },
   "368d8602509e4faaaa135ae2a781ef62.16": {
    "guid": "368d8602509e4faaaa135ae2a781ef62.16",
    "lat": 33.470104,
    "lng": -88.824058,
    "name": "J. L. King, Sr. Basketball Court"
+  },
+  "36a4e46ff52f37ab8c8873988a8ccfc1.16": {
+   "guid": "36a4e46ff52f37ab8c8873988a8ccfc1.16",
+   "lat": 33.458537,
+   "lng": -88.793993,
+   "name": "MacArthur Hall"
   },
   "36b8f39cfde83f3bbfd2a54e7330a9a3.16": {
    "guid": "36b8f39cfde83f3bbfd2a54e7330a9a3.16",
@@ -1271,11 +1464,29 @@
    "lng": -88.818114,
    "name": "Bombay Spice Kitchen Indian Restaurant"
   },
+  "37425cfa23ba37b0accc19af6919af32.16": {
+   "guid": "37425cfa23ba37b0accc19af6919af32.16",
+   "lat": 33.447177,
+   "lng": -88.796696,
+   "name": "Rooster Sculpture"
+  },
   "38687adb5bcc3afda3106828b754d793.16": {
    "guid": "38687adb5bcc3afda3106828b754d793.16",
    "lat": 33.46129,
    "lng": -88.813969,
    "name": "Cajun bully statue"
+  },
+  "3a41d621c2b63af3baec43d311c4f2c9.16": {
+   "guid": "3a41d621c2b63af3baec43d311c4f2c9.16",
+   "lat": 33.434888,
+   "lng": -88.860318,
+   "name": "East Mississippi Lumber Company Baseball Field"
+  },
+  "3aca5c16c4863b45b6f0b4ad06e4e59e.16": {
+   "guid": "3aca5c16c4863b45b6f0b4ad06e4e59e.16",
+   "lat": 33.435994,
+   "lng": -88.857546,
+   "name": "Mitchell McNutt & Sams Baseball Field"
   },
   "3c81a8d8abb946e09685ba9a90ada884.16": {
    "guid": "3c81a8d8abb946e09685ba9a90ada884.16",
@@ -1301,6 +1512,12 @@
    "lng": -88.77509,
    "name": "Aspen Heights Dog Park"
   },
+  "405b18612a7f309297b0da358b2456dd.16": {
+   "guid": "405b18612a7f309297b0da358b2456dd.16",
+   "lat": 33.45526,
+   "lng": -88.791017,
+   "name": "MSU Tree Trail: Southern Pecan"
+  },
   "40e64c46596f404ebf21c8e4d096e277.16": {
    "guid": "40e64c46596f404ebf21c8e4d096e277.16",
    "lat": 33.402971,
@@ -1312,6 +1529,12 @@
    "lat": 33.457562,
    "lng": -88.790259,
    "name": "Butler Hall"
+  },
+  "41a87c4554f339c5aa9a6685b22ee775.16": {
+   "guid": "41a87c4554f339c5aa9a6685b22ee775.16",
+   "lat": 33.434151,
+   "lng": -88.857258,
+   "name": "WCBI Baseball Field"
   },
   "439f46ec61af35ecb94515635cb55156.16": {
    "guid": "439f46ec61af35ecb94515635cb55156.16",
@@ -1337,11 +1560,23 @@
    "lng": -88.815301,
    "name": "Old Main District Clock"
   },
+  "44f3feb887743f08887be11f6e62198c.16": {
+   "guid": "44f3feb887743f08887be11f6e62198c.16",
+   "lat": 33.457774,
+   "lng": -88.790249,
+   "name": "Dr. Tait Butler Portrait"
+  },
   "451ce59d16454ab0884eef83fb582809.16": {
    "guid": "451ce59d16454ab0884eef83fb582809.16",
    "lat": 33.464208,
    "lng": -88.791155,
    "name": "Chadwick Lake Walking Trail"
+  },
+  "455221c6190b3fbaad843821e332ed21.16": {
+   "guid": "455221c6190b3fbaad843821e332ed21.16",
+   "lat": 33.46176,
+   "lng": -88.821417,
+   "name": "Coca-Cola mural"
   },
   "4563283dccc6468bbd49d2de4aa3b669.16": {
    "guid": "4563283dccc6468bbd49d2de4aa3b669.16",
@@ -1433,11 +1668,23 @@
    "lng": -88.815305,
    "name": "Welcome Home Starkville Mural"
   },
+  "4c3b7b63a535345fbf4c647bdce61187.16": {
+   "guid": "4c3b7b63a535345fbf4c647bdce61187.16",
+   "lat": 33.469986,
+   "lng": -88.812265,
+   "name": "Old stone grill"
+  },
   "4e46729d3af846c78282e0c4d2ee0082.16": {
    "guid": "4e46729d3af846c78282e0c4d2ee0082.16",
    "lat": 33.274371,
    "lng": -88.790563,
    "name": "Cypress Cove Gazebo"
+  },
+  "4e6448dfa6523b379c192e6906382142.16": {
+   "guid": "4e6448dfa6523b379c192e6906382142.16",
+   "lat": 33.462884,
+   "lng": -88.7513,
+   "name": "Covered Bridge"
   },
   "4f2d42dfca4a46e78c36e1e918426421.16": {
    "guid": "4f2d42dfca4a46e78c36e1e918426421.16",
@@ -1493,6 +1740,12 @@
    "lng": -88.818161,
    "name": "Babe Ruth Park Visitor\u2019s Gate"
   },
+  "5363275ea3e539ecb61668cbb0944f35.16": {
+   "guid": "5363275ea3e539ecb61668cbb0944f35.16",
+   "lat": 33.455612,
+   "lng": -88.785587,
+   "name": "Sessums Hall"
+  },
   "5370d149e198463c8059e696cfd39460.16": {
    "guid": "5370d149e198463c8059e696cfd39460.16",
    "lat": 33.47542,
@@ -1504,6 +1757,12 @@
    "lat": 33.463996,
    "lng": -88.814609,
    "name": "Starkville Cafe"
+  },
+  "54cf0bbfdaa23967aa3d25c890b7b973.16": {
+   "guid": "54cf0bbfdaa23967aa3d25c890b7b973.16",
+   "lat": 33.434851,
+   "lng": -88.859031,
+   "name": "Patti and Jimmy Abraham Playground"
   },
   "54f4471a212536aab8336859b13733c7.16": {
    "guid": "54f4471a212536aab8336859b13733c7.16",
@@ -1529,6 +1788,12 @@
    "lng": -88.827951,
    "name": "Starkville Water Tower"
   },
+  "55f3f37ada1031049c341ca28de5ed31.16": {
+   "guid": "55f3f37ada1031049c341ca28de5ed31.16",
+   "lat": 33.456421,
+   "lng": -88.793786,
+   "name": "Bully I"
+  },
   "56b5d739b7f64031a4e5d820bbe01f72.16": {
    "guid": "56b5d739b7f64031a4e5d820bbe01f72.16",
    "lat": 33.453147,
@@ -1546,6 +1811,12 @@
    "lat": 33.456705,
    "lng": -88.790039,
    "name": "James N Ford Memorial Plaque"
+  },
+  "584a0e9851513621bf3973ec364083bf.16": {
+   "guid": "584a0e9851513621bf3973ec364083bf.16",
+   "lat": 33.453307,
+   "lng": -88.807583,
+   "name": "Power of the Almond Bakery"
   },
   "585420df58f2329196c7d2a6f184ed87.16": {
    "guid": "585420df58f2329196c7d2a6f184ed87.16",
@@ -1577,17 +1848,29 @@
    "lng": -88.790739,
    "name": "Purple Heart University"
   },
-  "5d04dee4595e46539c18466343eb93c3.16": {
-   "guid": "5d04dee4595e46539c18466343eb93c3.16",
-   "lat": 33.457475,
-   "lng": -88.792967,
-   "name": "Davis Wade Stadium Mississippi Monument"
+  "5c7a959e687f389482cdef31226f82b6.16": {
+   "guid": "5c7a959e687f389482cdef31226f82b6.16",
+   "lat": 33.459131,
+   "lng": -88.788891,
+   "name": "Zacharias Village"
   },
   "5d263d79fcee3c1aa6bd17da8008acd7.16": {
    "guid": "5d263d79fcee3c1aa6bd17da8008acd7.16",
    "lat": 33.455688,
    "lng": -88.789342,
    "name": "George Hall"
+  },
+  "5d7d7de77c923175ad76f73888766498.16": {
+   "guid": "5d7d7de77c923175ad76f73888766498.16",
+   "lat": 33.431386,
+   "lng": -88.857109,
+   "name": "Spotlight Sculpture"
+  },
+  "5d92a7627ad63911b417099ee546f9ed.16": {
+   "guid": "5d92a7627ad63911b417099ee546f9ed.16",
+   "lat": 33.463855,
+   "lng": -88.794441,
+   "name": "Cool Papa Bell mural and plaque"
   },
   "5da850ff703d36b9bd9423d1ae27f4fe.16": {
    "guid": "5da850ff703d36b9bd9423d1ae27f4fe.16",
@@ -1618,6 +1901,12 @@
    "lat": 33.469913,
    "lng": -88.782401,
    "name": "Environment Plant Psychology Laboratory"
+  },
+  "5ef8555a33053feabc75ac1cc19f3725.16": {
+   "guid": "5ef8555a33053feabc75ac1cc19f3725.16",
+   "lat": 33.435706,
+   "lng": -88.846252,
+   "name": "George M. Bryan FBO"
   },
   "5fbf76ebc3324675b0454c6d53b2a7da.16": {
    "guid": "5fbf76ebc3324675b0454c6d53b2a7da.16",
@@ -1655,6 +1944,12 @@
    "lng": -88.831625,
    "name": "Mckee Park Basketball Court"
   },
+  "62d9f499b0963cb28d0861943cb67bf8.16": {
+   "guid": "62d9f499b0963cb28d0861943cb67bf8.16",
+   "lat": 33.445915,
+   "lng": -88.800288,
+   "name": "The Hallway of Educational Leaders"
+  },
   "635a80c2257644f199f50ffeb4f6c700.16": {
    "guid": "635a80c2257644f199f50ffeb4f6c700.16",
    "lat": 33.452916,
@@ -1685,11 +1980,17 @@
    "lng": -88.847468,
    "name": "Hollywood Cinemas"
   },
-  "6722aa6a230648efa371c2a3319b81e6.16": {
-   "guid": "6722aa6a230648efa371c2a3319b81e6.16",
-   "lat": 33.451083,
-   "lng": -88.778903,
-   "name": "Fountain at the Pointe"
+  "6629a79686573b429cc11ffeaec2ab57.16": {
+   "guid": "6629a79686573b429cc11ffeaec2ab57.16",
+   "lat": 33.46116,
+   "lng": -88.801257,
+   "name": "The Vista Dog Park"
+  },
+  "667c13ac4377327f986e7a909a67a23d.16": {
+   "guid": "667c13ac4377327f986e7a909a67a23d.16",
+   "lat": 33.470138,
+   "lng": -88.813174,
+   "name": "Surfing bulldog at Moncrief park"
   },
   "676f864a5f4c45fc90ef8bf1913d47d1.16": {
    "guid": "676f864a5f4c45fc90ef8bf1913d47d1.16",
@@ -1733,6 +2034,12 @@
    "lng": -88.833114,
    "name": "Chick Fila Starkville Baseball Field"
   },
+  "6aad9a911808359786b0e527aa8dfcec.16": {
+   "guid": "6aad9a911808359786b0e527aa8dfcec.16",
+   "lat": 33.457501,
+   "lng": -88.796019,
+   "name": "Bost Extension Center Dedication Plaque"
+  },
   "6af6f22d92073407beddbe4937137671.16": {
    "guid": "6af6f22d92073407beddbe4937137671.16",
    "lat": 33.459043,
@@ -1745,6 +2052,12 @@
    "lng": -88.799567,
    "name": "Visual Arts Center 2"
   },
+  "6d85b7bbde6a3f909ff33f67c3df23d0.16": {
+   "guid": "6d85b7bbde6a3f909ff33f67c3df23d0.16",
+   "lat": 33.440804,
+   "lng": -88.794118,
+   "name": "MSU Intramural Softball Field 2"
+  },
   "6eaf62af17b93f04b590e864586aeea9.16": {
    "guid": "6eaf62af17b93f04b590e864586aeea9.16",
    "lat": 33.466074,
@@ -1755,7 +2068,7 @@
    "guid": "6eb515ab2bca34d9a6b8f275f5ff5d74.16",
    "lat": 33.449551,
    "lng": -88.781484,
-   "name": "Social Campus Basketball Court"
+   "name": "The Hangout Basketball Court"
   },
   "6f5e69617530472887bb19b88cec6231.16": {
    "guid": "6f5e69617530472887bb19b88cec6231.16",
@@ -1786,6 +2099,12 @@
    "lat": 33.476457,
    "lng": -88.743325,
    "name": "Truth Tabernacle Church"
+  },
+  "747aba1240933c298568c9a20e62ea45.16": {
+   "guid": "747aba1240933c298568c9a20e62ea45.16",
+   "lat": 33.436646,
+   "lng": -88.857218,
+   "name": "Pinelake Baseball Field"
   },
   "74844d45ed3444959b53d04c0d8cf461.16": {
    "guid": "74844d45ed3444959b53d04c0d8cf461.16",
@@ -1847,6 +2166,12 @@
    "lng": -88.821823,
    "name": "Little Library and Bench"
   },
+  "7bab96341bea3238bf9641cdc8161507.16": {
+   "guid": "7bab96341bea3238bf9641cdc8161507.16",
+   "lat": 33.454307,
+   "lng": -88.788304,
+   "name": "James Worth Bagley Honorary Plaque"
+  },
   "7bb711cdcda7316e8d026d62a8ce61aa.16": {
    "guid": "7bb711cdcda7316e8d026d62a8ce61aa.16",
    "lat": 33.471946,
@@ -1877,6 +2202,12 @@
    "lng": -88.793777,
    "name": "Walk-ons Bully Statue"
   },
+  "7c79b0e1a1b03c6d8886c303df460512.16": {
+   "guid": "7c79b0e1a1b03c6d8886c303df460512.16",
+   "lat": 33.459927,
+   "lng": -88.790642,
+   "name": "Colonel John Ware Thames Memorial"
+  },
   "7c7cdda85cf64fca8f24e251473e3fcb.16": {
    "guid": "7c7cdda85cf64fca8f24e251473e3fcb.16",
    "lat": 33.450331,
@@ -1906,6 +2237,12 @@
    "lat": 33.456404,
    "lng": -88.784773,
    "name": "Mississippi State University Entrance on East Lee Boulevard"
+  },
+  "81a79c0314723cbd9e1a0b8a5de1b756.16": {
+   "guid": "81a79c0314723cbd9e1a0b8a5de1b756.16",
+   "lat": 33.435808,
+   "lng": -88.857315,
+   "name": "Eat With Us Baseball Field"
   },
   "8284a06c2a8f403eaa1c7da2c0a09e28.16": {
    "guid": "8284a06c2a8f403eaa1c7da2c0a09e28.16",
@@ -1948,6 +2285,12 @@
    "lat": 33.462767,
    "lng": -88.805541,
    "name": "Brush Arbor Cemetery"
+  },
+  "850444a4a9d13ba6aa7c694fae14fc71.16": {
+   "guid": "850444a4a9d13ba6aa7c694fae14fc71.16",
+   "lat": 33.4341,
+   "lng": -88.856427,
+   "name": "Cornerstone Park Quad C Picnic Pavilion"
   },
   "853e39577cf936628d7d2d5e62178f91.16": {
    "guid": "853e39577cf936628d7d2d5e62178f91.16",
@@ -2045,6 +2388,18 @@
    "lng": -88.787146,
    "name": "Patterson Engineering Laboratories"
   },
+  "8d6ef0666f043db981ac799d9c7b2a8f.16": {
+   "guid": "8d6ef0666f043db981ac799d9c7b2a8f.16",
+   "lat": 33.445461,
+   "lng": -88.789759,
+   "name": "Helix Starkville Dog Park"
+  },
+  "8d7ad3599e8530e2840537c77e5add48.16": {
+   "guid": "8d7ad3599e8530e2840537c77e5add48.16",
+   "lat": 33.434434,
+   "lng": -88.856227,
+   "name": "Spruill Property Management Baseball Field"
+  },
   "8d857e86de12490b853c7e0a76d6100a.16": {
    "guid": "8d857e86de12490b853c7e0a76d6100a.16",
    "lat": 33.396293,
@@ -2063,6 +2418,24 @@
    "lng": -88.780786,
    "name": "Greater Ebenezer Baptist Church"
   },
+  "8e7ac795e46d31eabb9590d9346890a8.16": {
+   "guid": "8e7ac795e46d31eabb9590d9346890a8.16",
+   "lat": 33.448279,
+   "lng": -88.788997,
+   "name": "The Lance Practice Field"
+  },
+  "8f1fb113142a3cee9cb73d937f2779cc.16": {
+   "guid": "8f1fb113142a3cee9cb73d937f2779cc.16",
+   "lat": 33.436332,
+   "lng": -88.856565,
+   "name": "Mississippi State Baseball Field"
+  },
+  "8f52d30bfe3431c7851419529ec294a3.16": {
+   "guid": "8f52d30bfe3431c7851419529ec294a3.16",
+   "lat": 33.455886,
+   "lng": -88.823057,
+   "name": "Cedar cover public pool"
+  },
   "8ff2f488c5504797b7675c0ffb37aeac.16": {
    "guid": "8ff2f488c5504797b7675c0ffb37aeac.16",
    "lat": 33.444014,
@@ -2074,6 +2447,18 @@
    "lat": 33.444989,
    "lng": -88.83197,
    "name": "McKee Park Tennis Courts"
+  },
+  "90f93ebcf9103431aa78081610a745f8.16": {
+   "guid": "90f93ebcf9103431aa78081610a745f8.16",
+   "lat": 33.446866,
+   "lng": -88.79699,
+   "name": "Poultry Science Sign"
+  },
+  "90fbe8b5c41b3154849cc1d70c53b1ed.16": {
+   "guid": "90fbe8b5c41b3154849cc1d70c53b1ed.16",
+   "lat": 33.459072,
+   "lng": -88.790566,
+   "name": "Deavenport Hall"
   },
   "916523c57e233bf5a29bb0e240a328f9.16": {
    "guid": "916523c57e233bf5a29bb0e240a328f9.16",
@@ -2105,6 +2490,12 @@
    "lng": -88.791934,
    "name": "Dedicated 4H Flagpole"
   },
+  "938eb12556733f2e8023cba7ecd20849.16": {
+   "guid": "938eb12556733f2e8023cba7ecd20849.16",
+   "lat": 33.446716,
+   "lng": -88.817593,
+   "name": "Master Gardener Memorial Garden"
+  },
   "93a2f3dc6e0e4b2dbbbe28f5241f2c3c.16": {
    "guid": "93a2f3dc6e0e4b2dbbbe28f5241f2c3c.16",
    "lat": 33.462626,
@@ -2116,6 +2507,12 @@
    "lat": 33.457228,
    "lng": -88.791821,
    "name": "Freeman Hall"
+  },
+  "9457e22153c5350f941cf5dac7b30200.16": {
+   "guid": "9457e22153c5350f941cf5dac7b30200.16",
+   "lat": 33.462455,
+   "lng": -88.795914,
+   "name": "Palmiero Center"
   },
   "9529651736a34a87874d3bbf3f0fd3ed.16": {
    "guid": "9529651736a34a87874d3bbf3f0fd3ed.16",
@@ -2159,11 +2556,35 @@
    "lng": -88.790467,
    "name": "Sanderson Center Get Moving Artwork"
   },
+  "9a8451264ded3ace9b104c632c4dc4fc.16": {
+   "guid": "9a8451264ded3ace9b104c632c4dc4fc.16",
+   "lat": 33.450964,
+   "lng": -88.786533,
+   "name": "Petroleum Products Laboratory"
+  },
   "9ae4295004f144e984770fdf84281cfa.16": {
    "guid": "9ae4295004f144e984770fdf84281cfa.16",
    "lat": 33.471334,
    "lng": -88.824267,
    "name": "J. L. King, Sr. Disc Golf Course"
+  },
+  "9b485045c9e237ba819531f3caf1fa7e.16": {
+   "guid": "9b485045c9e237ba819531f3caf1fa7e.16",
+   "lat": 33.435363,
+   "lng": -88.858407,
+   "name": "Tee Ball Viewing Area"
+  },
+  "9c018fa597ce30b3a846e4d1406cdf00.16": {
+   "guid": "9c018fa597ce30b3a846e4d1406cdf00.16",
+   "lat": 33.457276,
+   "lng": -88.78702,
+   "name": "Critz Hall Courtyard"
+  },
+  "9c1178ffb5d23b878b07fccc296b95ac.16": {
+   "guid": "9c1178ffb5d23b878b07fccc296b95ac.16",
+   "lat": 33.458467,
+   "lng": -88.793318,
+   "name": "Bob and Kathy Luke Library"
   },
   "9c126dca24994b1c9fbb7ea63dfc148e.16": {
    "guid": "9c126dca24994b1c9fbb7ea63dfc148e.16",
@@ -2176,6 +2597,18 @@
    "lat": 33.449423,
    "lng": -88.822769,
    "name": "Victory Center Cross"
+  },
+  "9d113d6788a63c748ff28894051f6bf2.16": {
+   "guid": "9d113d6788a63c748ff28894051f6bf2.16",
+   "lat": 33.455191,
+   "lng": -88.793694,
+   "name": "MSU Tree Trail: Southern Magnolia"
+  },
+  "9e5e1e9f278039b6a8e5dcf3605a067f.16": {
+   "guid": "9e5e1e9f278039b6a8e5dcf3605a067f.16",
+   "lat": 33.464452,
+   "lng": -88.811437,
+   "name": "Commerce main street bell"
   },
   "9e7787abd9a730f497ef6e949b3bb4c9.16": {
    "guid": "9e7787abd9a730f497ef6e949b3bb4c9.16",
@@ -2213,6 +2646,12 @@
    "lng": -88.831995,
    "name": "Sportsplex Pedestrian Bridge 2"
   },
+  "a2b202b90355356b85fa470f727939dc.16": {
+   "guid": "a2b202b90355356b85fa470f727939dc.16",
+   "lat": 33.436677,
+   "lng": -88.856641,
+   "name": "Cornerstone Park Quad B Picnic Pavilion"
+  },
   "a2c2200528313ec8a55c6c944cfc9585.16": {
    "guid": "a2c2200528313ec8a55c6c944cfc9585.16",
    "lat": 33.45057,
@@ -2237,6 +2676,12 @@
    "lng": -88.818748,
    "name": "Clock Tower"
   },
+  "a551e434c967354790944e10f81e372f.16": {
+   "guid": "a551e434c967354790944e10f81e372f.16",
+   "lat": 33.461441,
+   "lng": -88.817528,
+   "name": "Starkville Korean Church"
+  },
   "a600161fa7974e9e9dc4b848d404edc9.16": {
    "guid": "a600161fa7974e9e9dc4b848d404edc9.16",
    "lat": 33.451267,
@@ -2255,6 +2700,18 @@
    "lng": -88.780965,
    "name": "Rodney Foil Plant Research Center"
   },
+  "a6cb6c196d693f77bac1f1dc64d712c5.16": {
+   "guid": "a6cb6c196d693f77bac1f1dc64d712c5.16",
+   "lat": 33.456844,
+   "lng": -88.792901,
+   "name": "Bully XIX"
+  },
+  "a6f8ae4f5ae6407280a54fcc09f35e0c.16": {
+   "guid": "a6f8ae4f5ae6407280a54fcc09f35e0c.16",
+   "lat": 33.506104,
+   "lng": -88.741477,
+   "name": "Lindsey Chapel United Methodist Church"
+  },
   "a7f4ae17c73441e29717cbfcc934f663.16": {
    "guid": "a7f4ae17c73441e29717cbfcc934f663.16",
    "lat": 33.429615,
@@ -2267,6 +2724,12 @@
    "lng": -88.798363,
    "name": "Rusty the Dog"
   },
+  "a8d20bce8cef31faaccefc379759e251.16": {
+   "guid": "a8d20bce8cef31faaccefc379759e251.16",
+   "lat": 33.45832,
+   "lng": -88.794694,
+   "name": "MacArthur Cafe Picnic Area"
+  },
   "a9a1ef83c81a376a93955e19adac6c87.16": {
    "guid": "a9a1ef83c81a376a93955e19adac6c87.16",
    "lat": 33.46136,
@@ -2278,12 +2741,6 @@
    "lat": 33.456057,
    "lng": -88.794787,
    "name": "Willie Daniel Memorial"
-  },
-  "aacdf261d5c74f2aa5d97b0c246ff694.16": {
-   "guid": "aacdf261d5c74f2aa5d97b0c246ff694.16",
-   "lat": 33.449636,
-   "lng": -88.79202,
-   "name": "MSU Armed Forces Flag Display"
   },
   "ab728905723c49c98954d10110643b58.11": {
    "guid": "ab728905723c49c98954d10110643b58.11",
@@ -2321,6 +2778,12 @@
    "lng": -88.787419,
    "name": "Critz Hall"
   },
+  "aedf1bf9258231118df37de0c8d39b17.16": {
+   "guid": "aedf1bf9258231118df37de0c8d39b17.16",
+   "lat": 33.434779,
+   "lng": -88.858471,
+   "name": "Cornerstone Park Pavilion"
+  },
   "aee2d58734b23e57b553b46c4987115a.16": {
    "guid": "aee2d58734b23e57b553b46c4987115a.16",
    "lat": 33.460963,
@@ -2345,17 +2808,53 @@
    "lng": -88.802349,
    "name": "Historic Cotton District"
   },
+  "b0b08b3cfea93cfa996354cbbde4b4a8.16": {
+   "guid": "b0b08b3cfea93cfa996354cbbde4b4a8.16",
+   "lat": 33.457647,
+   "lng": -88.785653,
+   "name": "Nunnelee Hall"
+  },
   "b0dd8591e018438a9db2863d4469730d.16": {
    "guid": "b0dd8591e018438a9db2863d4469730d.16",
    "lat": 33.460482,
    "lng": -88.783999,
    "name": "Gazebo At Starkville Church Of Christ"
   },
+  "b12b8c5dab7030839b5765d8789278a2.16": {
+   "guid": "b12b8c5dab7030839b5765d8789278a2.16",
+   "lat": 33.465922,
+   "lng": -88.789418,
+   "name": "Elizabeth Paschall memorial plate"
+  },
   "b16ae8655aee4be6907ed151f1d77a69.16": {
    "guid": "b16ae8655aee4be6907ed151f1d77a69.16",
    "lat": 33.450567,
    "lng": -88.7905,
    "name": "MSU Art Gallery"
+  },
+  "b1897eee3a94346ab9f877e0cad4f92d.16": {
+   "guid": "b1897eee3a94346ab9f877e0cad4f92d.16",
+   "lat": 33.456452,
+   "lng": -88.821883,
+   "name": "Cedar cover marked"
+  },
+  "b2165fce8f94380798ce59cddf008a73.16": {
+   "guid": "b2165fce8f94380798ce59cddf008a73.16",
+   "lat": 33.456592,
+   "lng": -88.794013,
+   "name": "Maroon and White Mural"
+  },
+  "b2689a053764328ca1a04ea3b3d3e831.16": {
+   "guid": "b2689a053764328ca1a04ea3b3d3e831.16",
+   "lat": 33.433753,
+   "lng": -88.856786,
+   "name": "Clark Beverage Group Baseball Field"
+  },
+  "b34ee7234fa3360f96de054845d008d0.16": {
+   "guid": "b34ee7234fa3360f96de054845d008d0.16",
+   "lat": 33.445101,
+   "lng": -88.851118,
+   "name": "Cotton District Mural"
   },
   "b371e3aa00eb4c2eb6138398351ab898.16": {
    "guid": "b371e3aa00eb4c2eb6138398351ab898.16",
@@ -2393,6 +2892,12 @@
    "lng": -88.817405,
    "name": "Starkville City Hall"
   },
+  "b85b41816ad4302a93991893a244f33d.16": {
+   "guid": "b85b41816ad4302a93991893a244f33d.16",
+   "lat": 33.455799,
+   "lng": -88.788849,
+   "name": "Psychology Research Poster Displays"
+  },
   "b9bf9a6f4baa45268cd6928d3537e80f.16": {
    "guid": "b9bf9a6f4baa45268cd6928d3537e80f.16",
    "lat": 33.463113,
@@ -2404,6 +2909,12 @@
    "lat": 33.476224,
    "lng": -88.811162,
    "name": "Sudduth Walking Track"
+  },
+  "bb1325e3c12d3912aa70af7efc03a5c8.16": {
+   "guid": "bb1325e3c12d3912aa70af7efc03a5c8.16",
+   "lat": 33.457085,
+   "lng": -88.794166,
+   "name": "Dak Prescott Mural"
   },
   "bd7e3755789e4616a8af53ecabd05141.16": {
    "guid": "bd7e3755789e4616a8af53ecabd05141.16",
@@ -2447,6 +2958,12 @@
    "lng": -88.790369,
    "name": "Mississippi Technology Center"
   },
+  "c1b6a541314a30c4b357628b18a8214d.16": {
+   "guid": "c1b6a541314a30c4b357628b18a8214d.16",
+   "lat": 33.435608,
+   "lng": -88.860574,
+   "name": "Kona Ice Baseball Field"
+  },
   "c2842656952445f489fc7a78fe193b99.16": {
    "guid": "c2842656952445f489fc7a78fe193b99.16",
    "lat": 33.462797,
@@ -2458,6 +2975,12 @@
    "lat": 33.459569,
    "lng": -88.8137,
    "name": "Overstreet School District"
+  },
+  "c389ee6f07d03c91ad87aa495e15c84e.16": {
+   "guid": "c389ee6f07d03c91ad87aa495e15c84e.16",
+   "lat": 33.43582,
+   "lng": -88.856359,
+   "name": "MSU Eat With Us Batting Cages"
   },
   "c3bdd49470b43684a18f3061845f1bd5.16": {
    "guid": "c3bdd49470b43684a18f3061845f1bd5.16",
@@ -2561,6 +3084,12 @@
    "lng": -88.795376,
    "name": "Sustainable Energy Research Center"
   },
+  "cc1e5175f4cf3e25adaca3948df60e48.16": {
+   "guid": "cc1e5175f4cf3e25adaca3948df60e48.16",
+   "lat": 33.50613,
+   "lng": -88.738863,
+   "name": "16th Section Missionary Baptist Church"
+  },
   "cc2bf3224b5f358a803315872a9286f1.16": {
    "guid": "cc2bf3224b5f358a803315872a9286f1.16",
    "lat": 33.459916,
@@ -2585,6 +3114,12 @@
    "lng": -88.786883,
    "name": "A. B. McKay Food and Enology Laboratory"
   },
+  "cee6cf0cd6ac39d0872c84b03e17c225.16": {
+   "guid": "cee6cf0cd6ac39d0872c84b03e17c225.16",
+   "lat": 33.435316,
+   "lng": -88.859734,
+   "name": "Chick-fil-A Baseball Field"
+  },
   "cfc956000e6c448db505a22805bfbedc.16": {
    "guid": "cfc956000e6c448db505a22805bfbedc.16",
    "lat": 33.445926,
@@ -2596,6 +3131,12 @@
    "lat": 33.464596,
    "lng": -88.813846,
    "name": "City of Starkville Mural"
+  },
+  "cfe1f003efc1368393ceeb74045143b8.16": {
+   "guid": "cfe1f003efc1368393ceeb74045143b8.16",
+   "lat": 33.439014,
+   "lng": -88.791544,
+   "name": "MSU ARC Horse Barn"
   },
   "d1f04d261dbf4b5bb83c372dce5c2ddb.16": {
    "guid": "d1f04d261dbf4b5bb83c372dce5c2ddb.16",
@@ -2621,11 +3162,23 @@
    "lng": -88.74326,
    "name": "Dobbs Park"
   },
+  "d40c79515f2a3fed924716d6b0d3b6ce.16": {
+   "guid": "d40c79515f2a3fed924716d6b0d3b6ce.16",
+   "lat": 33.458371,
+   "lng": -88.790605,
+   "name": "Paw Print Trail"
+  },
   "d453856f41884f63b44297171ca8fd71.16": {
    "guid": "d453856f41884f63b44297171ca8fd71.16",
    "lat": 33.471186,
    "lng": -88.788808,
    "name": "NSPARC Data Center"
+  },
+  "d4decd9e152c3187b64c4d17d0f2e449.16": {
+   "guid": "d4decd9e152c3187b64c4d17d0f2e449.16",
+   "lat": 33.43571,
+   "lng": -88.859999,
+   "name": "Kona Chick-fil-A  Batting Cages"
   },
   "d5895ecb63b944c594af770f332d4b4a.12": {
    "guid": "d5895ecb63b944c594af770f332d4b4a.12",
@@ -2661,7 +3214,7 @@
    "guid": "d898fdcabff9355aaf470daaa2372b11.16",
    "lat": 33.451517,
    "lng": -88.852107,
-   "name": "Starkville Church of Jesus Christ of Latter Day Saints"
+   "name": "The Church of Jesus Christ of Latter-day Saints"
   },
   "d8fa8a5348d0470a8ffcb6e531be213f.16": {
    "guid": "d8fa8a5348d0470a8ffcb6e531be213f.16",
@@ -2673,7 +3226,13 @@
    "guid": "d963b8aec8be4cc48f522150d51a58b1.16",
    "lat": 33.463994,
    "lng": -88.812651,
-   "name": "First Presbyterian Church Starkville"
+   "name": "First Presbyterian Church Historic Marker"
+  },
+  "d9fc689725fe354ab3c1d88a2e4435f9.16": {
+   "guid": "d9fc689725fe354ab3c1d88a2e4435f9.16",
+   "lat": 33.441229,
+   "lng": -88.794282,
+   "name": "MSU Intramural Softball Field 1"
   },
   "daafefba4c063906bb566a50acbba3bb.16": {
    "guid": "daafefba4c063906bb566a50acbba3bb.16",
@@ -2686,6 +3245,12 @@
    "lat": 33.442334,
    "lng": -88.810677,
    "name": "Starkville Fire Department"
+  },
+  "dd133ca27a703270b871b259cd3bf6de.16": {
+   "guid": "dd133ca27a703270b871b259cd3bf6de.16",
+   "lat": 33.440799,
+   "lng": -88.794563,
+   "name": "MSU Intramural Softball Field 3"
   },
   "dd144be4586349aca37670e7ce79709a.12": {
    "guid": "dd144be4586349aca37670e7ce79709a.12",
@@ -2704,6 +3269,12 @@
    "lat": 33.484054,
    "lng": -88.815732,
    "name": "Starkville Fire Department"
+  },
+  "e040db964ae63ae894f4449efec3b9bc.16": {
+   "guid": "e040db964ae63ae894f4449efec3b9bc.16",
+   "lat": 33.454365,
+   "lng": -88.782847,
+   "name": "The Social Campus Picnic Area"
   },
   "e04519878ed64982be2c10d08d3a7218.16": {
    "guid": "e04519878ed64982be2c10d08d3a7218.16",
@@ -2735,11 +3306,23 @@
    "lng": -88.829284,
    "name": "Starkville Sportsplex"
   },
+  "e4553611f98e3620a820205cce40afd0.16": {
+   "guid": "e4553611f98e3620a820205cce40afd0.16",
+   "lat": 33.455568,
+   "lng": -88.79289,
+   "name": "The Pat and Jill White Family Gate"
+  },
   "e60326aef4d94fdba89be53f46e216f8.16": {
    "guid": "e60326aef4d94fdba89be53f46e216f8.16",
    "lat": 33.470331,
    "lng": -88.728742,
    "name": "Fellowship Baptist Church"
+  },
+  "e60e468572a634599f66d022eadca334.16": {
+   "guid": "e60e468572a634599f66d022eadca334.16",
+   "lat": 33.441102,
+   "lng": -88.794656,
+   "name": "MSU Intramural Softball Field 4"
   },
   "e73432b9c668433695f37b82f06f5492.16": {
    "guid": "e73432b9c668433695f37b82f06f5492.16",
@@ -2759,6 +3342,18 @@
    "lng": -88.825957,
    "name": "J. L. King Park Splash Pad"
   },
+  "e83bf4371b7f340e81b8fe4dff9a5411.16": {
+   "guid": "e83bf4371b7f340e81b8fe4dff9a5411.16",
+   "lat": 33.445943,
+   "lng": -88.788407,
+   "name": "Helix Office"
+  },
+  "e8a7d3981d4c304c8dee1779ec0bdada.16": {
+   "guid": "e8a7d3981d4c304c8dee1779ec0bdada.16",
+   "lat": 33.434661,
+   "lng": -88.856593,
+   "name": "Spruill Walk-On's Batting Cages"
+  },
   "e8c1c08d0fc94ccc85a6b03ddb6f454f.16": {
    "guid": "e8c1c08d0fc94ccc85a6b03ddb6f454f.16",
    "lat": 33.453075,
@@ -2776,6 +3371,18 @@
    "lat": 33.448703,
    "lng": -88.774217,
    "name": "Aspen Heights Volleyball Pit"
+  },
+  "ea1e015ab59b33ca96e68ea1fb2fcdb8.16": {
+   "guid": "ea1e015ab59b33ca96e68ea1fb2fcdb8.16",
+   "lat": 33.458131,
+   "lng": -88.793513,
+   "name": "Giles Hall"
+  },
+  "ea55cde4b9d43026b312b584242033f5.16": {
+   "guid": "ea55cde4b9d43026b312b584242033f5.16",
+   "lat": 33.454375,
+   "lng": -88.789956,
+   "name": "Class of 2015 Plaza"
   },
   "eb3c3ece9cf84a66916bdb87ade33e47.16": {
    "guid": "eb3c3ece9cf84a66916bdb87ade33e47.16",
@@ -2807,6 +3414,12 @@
    "lng": -88.782099,
    "name": "Tennis Courts at Campus Trails"
   },
+  "ef120064eac1340bb1af0a9eebe15e21.16": {
+   "guid": "ef120064eac1340bb1af0a9eebe15e21.16",
+   "lat": 33.458171,
+   "lng": -88.79818,
+   "name": "Class of 1922 Memorial"
+  },
   "ef83919c7ffb35c2b984b03659890a3c.16": {
    "guid": "ef83919c7ffb35c2b984b03659890a3c.16",
    "lat": 33.439658,
@@ -2825,11 +3438,23 @@
    "lng": -88.793901,
    "name": "Frank Turman Field House"
   },
+  "f225c79541353f07a7d48ee2a0300729.16": {
+   "guid": "f225c79541353f07a7d48ee2a0300729.16",
+   "lat": 33.44946,
+   "lng": -88.796278,
+   "name": "Pace Seed Building"
+  },
   "f2fab357642d4819a581fc6fe3a5db29.12": {
    "guid": "f2fab357642d4819a581fc6fe3a5db29.12",
    "lat": 33.455546,
    "lng": -88.790393,
    "name": "Mississippi State University"
+  },
+  "f31059895a053ccda877df5f328561d3.16": {
+   "guid": "f31059895a053ccda877df5f328561d3.16",
+   "lat": 33.453787,
+   "lng": -88.792813,
+   "name": "Agriculture & Biological Engineering department"
   },
   "f3138a898baf455ba8d76cd911997545.16": {
    "guid": "f3138a898baf455ba8d76cd911997545.16",
@@ -2867,6 +3492,12 @@
    "lng": -88.828989,
    "name": "Gentry Signs Ballfield"
   },
+  "f68a51beaac93ac2851ea0fa385f8698.16": {
+   "guid": "f68a51beaac93ac2851ea0fa385f8698.16",
+   "lat": 33.476492,
+   "lng": -88.812182,
+   "name": "Sudduth Park Basketball Court"
+  },
   "f71b61efc688470191e17540afc32e76.16": {
    "guid": "f71b61efc688470191e17540afc32e76.16",
    "lat": 33.43862,
@@ -2879,17 +3510,35 @@
    "lng": -88.815725,
    "name": "First Baptist Church"
   },
+  "f8ede3c73013373c925394b2f9df1b85.16": {
+   "guid": "f8ede3c73013373c925394b2f9df1b85.16",
+   "lat": 33.454385,
+   "lng": -88.783096,
+   "name": "The Social Campus Basketball Court"
+  },
   "f94a60734d2f4a8ebecdd8165354127b.16": {
    "guid": "f94a60734d2f4a8ebecdd8165354127b.16",
    "lat": 33.453145,
    "lng": -88.79694,
    "name": "MSU Community Garden"
   },
+  "f99ebfb8ffb937fdb802f2b380de7787.16": {
+   "guid": "f99ebfb8ffb937fdb802f2b380de7787.16",
+   "lat": 33.466031,
+   "lng": -88.792012,
+   "name": "Gregory Puckett memorial plate"
+  },
   "f9a62450a1183f3f8d817e2c949748ab.16": {
    "guid": "f9a62450a1183f3f8d817e2c949748ab.16",
    "lat": 33.450068,
    "lng": -88.826423,
    "name": "Memorial Light in honor of \u201cMike\u201d Turnipseed"
+  },
+  "fc3f42017ff9370c92ca93f592a09a6f.16": {
+   "guid": "fc3f42017ff9370c92ca93f592a09a6f.16",
+   "lat": 33.436684,
+   "lng": -88.857598,
+   "name": "Cornerstone Park North Batting Cages"
   },
   "fcfc04599b764021bd2584114226ac91.16": {
    "guid": "fcfc04599b764021bd2584114226ac91.16",
@@ -2921,5 +3570,6 @@
    "lng": -88.783284,
    "name": "Down To Game"
   }
- }
+ },
+ "waypoints": {}
 }
